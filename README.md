@@ -34,7 +34,7 @@ Finally, I wanted to observe the poverty ratio. This is measured as the percenta
 
 ## Conclusions
 
-Clearly, the economies of the former Soviet Union are intertwined. However, not all effects are experienced equally for all countries. Due to it's small size and poverty, I predicted the indicators for Moldova to show an exaggerated effect compared to Russia. Sometimes this was the case, and others it was not. When the Russian economy suffered due to sanctions, Moldova's showed only a small negative effect. In addition, Romania seemed completely immune to negative effects on the Russian economy for the indicators observed. This could be due to Romania <a href=https://en.wikipedia.org/wiki/Romania> favoring the EU</a> since the end of the Cold War. 
+Clearly, the economies of the former Soviet Union are intertwined. However, not all effects are experienced equally for all countries. Due to it's small size and poverty, I predicted the indicators for Moldova to show an exaggerated effect compared to Russia. Sometimes this was the case, and others it was not. When the Russian economy suffered due to sanctions, Moldova's showed only a small negative effect. In addition, Romania seemed completely immune to negative effects on the Russian economy for the indicators observed. This could be due to Romania <a href=https://en.wikipedia.org/wiki/Romania> favoring the EU</a> since the end of the Cold War. Attitudes in Moldova seem to increasingly favor the West over Russia, with pro-European parties winning 57 of the 101 seats in Congress in the recent election. It would be interesting in the future to see if pro-Western attitudes help Moldova's economy behave more like Romania's than Ukraine's.
 
 
 ![](images/51489586_10156787146531636_8991342866844352512_n.jpg)
