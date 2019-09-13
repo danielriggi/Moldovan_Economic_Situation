@@ -22,6 +22,10 @@ Next I wanted to visualize currency inflation of the former Soviet countries fol
 
 ![](images/inflation.png)
 
+Bar graph showing inflation including larger economies which had data back to 1960:
+
+![](images/inflation_bar.png)
+
 
 I wanted to get a closer look at the inflation spike barely visible for Belarus in the 2000's. Here, you can see some effects that the international sanctions on Russia had on the region:
 
