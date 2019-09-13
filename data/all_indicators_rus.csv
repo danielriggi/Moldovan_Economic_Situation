@@ -1,0 +1,1684 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+num
+Russian Federation,RUS,2017,"Population, total",SP.POP.TOTL,144495044
+Russian Federation,RUS,2016,"Population, total",SP.POP.TOTL,144342396
+Russian Federation,RUS,2015,"Population, total",SP.POP.TOTL,144096870
+Russian Federation,RUS,2014,"Population, total",SP.POP.TOTL,143819666
+Russian Federation,RUS,2013,"Population, total",SP.POP.TOTL,143506911
+Russian Federation,RUS,2012,"Population, total",SP.POP.TOTL,143201676
+Russian Federation,RUS,2011,"Population, total",SP.POP.TOTL,142960868
+Russian Federation,RUS,2010,"Population, total",SP.POP.TOTL,142849449
+Russian Federation,RUS,2009,"Population, total",SP.POP.TOTL,142785342
+Russian Federation,RUS,2008,"Population, total",SP.POP.TOTL,142742350
+Russian Federation,RUS,2007,"Population, total",SP.POP.TOTL,142805088
+Russian Federation,RUS,2006,"Population, total",SP.POP.TOTL,143049528
+Russian Federation,RUS,2005,"Population, total",SP.POP.TOTL,143518523
+Russian Federation,RUS,2004,"Population, total",SP.POP.TOTL,144067054
+Russian Federation,RUS,2003,"Population, total",SP.POP.TOTL,144648257
+Russian Federation,RUS,2002,"Population, total",SP.POP.TOTL,145306046
+Russian Federation,RUS,2001,"Population, total",SP.POP.TOTL,145976083
+Russian Federation,RUS,2000,"Population, total",SP.POP.TOTL,146596557
+Russian Federation,RUS,1999,"Population, total",SP.POP.TOTL,147214392
+Russian Federation,RUS,1998,"Population, total",SP.POP.TOTL,147670692
+Russian Federation,RUS,1997,"Population, total",SP.POP.TOTL,147915307
+Russian Federation,RUS,1996,"Population, total",SP.POP.TOTL,148160042
+Russian Federation,RUS,1995,"Population, total",SP.POP.TOTL,148375726
+Russian Federation,RUS,1994,"Population, total",SP.POP.TOTL,148336000
+Russian Federation,RUS,1993,"Population, total",SP.POP.TOTL,148520000
+Russian Federation,RUS,1992,"Population, total",SP.POP.TOTL,148689000
+Russian Federation,RUS,1991,"Population, total",SP.POP.TOTL,148624000
+Russian Federation,RUS,1990,"Population, total",SP.POP.TOTL,148292000
+Russian Federation,RUS,1989,"Population, total",SP.POP.TOTL,147721000
+Russian Federation,RUS,1988,"Population, total",SP.POP.TOTL,146857000
+Russian Federation,RUS,1987,"Population, total",SP.POP.TOTL,145908000
+Russian Federation,RUS,1986,"Population, total",SP.POP.TOTL,144894000
+Russian Federation,RUS,1985,"Population, total",SP.POP.TOTL,143858000
+Russian Federation,RUS,1984,"Population, total",SP.POP.TOTL,142745000
+Russian Federation,RUS,1983,"Population, total",SP.POP.TOTL,141668000
+Russian Federation,RUS,1982,"Population, total",SP.POP.TOTL,140823000
+Russian Federation,RUS,1981,"Population, total",SP.POP.TOTL,139941000
+Russian Federation,RUS,1980,"Population, total",SP.POP.TOTL,139010000
+Russian Federation,RUS,1979,"Population, total",SP.POP.TOTL,138027000
+Russian Federation,RUS,1978,"Population, total",SP.POP.TOTL,137060000
+Russian Federation,RUS,1977,"Population, total",SP.POP.TOTL,136100000
+Russian Federation,RUS,1976,"Population, total",SP.POP.TOTL,135147000
+Russian Federation,RUS,1975,"Population, total",SP.POP.TOTL,134200000
+Russian Federation,RUS,1974,"Population, total",SP.POP.TOTL,133432000
+Russian Federation,RUS,1973,"Population, total",SP.POP.TOTL,132669000
+Russian Federation,RUS,1972,"Population, total",SP.POP.TOTL,131909000
+Russian Federation,RUS,1971,"Population, total",SP.POP.TOTL,131155000
+Russian Federation,RUS,1970,"Population, total",SP.POP.TOTL,130404000
+Russian Federation,RUS,1969,"Population, total",SP.POP.TOTL,129664000
+Russian Federation,RUS,1968,"Population, total",SP.POP.TOTL,128928000
+Russian Federation,RUS,1967,"Population, total",SP.POP.TOTL,128196000
+Russian Federation,RUS,1966,"Population, total",SP.POP.TOTL,127468000
+Russian Federation,RUS,1965,"Population, total",SP.POP.TOTL,126745000
+Russian Federation,RUS,1964,"Population, total",SP.POP.TOTL,125345000
+Russian Federation,RUS,1963,"Population, total",SP.POP.TOTL,123960000
+Russian Federation,RUS,1962,"Population, total",SP.POP.TOTL,122591000
+Russian Federation,RUS,1961,"Population, total",SP.POP.TOTL,121236000
+Russian Federation,RUS,1960,"Population, total",SP.POP.TOTL,119897000
+Russian Federation,RUS,2017,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.7845994935077
+Russian Federation,RUS,2016,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.0103366548128
+Russian Federation,RUS,2015,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.3583072790716
+Russian Federation,RUS,2014,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.9690103023115
+Russian Federation,RUS,2013,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.6756911870918
+Russian Federation,RUS,2012,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.4475607304908
+Russian Federation,RUS,2011,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.2749782322041
+Russian Federation,RUS,2010,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.1703311627859
+Russian Federation,RUS,2009,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.3226744890974
+Russian Federation,RUS,2008,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.6426478993981
+Russian Federation,RUS,2007,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.0570497716911
+Russian Federation,RUS,2006,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.3825833795893
+Russian Federation,RUS,2005,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.4613930652929
+Russian Federation,RUS,2004,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.549331768646
+Russian Federation,RUS,2003,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.2924006108814
+Russian Federation,RUS,2002,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.8049214415848
+Russian Federation,RUS,2001,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.3089970309869
+Russian Federation,RUS,2000,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.9513006220424
+Russian Federation,RUS,1999,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.9313053137738
+Russian Federation,RUS,1998,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.0788210263
+Russian Federation,RUS,1997,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.2997253042448
+Russian Federation,RUS,1996,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.4029683303138
+Russian Federation,RUS,1995,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.2525321976683
+Russian Federation,RUS,1994,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.9431780175963
+Russian Federation,RUS,1993,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.3913862250424
+Russian Federation,RUS,1992,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.6856851083807
+Russian Federation,RUS,1991,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.9934954018803
+Russian Federation,RUS,1990,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.4292728239802
+Russian Federation,RUS,1989,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.0382550175241
+Russian Federation,RUS,1988,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.7978392942782
+Russian Federation,RUS,1987,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.6795150221795
+Russian Federation,RUS,1986,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.6204911022916
+Russian Federation,RUS,1985,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.5752343759115
+Russian Federation,RUS,1984,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.6803412829362
+Russian Federation,RUS,1983,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.8471556622197
+Russian Federation,RUS,1982,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.0248151427349
+Russian Federation,RUS,1981,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.1290574062064
+Russian Federation,RUS,1980,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.094661483654
+Russian Federation,RUS,1979,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.9452505993372
+Russian Federation,RUS,1978,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.631615158256
+Russian Federation,RUS,1977,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.196321483141
+Russian Federation,RUS,1976,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.7296130298234
+Russian Federation,RUS,1975,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.2932798564556
+Russian Federation,RUS,1974,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.9194974656981
+Russian Federation,RUS,1973,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.5899516292939
+Russian Federation,RUS,1972,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.2928137248011
+Russian Federation,RUS,1971,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,11.9984368444869
+Russian Federation,RUS,1970,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,11.6855667671591
+Russian Federation,RUS,1969,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,11.415987001121
+Russian Federation,RUS,1968,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,11.155969768711
+Russian Federation,RUS,1967,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.904582458053
+Russian Federation,RUS,1966,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.6659589545176
+Russian Federation,RUS,1965,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.4418557097689
+Russian Federation,RUS,1964,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.2549690880039
+Russian Federation,RUS,1963,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,10.0991164979945
+Russian Federation,RUS,1962,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.95355930624113
+Russian Federation,RUS,1961,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.78607749952002
+Russian Federation,RUS,1960,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,9.57572524148467
+Russian Federation,RUS,2017,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,25.8083141709363
+Russian Federation,RUS,2016,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,25.0908548691785
+Russian Federation,RUS,2015,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,24.1574973662385
+Russian Federation,RUS,2014,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,23.3769653170778
+Russian Federation,RUS,2013,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,22.5095638319646
+Russian Federation,RUS,2012,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,21.6643547003558
+Russian Federation,RUS,2011,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,21.016377401284
+Russian Federation,RUS,2010,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,20.6751977732687
+Russian Federation,RUS,2009,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,20.4537834000972
+Russian Federation,RUS,2008,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,20.4307660362749
+Russian Federation,RUS,2007,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,20.59957459839
+Russian Federation,RUS,2006,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,20.9321804080885
+Russian Federation,RUS,2005,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,21.3682581379122
+Russian Federation,RUS,2004,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,22.1148971621254
+Russian Federation,RUS,2003,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,23.1035184826124
+Russian Federation,RUS,2002,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,24.2437563425371
+Russian Federation,RUS,2001,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,25.3547886064219
+Russian Federation,RUS,2000,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,26.3209279004556
+Russian Federation,RUS,1999,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,27.6280856006862
+Russian Federation,RUS,1998,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.7873527603143
+Russian Federation,RUS,1997,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.8235912692194
+Russian Federation,RUS,1996,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.9028133913462
+Russian Federation,RUS,1995,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.1640937160493
+Russian Federation,RUS,1994,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.8965973294112
+Russian Federation,RUS,1993,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.5472514868807
+Russian Federation,RUS,1992,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.0650788195871
+Russian Federation,RUS,1991,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.3379435251078
+Russian Federation,RUS,1990,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.2900947329479
+Russian Federation,RUS,1989,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.3656817232626
+Russian Federation,RUS,1988,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.3044685024636
+Russian Federation,RUS,1987,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.1149912678016
+Russian Federation,RUS,1986,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.7794576878761
+Russian Federation,RUS,1985,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.3000110861719
+Russian Federation,RUS,1984,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.9139045628899
+Russian Federation,RUS,1983,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.4083178033975
+Russian Federation,RUS,1982,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.9007116346231
+Russian Federation,RUS,1981,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.6052253137374
+Russian Federation,RUS,1980,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.6363988070631
+Russian Federation,RUS,1979,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.7733500317461
+Russian Federation,RUS,1978,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.2137507990194
+Russian Federation,RUS,1977,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.8599008983687
+Russian Federation,RUS,1976,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.4785347293514
+Russian Federation,RUS,1975,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.8960198192695
+Russian Federation,RUS,1974,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.8702449767387
+Russian Federation,RUS,1973,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,35.8684661270888
+Russian Federation,RUS,1972,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,36.931860867972
+Russian Federation,RUS,1971,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.1741835226097
+Russian Federation,RUS,1970,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,39.6752599681743
+Russian Federation,RUS,1969,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,40.9832370961413
+Russian Federation,RUS,1968,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,42.3150149565407
+Russian Federation,RUS,1967,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,43.6218519876727
+Russian Federation,RUS,1966,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,44.8767997093268
+Russian Federation,RUS,1965,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,46.0606174355697
+Russian Federation,RUS,1964,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,46.9768662413607
+Russian Federation,RUS,1963,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,47.8442928723411
+Russian Federation,RUS,1962,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,48.475044403005
+Russian Federation,RUS,1961,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,48.5039473604326
+Russian Federation,RUS,1960,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,47.7844426748092
+Russian Federation,RUS,2017,Number of infant deaths,SH.DTH.IMRT,11755
+Russian Federation,RUS,2016,Number of infant deaths,SH.DTH.IMRT,12632
+Russian Federation,RUS,2015,Number of infant deaths,SH.DTH.IMRT,13568
+Russian Federation,RUS,2014,Number of infant deaths,SH.DTH.IMRT,14414
+Russian Federation,RUS,2013,Number of infant deaths,SH.DTH.IMRT,15008
+Russian Federation,RUS,2012,Number of infant deaths,SH.DTH.IMRT,15328
+Russian Federation,RUS,2011,Number of infant deaths,SH.DTH.IMRT,15432
+Russian Federation,RUS,2010,Number of infant deaths,SH.DTH.IMRT,15431
+Russian Federation,RUS,2009,Number of infant deaths,SH.DTH.IMRT,15483
+Russian Federation,RUS,2008,Number of infant deaths,SH.DTH.IMRT,15744
+Russian Federation,RUS,2007,Number of infant deaths,SH.DTH.IMRT,16242
+Russian Federation,RUS,2006,Number of infant deaths,SH.DTH.IMRT,16914
+Russian Federation,RUS,2005,Number of infant deaths,SH.DTH.IMRT,17706
+Russian Federation,RUS,2004,Number of infant deaths,SH.DTH.IMRT,18574
+Russian Federation,RUS,2003,Number of infant deaths,SH.DTH.IMRT,19462
+Russian Federation,RUS,2002,Number of infant deaths,SH.DTH.IMRT,20321
+Russian Federation,RUS,2001,Number of infant deaths,SH.DTH.IMRT,21091
+Russian Federation,RUS,2000,Number of infant deaths,SH.DTH.IMRT,21801
+Russian Federation,RUS,1999,Number of infant deaths,SH.DTH.IMRT,22491
+Russian Federation,RUS,1998,Number of infant deaths,SH.DTH.IMRT,23233
+Russian Federation,RUS,1997,Number of infant deaths,SH.DTH.IMRT,24104
+Russian Federation,RUS,1996,Number of infant deaths,SH.DTH.IMRT,25230
+Russian Federation,RUS,1995,Number of infant deaths,SH.DTH.IMRT,26737
+Russian Federation,RUS,1994,Number of infant deaths,SH.DTH.IMRT,28581
+Russian Federation,RUS,1993,Number of infant deaths,SH.DTH.IMRT,30608
+Russian Federation,RUS,1992,Number of infant deaths,SH.DTH.IMRT,32805
+Russian Federation,RUS,1991,Number of infant deaths,SH.DTH.IMRT,35266
+Russian Federation,RUS,1990,Number of infant deaths,SH.DTH.IMRT,38036
+Russian Federation,RUS,1989,Number of infant deaths,SH.DTH.IMRT,41010
+Russian Federation,RUS,1988,Number of infant deaths,SH.DTH.IMRT,44070
+Russian Federation,RUS,1987,Number of infant deaths,SH.DTH.IMRT,46949
+Russian Federation,RUS,1986,Number of infant deaths,SH.DTH.IMRT,49275
+Russian Federation,RUS,1985,Number of infant deaths,SH.DTH.IMRT,50818
+Russian Federation,RUS,1984,Number of infant deaths,SH.DTH.IMRT,51631
+Russian Federation,RUS,1983,Number of infant deaths,SH.DTH.IMRT,51917
+Russian Federation,RUS,1982,Number of infant deaths,SH.DTH.IMRT,51882
+Russian Federation,RUS,1981,Number of infant deaths,SH.DTH.IMRT,51750
+Russian Federation,RUS,1980,Number of infant deaths,SH.DTH.IMRT,51655
+Russian Federation,RUS,1979,Number of infant deaths,SH.DTH.IMRT,51637
+Russian Federation,RUS,1978,Number of infant deaths,SH.DTH.IMRT,51678
+Russian Federation,RUS,1977,Number of infant deaths,SH.DTH.IMRT,51856
+Russian Federation,RUS,1976,Number of infant deaths,SH.DTH.IMRT,52290
+Russian Federation,RUS,1975,Number of infant deaths,SH.DTH.IMRT,52973
+Russian Federation,RUS,1974,Number of infant deaths,SH.DTH.IMRT,53841
+Russian Federation,RUS,1973,Number of infant deaths,SH.DTH.IMRT,54876
+Russian Federation,RUS,1972,Number of infant deaths,SH.DTH.IMRT,55998
+Russian Federation,RUS,1971,Number of infant deaths,SH.DTH.IMRT,57380
+Russian Federation,RUS,1970,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1969,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1968,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1967,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1966,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1965,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1964,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1963,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1962,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1961,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,1960,Number of infant deaths,SH.DTH.IMRT,
+Russian Federation,RUS,2017,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2016,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2015,International migrant stock (% of population),SM.POP.TOTL.ZS,8.11621785991527
+Russian Federation,RUS,2014,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2013,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2012,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2011,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2010,International migrant stock (% of population),SM.POP.TOTL.ZS,7.81982303355397
+Russian Federation,RUS,2009,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2008,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2007,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2006,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2005,International migrant stock (% of population),SM.POP.TOTL.ZS,8.1237846704396
+Russian Federation,RUS,2004,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2003,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2002,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2001,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2000,International migrant stock (% of population),SM.POP.TOTL.ZS,8.12856536703781
+Russian Federation,RUS,1999,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1998,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1997,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1996,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1995,International migrant stock (% of population),SM.POP.TOTL.ZS,8.04414617211375
+Russian Federation,RUS,1994,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1993,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1992,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1991,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1990,International migrant stock (% of population),SM.POP.TOTL.ZS,7.80989434659493
+Russian Federation,RUS,1989,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1988,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1987,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1986,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1985,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1984,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1983,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1982,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1981,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1980,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1979,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1978,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1977,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1976,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1975,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1974,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1973,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1972,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1971,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1970,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1969,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1968,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1967,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1966,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1965,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1964,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1963,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1962,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1961,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,1960,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Russian Federation,RUS,2017,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2016,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2015,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2014,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2013,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2012,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2011,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2010,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2009,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2008,Land area (sq. km),AG.LND.TOTL.K2,16376870
+Russian Federation,RUS,2007,Land area (sq. km),AG.LND.TOTL.K2,16377740
+Russian Federation,RUS,2006,Land area (sq. km),AG.LND.TOTL.K2,16377740
+Russian Federation,RUS,2005,Land area (sq. km),AG.LND.TOTL.K2,16381390
+Russian Federation,RUS,2004,Land area (sq. km),AG.LND.TOTL.K2,16381230
+Russian Federation,RUS,2003,Land area (sq. km),AG.LND.TOTL.K2,16380980
+Russian Federation,RUS,2002,Land area (sq. km),AG.LND.TOTL.K2,16380940
+Russian Federation,RUS,2001,Land area (sq. km),AG.LND.TOTL.K2,16380440
+Russian Federation,RUS,2000,Land area (sq. km),AG.LND.TOTL.K2,16381340
+Russian Federation,RUS,1999,Land area (sq. km),AG.LND.TOTL.K2,16388510
+Russian Federation,RUS,1998,Land area (sq. km),AG.LND.TOTL.K2,16381300
+Russian Federation,RUS,1997,Land area (sq. km),AG.LND.TOTL.K2,16378650
+Russian Federation,RUS,1996,Land area (sq. km),AG.LND.TOTL.K2,16377960
+Russian Federation,RUS,1995,Land area (sq. km),AG.LND.TOTL.K2,16378380
+Russian Federation,RUS,1994,Land area (sq. km),AG.LND.TOTL.K2,16381330
+Russian Federation,RUS,1993,Land area (sq. km),AG.LND.TOTL.K2,16386180
+Russian Federation,RUS,1992,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1991,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1990,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1989,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1988,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1987,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1986,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1985,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1984,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1983,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1982,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1981,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1980,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1979,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1978,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1977,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1976,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1975,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1974,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1973,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1972,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1971,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1970,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1969,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1968,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1967,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1966,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1965,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1964,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1963,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1962,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1961,Land area (sq. km),AG.LND.TOTL.K2,16389950
+Russian Federation,RUS,1960,Land area (sq. km),AG.LND.TOTL.K2,
+Russian Federation,RUS,2017,Population growth (annual %),SP.POP.GROW,0.105698218493872
+Russian Federation,RUS,2016,Population growth (annual %),SP.POP.GROW,0.17024454590112
+Russian Federation,RUS,2015,Population growth (annual %),SP.POP.GROW,0.192558641823423
+Russian Federation,RUS,2014,Population growth (annual %),SP.POP.GROW,0.217700100552035
+Russian Federation,RUS,2013,Population growth (annual %),SP.POP.GROW,0.212923595008292
+Russian Federation,RUS,2012,Population growth (annual %),SP.POP.GROW,0.168301590750173
+Russian Federation,RUS,2011,Population growth (annual %),SP.POP.GROW,0.0779670984684485
+Russian Federation,RUS,2010,Population growth (annual %),SP.POP.GROW,0.0448873898392816
+Russian Federation,RUS,2009,Population growth (annual %),SP.POP.GROW,0.0301140670621249
+Russian Federation,RUS,2008,Population growth (annual %),SP.POP.GROW,-0.0439422615372963
+Russian Federation,RUS,2007,Population growth (annual %),SP.POP.GROW,-0.171024042221983
+Russian Federation,RUS,2006,Population growth (annual %),SP.POP.GROW,-0.327318706386192
+Russian Federation,RUS,2005,Population growth (annual %),SP.POP.GROW,-0.381473696224401
+Russian Federation,RUS,2004,Population growth (annual %),SP.POP.GROW,-0.402613760305718
+Russian Federation,RUS,2003,Population growth (annual %),SP.POP.GROW,-0.453719859743564
+Russian Federation,RUS,2002,Population growth (annual %),SP.POP.GROW,-0.460061304902853
+Russian Federation,RUS,2001,Population growth (annual %),SP.POP.GROW,-0.424151028076189
+Russian Federation,RUS,2000,Population growth (annual %),SP.POP.GROW,-0.420566975310993
+Russian Federation,RUS,1999,Population growth (annual %),SP.POP.GROW,-0.309476734460824
+Russian Federation,RUS,1998,Population growth (annual %),SP.POP.GROW,-0.165511936742255
+Russian Federation,RUS,1997,Population growth (annual %),SP.POP.GROW,-0.165319440855875
+Russian Federation,RUS,1996,Population growth (annual %),SP.POP.GROW,-0.145469155029265
+Russian Federation,RUS,1995,Population growth (annual %),SP.POP.GROW,0.0267775060816902
+Russian Federation,RUS,1994,Population growth (annual %),SP.POP.GROW,-0.123965844425279
+Russian Federation,RUS,1993,Population growth (annual %),SP.POP.GROW,-0.113724697579415
+Russian Federation,RUS,1992,Population growth (annual %),SP.POP.GROW,0.0437249639508604
+Russian Federation,RUS,1991,Population growth (annual %),SP.POP.GROW,0.223632366302237
+Russian Federation,RUS,1990,Population growth (annual %),SP.POP.GROW,0.385794345665368
+Russian Federation,RUS,1989,Population growth (annual %),SP.POP.GROW,0.586603532881112
+Russian Federation,RUS,1988,Population growth (annual %),SP.POP.GROW,0.648303809439665
+Russian Federation,RUS,1987,Population growth (annual %),SP.POP.GROW,0.697384550046896
+Russian Federation,RUS,1986,Population growth (annual %),SP.POP.GROW,0.717573866435774
+Russian Federation,RUS,1985,Population growth (annual %),SP.POP.GROW,0.776688028447148
+Russian Federation,RUS,1984,Population growth (annual %),SP.POP.GROW,0.757352967626051
+Russian Federation,RUS,1983,Population growth (annual %),SP.POP.GROW,0.598250932058307
+Russian Federation,RUS,1982,Population growth (annual %),SP.POP.GROW,0.628287744424107
+Russian Federation,RUS,1981,Population growth (annual %),SP.POP.GROW,0.667503222289735
+Russian Federation,RUS,1980,Population growth (annual %),SP.POP.GROW,0.709655479527404
+Russian Federation,RUS,1979,Population growth (annual %),SP.POP.GROW,0.703053203604969
+Russian Federation,RUS,1978,Population growth (annual %),SP.POP.GROW,0.702887650025717
+Russian Federation,RUS,1977,Population growth (annual %),SP.POP.GROW,0.70268347396018
+Russian Federation,RUS,1976,Population growth (annual %),SP.POP.GROW,0.703185038023715
+Russian Federation,RUS,1975,Population growth (annual %),SP.POP.GROW,0.573923976270934
+Russian Federation,RUS,1974,Population growth (annual %),SP.POP.GROW,0.573468037351157
+Russian Federation,RUS,1973,Population growth (annual %),SP.POP.GROW,0.574501349565654
+Russian Federation,RUS,1972,Population growth (annual %),SP.POP.GROW,0.57324610343637
+Russian Federation,RUS,1971,Population growth (annual %),SP.POP.GROW,0.574250600262548
+Russian Federation,RUS,1970,Population growth (annual %),SP.POP.GROW,0.569083468255144
+Russian Federation,RUS,1969,Population growth (annual %),SP.POP.GROW,0.569238017722672
+Russian Federation,RUS,1968,Population growth (annual %),SP.POP.GROW,0.5693766257186
+Russian Federation,RUS,1967,Population growth (annual %),SP.POP.GROW,0.569499004627627
+Russian Federation,RUS,1966,Population growth (annual %),SP.POP.GROW,0.568815874401956
+Russian Federation,RUS,1965,Population growth (annual %),SP.POP.GROW,1.11072584654368
+Russian Federation,RUS,1964,Population growth (annual %),SP.POP.GROW,1.11110025764706
+Russian Federation,RUS,1963,Population growth (annual %),SP.POP.GROW,1.11053215737069
+Russian Federation,RUS,1962,Population growth (annual %),SP.POP.GROW,1.11145521122451
+Russian Federation,RUS,1961,Population growth (annual %),SP.POP.GROW,1.11060183638626
+Russian Federation,RUS,1960,Population growth (annual %),SP.POP.GROW,1.46949650144532
+Russian Federation,RUS,2017,Population density (people per sq. km of land area),EN.POP.DNST,8.82311723790932
+Russian Federation,RUS,2016,Population density (people per sq. km of land area),EN.POP.DNST,8.8137962870805
+Russian Federation,RUS,2015,Population density (people per sq. km of land area),EN.POP.DNST,8.79880404497318
+Russian Federation,RUS,2014,Population density (people per sq. km of land area),EN.POP.DNST,8.78187748941037
+Russian Federation,RUS,2013,Population density (people per sq. km of land area),EN.POP.DNST,8.76278012831512
+Russian Federation,RUS,2012,Population density (people per sq. km of land area),EN.POP.DNST,8.74414195142295
+Russian Federation,RUS,2011,Population density (people per sq. km of land area),EN.POP.DNST,8.72943779855369
+Russian Federation,RUS,2010,Population density (people per sq. km of land area),EN.POP.DNST,8.72263436175533
+Russian Federation,RUS,2009,Population density (people per sq. km of land area),EN.POP.DNST,8.71871987748575
+Russian Federation,RUS,2008,Population density (people per sq. km of land area),EN.POP.DNST,8.71609471162683
+Russian Federation,RUS,2007,Population density (people per sq. km of land area),EN.POP.DNST,8.71946239224704
+Russian Federation,RUS,2006,Population density (people per sq. km of land area),EN.POP.DNST,8.73438752843799
+Russian Federation,RUS,2005,Population density (people per sq. km of land area),EN.POP.DNST,8.76107113010556
+Russian Federation,RUS,2004,Population density (people per sq. km of land area),EN.POP.DNST,8.79464203847941
+Russian Federation,RUS,2003,Population density (people per sq. km of land area),EN.POP.DNST,8.83025661468361
+Russian Federation,RUS,2002,Population density (people per sq. km of land area),EN.POP.DNST,8.87043393114192
+Russian Federation,RUS,2001,Population density (people per sq. km of land area),EN.POP.DNST,8.91160939510782
+Russian Federation,RUS,2000,Population density (people per sq. km of land area),EN.POP.DNST,8.94899666327663
+Russian Federation,RUS,1999,Population density (people per sq. km of land area),EN.POP.DNST,8.98278074089713
+Russian Federation,RUS,1998,Population density (people per sq. km of land area),EN.POP.DNST,9.01458931830807
+Russian Federation,RUS,1997,Population density (people per sq. km of land area),EN.POP.DNST,9.03098283436059
+Russian Federation,RUS,1996,Population density (people per sq. km of land area),EN.POP.DNST,9.04630625547992
+Russian Federation,RUS,1995,Population density (people per sq. km of land area),EN.POP.DNST,9.05924309974491
+Russian Federation,RUS,1994,Population density (people per sq. km of land area),EN.POP.DNST,9.05518660572737
+Russian Federation,RUS,1993,Population density (people per sq. km of land area),EN.POP.DNST,9.06373541606403
+Russian Federation,RUS,1992,Population density (people per sq. km of land area),EN.POP.DNST,9.07196178145754
+Russian Federation,RUS,1991,Population density (people per sq. km of land area),EN.POP.DNST,9.06799593653428
+Russian Federation,RUS,1990,Population density (people per sq. km of land area),EN.POP.DNST,9.04773962092624
+Russian Federation,RUS,1989,Population density (people per sq. km of land area),EN.POP.DNST,9.01290119860036
+Russian Federation,RUS,1988,Population density (people per sq. km of land area),EN.POP.DNST,8.9601859676204
+Russian Federation,RUS,1987,Population density (people per sq. km of land area),EN.POP.DNST,8.90228463174079
+Russian Federation,RUS,1986,Population density (people per sq. km of land area),EN.POP.DNST,8.84041745093792
+Russian Federation,RUS,1985,Population density (people per sq. km of land area),EN.POP.DNST,8.77720798416103
+Russian Federation,RUS,1984,Population density (people per sq. km of land area),EN.POP.DNST,8.70930051647504
+Russian Federation,RUS,1983,Population density (people per sq. km of land area),EN.POP.DNST,8.64358951674654
+Russian Federation,RUS,1982,Population density (people per sq. km of land area),EN.POP.DNST,8.59203353274415
+Russian Federation,RUS,1981,Population density (people per sq. km of land area),EN.POP.DNST,8.53822006778544
+Russian Federation,RUS,1980,Population density (people per sq. km of land area),EN.POP.DNST,8.48141696588458
+Russian Federation,RUS,1979,Population density (people per sq. km of land area),EN.POP.DNST,8.42144118804511
+Russian Federation,RUS,1978,Population density (people per sq. km of land area),EN.POP.DNST,8.36244161818675
+Russian Federation,RUS,1977,Population density (people per sq. km of land area),EN.POP.DNST,8.30386913932013
+Russian Federation,RUS,1976,Population density (people per sq. km of land area),EN.POP.DNST,8.24572375144525
+Russian Federation,RUS,1975,Population density (people per sq. km of land area),EN.POP.DNST,8.18794444156327
+Russian Federation,RUS,1974,Population density (people per sq. km of land area),EN.POP.DNST,8.14108645846998
+Russian Federation,RUS,1973,Population density (people per sq. km of land area),EN.POP.DNST,8.09453354037078
+Russian Federation,RUS,1972,Population density (people per sq. km of land area),EN.POP.DNST,8.04816366126803
+Russian Federation,RUS,1971,Population density (people per sq. km of land area),EN.POP.DNST,8.00215986015821
+Russian Federation,RUS,1970,Population density (people per sq. km of land area),EN.POP.DNST,7.95633909804484
+Russian Federation,RUS,1969,Population density (people per sq. km of land area),EN.POP.DNST,7.91118947891848
+Russian Federation,RUS,1968,Population density (people per sq. km of land area),EN.POP.DNST,7.86628391178741
+Russian Federation,RUS,1967,Population density (people per sq. km of land area),EN.POP.DNST,7.82162239665161
+Russian Federation,RUS,1966,Population density (people per sq. km of land area),EN.POP.DNST,7.77720493351108
+Russian Federation,RUS,1965,Population density (people per sq. km of land area),EN.POP.DNST,7.73309253536466
+Russian Federation,RUS,1964,Population density (people per sq. km of land area),EN.POP.DNST,7.6476743370175
+Russian Federation,RUS,1963,Population density (people per sq. km of land area),EN.POP.DNST,7.56317133365263
+Russian Federation,RUS,1962,Population density (people per sq. km of land area),EN.POP.DNST,7.47964453826888
+Russian Federation,RUS,1961,Population density (people per sq. km of land area),EN.POP.DNST,7.39697192486859
+Russian Federation,RUS,1960,Population density (people per sq. km of land area),EN.POP.DNST,
+Russian Federation,RUS,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,33191473
+Russian Federation,RUS,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,32880033
+Russian Federation,RUS,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,32571172
+Russian Federation,RUS,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,32266142
+Russian Federation,RUS,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,31964468
+Russian Federation,RUS,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,31666525
+Russian Federation,RUS,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,31371044
+Russian Federation,RUS,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,31101187
+Russian Federation,RUS,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,30888374
+Russian Federation,RUS,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,30678151
+Russian Federation,RUS,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,30469617
+Russian Federation,RUS,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,30263620
+Russian Federation,RUS,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,30059842
+Russian Federation,RUS,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,29858536
+Russian Federation,RUS,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,29658851
+Russian Federation,RUS,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,29481081
+Russian Federation,RUS,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,29357873
+Russian Federation,RUS,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,29237886
+Russian Federation,RUS,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,29120591
+Russian Federation,RUS,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,29013758
+Russian Federation,RUS,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28893216
+Russian Federation,RUS,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28759983
+Russian Federation,RUS,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28678511
+Russian Federation,RUS,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28646785
+Russian Federation,RUS,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28672118
+Russian Federation,RUS,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28753102
+Russian Federation,RUS,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28781451
+Russian Federation,RUS,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28757534
+Russian Federation,RUS,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28734152
+Russian Federation,RUS,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28580943
+Russian Federation,RUS,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28315140
+Russian Federation,RUS,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,28052292
+Russian Federation,RUS,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,27792005
+Russian Federation,RUS,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,27534608
+Russian Federation,RUS,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,27279013
+Russian Federation,RUS,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,27026257
+Russian Federation,RUS,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,26775958
+Russian Federation,RUS,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,26528436
+Russian Federation,RUS,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,26282644
+Russian Federation,RUS,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,25934259
+Russian Federation,RUS,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,25503553
+Russian Federation,RUS,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,25080852
+Russian Federation,RUS,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,24664293
+Russian Federation,RUS,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,24255477
+Russian Federation,RUS,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,23853696
+Russian Federation,RUS,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,23459366
+Russian Federation,RUS,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,23070741
+Russian Federation,RUS,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,22689323
+Russian Federation,RUS,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,22261860
+Russian Federation,RUS,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,21800586
+Russian Federation,RUS,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,21348751
+Russian Federation,RUS,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,20907966
+Russian Federation,RUS,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,20477335
+Russian Federation,RUS,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,20057172
+Russian Federation,RUS,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,19645505
+Russian Federation,RUS,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,19243812
+Russian Federation,RUS,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,18851273
+Russian Federation,RUS,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,18468190
+Russian Federation,RUS,2017,GNI (current US$),NY.GNP.MKTP.CD,1538005095962.14
+Russian Federation,RUS,2016,GNI (current US$),NY.GNP.MKTP.CD,1249210702173.86
+Russian Federation,RUS,2015,GNI (current US$),NY.GNP.MKTP.CD,1330651945490.23
+Russian Federation,RUS,2014,GNI (current US$),NY.GNP.MKTP.CD,1995700485171.27
+Russian Federation,RUS,2013,GNI (current US$),NY.GNP.MKTP.CD,2217523689057.73
+Russian Federation,RUS,2012,GNI (current US$),NY.GNP.MKTP.CD,2142596146943.24
+Russian Federation,RUS,2011,GNI (current US$),NY.GNP.MKTP.CD,1991328679252.48
+Russian Federation,RUS,2010,GNI (current US$),NY.GNP.MKTP.CD,1477812904649.32
+Russian Federation,RUS,2009,GNI (current US$),NY.GNP.MKTP.CD,1182904904367.93
+Russian Federation,RUS,2008,GNI (current US$),NY.GNP.MKTP.CD,1614364434383.91
+Russian Federation,RUS,2007,GNI (current US$),NY.GNP.MKTP.CD,1270877713699.34
+Russian Federation,RUS,2006,GNI (current US$),NY.GNP.MKTP.CD,961127286414.623
+Russian Federation,RUS,2005,GNI (current US$),NY.GNP.MKTP.CD,745490780702.437
+Russian Federation,RUS,2004,GNI (current US$),NY.GNP.MKTP.CD,578245690742.798
+Russian Federation,RUS,2003,GNI (current US$),NY.GNP.MKTP.CD,417176770731.787
+Russian Federation,RUS,2002,GNI (current US$),NY.GNP.MKTP.CD,338527438692.185
+Russian Federation,RUS,2001,GNI (current US$),NY.GNP.MKTP.CD,302364673980.116
+Russian Federation,RUS,2000,GNI (current US$),NY.GNP.MKTP.CD,252972496267.33
+Russian Federation,RUS,1999,GNI (current US$),NY.GNP.MKTP.CD,188189767668.562
+Russian Federation,RUS,1998,GNI (current US$),NY.GNP.MKTP.CD,259163116950.026
+Russian Federation,RUS,1997,GNI (current US$),NY.GNP.MKTP.CD,396235534140.017
+Russian Federation,RUS,1996,GNI (current US$),NY.GNP.MKTP.CD,386287013149.68
+Russian Federation,RUS,1995,GNI (current US$),NY.GNP.MKTP.CD,392159044578.58
+Russian Federation,RUS,1994,GNI (current US$),NY.GNP.MKTP.CD,393237344330.164
+Russian Federation,RUS,1993,GNI (current US$),NY.GNP.MKTP.CD,430624472095.383
+Russian Federation,RUS,1992,GNI (current US$),NY.GNP.MKTP.CD,455789723970.944
+Russian Federation,RUS,1991,GNI (current US$),NY.GNP.MKTP.CD,516545185185.185
+Russian Federation,RUS,1990,GNI (current US$),NY.GNP.MKTP.CD,515780725699.661
+Russian Federation,RUS,1989,GNI (current US$),NY.GNP.MKTP.CD,506588568405.987
+Russian Federation,RUS,1988,GNI (current US$),NY.GNP.MKTP.CD,556478405315.615
+Russian Federation,RUS,1987,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1986,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1985,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1984,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1983,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1982,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1981,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1980,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1979,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1978,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1977,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1976,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1975,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1974,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1973,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1972,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1971,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1970,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1969,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1968,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1967,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1966,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1965,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1964,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1963,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1962,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1961,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,1960,GNI (current US$),NY.GNP.MKTP.CD,
+Russian Federation,RUS,2017,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,2016,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,2015,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+Russian Federation,RUS,2014,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+Russian Federation,RUS,2013,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+Russian Federation,RUS,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+Russian Federation,RUS,2011,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+Russian Federation,RUS,2010,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.1
+Russian Federation,RUS,2009,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+Russian Federation,RUS,2008,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.1
+Russian Federation,RUS,2007,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.1
+Russian Federation,RUS,2006,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.3
+Russian Federation,RUS,2005,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.5
+Russian Federation,RUS,2004,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+Russian Federation,RUS,2003,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.8
+Russian Federation,RUS,2002,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+Russian Federation,RUS,2001,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1.3
+Russian Federation,RUS,2000,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,2.2
+Russian Federation,RUS,1999,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,3.4
+Russian Federation,RUS,1998,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1.7
+Russian Federation,RUS,1997,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1.1
+Russian Federation,RUS,1996,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,3.6
+Russian Federation,RUS,1995,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1994,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1993,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,2.4
+Russian Federation,RUS,1992,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1991,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1990,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1989,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1988,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1987,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1986,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1985,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1984,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1983,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1982,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1981,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1980,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1979,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1978,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1977,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1976,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1975,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1974,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1973,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1972,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1971,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1970,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1969,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1968,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1967,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1966,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1965,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1964,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1963,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1962,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1961,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,1960,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Russian Federation,RUS,2017,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+Russian Federation,RUS,2016,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+Russian Federation,RUS,2015,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+Russian Federation,RUS,2014,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,120.428
+Russian Federation,RUS,2013,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,120.192
+Russian Federation,RUS,2012,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,124.168
+Russian Federation,RUS,2011,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,129.818
+Russian Federation,RUS,2010,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,136.517
+Russian Federation,RUS,2009,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,138.439
+Russian Federation,RUS,2008,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,145.842
+Russian Federation,RUS,2007,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,147.369
+Russian Federation,RUS,2006,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,157.349
+Russian Federation,RUS,2005,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,172.621
+Russian Federation,RUS,2004,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,172.411
+Russian Federation,RUS,2003,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,176.561
+Russian Federation,RUS,2002,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,170.942
+Russian Federation,RUS,2001,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,164.279
+Russian Federation,RUS,2000,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,158.477
+Russian Federation,RUS,1999,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,150.485
+Russian Federation,RUS,1998,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,138.573
+Russian Federation,RUS,1997,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,142.343
+Russian Federation,RUS,1996,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,153.784
+Russian Federation,RUS,1995,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,168.924
+Russian Federation,RUS,1994,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,178.406
+Russian Federation,RUS,1993,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,160.861
+Russian Federation,RUS,1992,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,130.912
+Russian Federation,RUS,1991,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,118.919
+Russian Federation,RUS,1990,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,116.2
+Russian Federation,RUS,1989,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,113.531
+Russian Federation,RUS,1988,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,110.328
+Russian Federation,RUS,1987,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,110.243
+Russian Federation,RUS,1986,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,112.045
+Russian Federation,RUS,1985,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,127.211
+Russian Federation,RUS,1984,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,133.713
+Russian Federation,RUS,1983,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,130.859
+Russian Federation,RUS,1982,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,128.506
+Russian Federation,RUS,1981,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,131.951
+Russian Federation,RUS,1980,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,134.906
+Russian Federation,RUS,1979,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,133.56
+Russian Federation,RUS,1978,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,131.772
+Russian Federation,RUS,1977,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,129.857
+Russian Federation,RUS,1976,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,129.634
+Russian Federation,RUS,1975,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,127.205
+Russian Federation,RUS,1974,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,122.798
+Russian Federation,RUS,1973,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,121.495
+Russian Federation,RUS,1972,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,121.797
+Russian Federation,RUS,1971,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,121.301
+Russian Federation,RUS,1970,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,122.529
+Russian Federation,RUS,1969,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,122.902
+Russian Federation,RUS,1968,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,119.243
+Russian Federation,RUS,1967,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,119.097
+Russian Federation,RUS,1966,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,119.555
+Russian Federation,RUS,1965,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,118.976
+Russian Federation,RUS,1964,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,119.312
+Russian Federation,RUS,1963,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,123.318
+Russian Federation,RUS,1962,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,124.424
+Russian Federation,RUS,1961,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,124.168
+Russian Federation,RUS,1960,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,126.477
+Russian Federation,RUS,2017,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+Russian Federation,RUS,2016,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+Russian Federation,RUS,2015,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+Russian Federation,RUS,2014,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,321.783
+Russian Federation,RUS,2013,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,322.118
+Russian Federation,RUS,2012,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,332.287
+Russian Federation,RUS,2011,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,346.943
+Russian Federation,RUS,2010,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,365.664
+Russian Federation,RUS,2009,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,370.13
+Russian Federation,RUS,2008,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,394.451
+Russian Federation,RUS,2007,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,400.538
+Russian Federation,RUS,2006,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,427.335
+Russian Federation,RUS,2005,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,464.855
+Russian Federation,RUS,2004,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,463.727
+Russian Federation,RUS,2003,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,471.35
+Russian Federation,RUS,2002,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,462.146
+Russian Federation,RUS,2001,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,451.38
+Russian Federation,RUS,2000,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,442.882
+Russian Federation,RUS,1999,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,416.557
+Russian Federation,RUS,1998,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,383.463
+Russian Federation,RUS,1997,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,391.617
+Russian Federation,RUS,1996,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,426.887
+Russian Federation,RUS,1995,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,465.811
+Russian Federation,RUS,1994,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,486.421
+Russian Federation,RUS,1993,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,442.675
+Russian Federation,RUS,1992,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,364.039
+Russian Federation,RUS,1991,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,322.901
+Russian Federation,RUS,1990,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,316.078
+Russian Federation,RUS,1989,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,303.974
+Russian Federation,RUS,1988,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,287.665
+Russian Federation,RUS,1987,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,282.559
+Russian Federation,RUS,1986,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,283.61
+Russian Federation,RUS,1985,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,332.234
+Russian Federation,RUS,1984,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,359.813
+Russian Federation,RUS,1983,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,351.011
+Russian Federation,RUS,1982,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,348.449
+Russian Federation,RUS,1981,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,357.011
+Russian Federation,RUS,1980,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,362.382
+Russian Federation,RUS,1979,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,358.077
+Russian Federation,RUS,1978,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,349.588
+Russian Federation,RUS,1977,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,345.681
+Russian Federation,RUS,1976,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,336.019
+Russian Federation,RUS,1975,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,329.542
+Russian Federation,RUS,1974,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,317.07
+Russian Federation,RUS,1973,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,312.442
+Russian Federation,RUS,1972,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,311.78
+Russian Federation,RUS,1971,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,313.912
+Russian Federation,RUS,1970,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,312.619
+Russian Federation,RUS,1969,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,308.658
+Russian Federation,RUS,1968,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,294.668
+Russian Federation,RUS,1967,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,285.854
+Russian Federation,RUS,1966,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,279.41
+Russian Federation,RUS,1965,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,274.595
+Russian Federation,RUS,1964,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,264.594
+Russian Federation,RUS,1963,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,272.522
+Russian Federation,RUS,1962,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,276.047
+Russian Federation,RUS,1961,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,276.223
+Russian Federation,RUS,1960,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,277.05
+Russian Federation,RUS,2017,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2016,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.570864
+Russian Federation,RUS,2015,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2014,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.694479
+Russian Federation,RUS,2013,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2012,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.58
+Russian Federation,RUS,2011,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2010,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.61
+Russian Federation,RUS,2009,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2008,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2007,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.37
+Russian Federation,RUS,2006,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2005,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2004,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2003,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2002,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2001,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2000,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1999,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1998,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1997,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1996,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1995,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1994,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1993,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1992,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1991,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1990,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1989,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1988,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1987,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1986,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1985,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1984,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1983,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1982,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1981,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1980,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1979,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1978,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1977,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1976,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1975,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1974,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1973,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1972,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1971,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1970,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1969,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1968,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1967,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1966,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1965,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1964,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1963,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1962,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1961,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,1960,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Russian Federation,RUS,2017,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,2016,Rail lines (total route-km),IS.RRS.TOTL.KM,85375
+Russian Federation,RUS,2015,Rail lines (total route-km),IS.RRS.TOTL.KM,85262
+Russian Federation,RUS,2014,Rail lines (total route-km),IS.RRS.TOTL.KM,85266
+Russian Federation,RUS,2013,Rail lines (total route-km),IS.RRS.TOTL.KM,85266
+Russian Federation,RUS,2012,Rail lines (total route-km),IS.RRS.TOTL.KM,84249
+Russian Federation,RUS,2011,Rail lines (total route-km),IS.RRS.TOTL.KM,85167
+Russian Federation,RUS,2010,Rail lines (total route-km),IS.RRS.TOTL.KM,85292
+Russian Federation,RUS,2009,Rail lines (total route-km),IS.RRS.TOTL.KM,85194
+Russian Federation,RUS,2008,Rail lines (total route-km),IS.RRS.TOTL.KM,84158
+Russian Federation,RUS,2007,Rail lines (total route-km),IS.RRS.TOTL.KM,84158
+Russian Federation,RUS,2006,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,2005,Rail lines (total route-km),IS.RRS.TOTL.KM,85542
+Russian Federation,RUS,2004,Rail lines (total route-km),IS.RRS.TOTL.KM,85286
+Russian Federation,RUS,2003,Rail lines (total route-km),IS.RRS.TOTL.KM,85500
+Russian Federation,RUS,2002,Rail lines (total route-km),IS.RRS.TOTL.KM,85542
+Russian Federation,RUS,2001,Rail lines (total route-km),IS.RRS.TOTL.KM,85835
+Russian Federation,RUS,2000,Rail lines (total route-km),IS.RRS.TOTL.KM,86075
+Russian Federation,RUS,1999,Rail lines (total route-km),IS.RRS.TOTL.KM,86000
+Russian Federation,RUS,1998,Rail lines (total route-km),IS.RRS.TOTL.KM,86151
+Russian Federation,RUS,1997,Rail lines (total route-km),IS.RRS.TOTL.KM,86660
+Russian Federation,RUS,1996,Rail lines (total route-km),IS.RRS.TOTL.KM,87543
+Russian Federation,RUS,1995,Rail lines (total route-km),IS.RRS.TOTL.KM,87543
+Russian Federation,RUS,1994,Rail lines (total route-km),IS.RRS.TOTL.KM,87543
+Russian Federation,RUS,1993,Rail lines (total route-km),IS.RRS.TOTL.KM,87543
+Russian Federation,RUS,1992,Rail lines (total route-km),IS.RRS.TOTL.KM,87500
+Russian Federation,RUS,1991,Rail lines (total route-km),IS.RRS.TOTL.KM,85969
+Russian Federation,RUS,1990,Rail lines (total route-km),IS.RRS.TOTL.KM,85969
+Russian Federation,RUS,1989,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1988,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1987,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1986,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1985,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1984,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1983,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1982,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1981,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1980,Rail lines (total route-km),IS.RRS.TOTL.KM,82600
+Russian Federation,RUS,1979,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1978,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1977,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1976,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1975,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1974,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1973,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1972,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1971,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1970,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1969,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1968,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1967,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1966,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1965,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1964,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1963,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1962,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1961,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,1960,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Russian Federation,RUS,2017,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3721575460626.83
+Russian Federation,RUS,2016,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3539663675494.7
+Russian Federation,RUS,2015,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3521836492512.39
+Russian Federation,RUS,2014,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3644656165133.85
+Russian Federation,RUS,2013,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3635166063636.95
+Russian Federation,RUS,2012,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3579360949689.46
+Russian Federation,RUS,2011,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,3373184617515.06
+Russian Federation,RUS,2010,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2837671791921.19
+Russian Federation,RUS,2009,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2678149677195.79
+Russian Federation,RUS,2008,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2797649362807.68
+Russian Federation,RUS,2007,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2324769766658.25
+Russian Federation,RUS,2006,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2071669066191.67
+Russian Federation,RUS,2005,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1655585941892.4
+Russian Federation,RUS,2004,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1442160250554.04
+Russian Federation,RUS,2003,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1297547987709.56
+Russian Federation,RUS,2002,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1144425580988.59
+Russian Federation,RUS,2001,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1060628740394.34
+Russian Federation,RUS,2000,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,974629947987.715
+Russian Federation,RUS,1999,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,836377678625.745
+Russian Federation,RUS,1998,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,771248318859.014
+Russian Federation,RUS,1997,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,824634523073.314
+Russian Federation,RUS,1996,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,805913722270.614
+Russian Federation,RUS,1995,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,825535430160.173
+Russian Federation,RUS,1994,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,846916330048.051
+Russian Federation,RUS,1993,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,943162724013.78
+Russian Federation,RUS,1992,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1009161843778.37
+Russian Federation,RUS,1991,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1162628352151.01
+Russian Federation,RUS,1990,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1185858196661.56
+Russian Federation,RUS,1989,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1988,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1987,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1986,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1985,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1984,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1983,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1982,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1981,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1980,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1979,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1978,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1977,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1976,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1975,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1974,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1973,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1972,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1971,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1970,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1969,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1968,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1967,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1966,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1965,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1964,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1963,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1962,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1961,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,1960,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Russian Federation,RUS,2017,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,25532.9953533065
+Russian Federation,RUS,2016,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,24818.9051890129
+Russian Federation,RUS,2015,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,24737.6894390573
+Russian Federation,RUS,2014,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,25797.4985295037
+Russian Federation,RUS,2013,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,26240.2745047909
+Russian Federation,RUS,2012,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,25784.5671588469
+Russian Federation,RUS,2011,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,24310.0439655517
+Russian Federation,RUS,2010,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,20497.934076089
+Russian Federation,RUS,2009,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,19386.584396792
+Russian Federation,RUS,2008,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,20163.5876480167
+Russian Federation,RUS,2007,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,16648.5868641678
+Russian Federation,RUS,2006,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,14916.185263567
+Russian Federation,RUS,2005,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,11822.3709000841
+Russian Federation,RUS,2004,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,10231.426449768
+Russian Federation,RUS,2003,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,9253.57742940525
+Russian Federation,RUS,2002,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,8029.12265176949
+Russian Federation,RUS,2001,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,7367.60906109729
+Russian Federation,RUS,2000,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,6825.41139116801
+Russian Federation,RUS,1999,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5914.30041088544
+Russian Federation,RUS,1998,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5460.3549781139
+Russian Federation,RUS,1997,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5697.3278217843
+Russian Federation,RUS,1996,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5515.98516479681
+Russian Federation,RUS,1995,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5611.65837798029
+Russian Federation,RUS,1994,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5736.16013799786
+Russian Federation,RUS,1993,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,6416.16919309425
+Russian Federation,RUS,1992,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,6854.08548312908
+Russian Federation,RUS,1991,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,7844.08611442143
+Russian Federation,RUS,1990,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,8012.80231686625
+Russian Federation,RUS,1989,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1988,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1987,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1986,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1985,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1984,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1983,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1982,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1981,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1980,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1979,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1978,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1977,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1976,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1975,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1974,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1973,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1972,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1971,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1970,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1969,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1968,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1967,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1966,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1965,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1964,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1963,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1962,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1961,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,1960,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Russian Federation,RUS,2017,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,24890
+Russian Federation,RUS,2016,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,24130
+Russian Federation,RUS,2015,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,24060
+Russian Federation,RUS,2014,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,24950
+Russian Federation,RUS,2013,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,25330
+Russian Federation,RUS,2012,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,25000
+Russian Federation,RUS,2011,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,23600
+Russian Federation,RUS,2010,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,19860
+Russian Federation,RUS,2009,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,18760
+Russian Federation,RUS,2008,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,19600
+Russian Federation,RUS,2007,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,16280
+Russian Federation,RUS,2006,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,14480
+Russian Federation,RUS,2005,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,11540
+Russian Federation,RUS,2004,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,10010
+Russian Federation,RUS,2003,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,8970
+Russian Federation,RUS,2002,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,7880
+Russian Federation,RUS,2001,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,7270
+Russian Federation,RUS,2000,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,6650
+Russian Federation,RUS,1999,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5680
+Russian Federation,RUS,1998,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5220
+Russian Federation,RUS,1997,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5580
+Russian Federation,RUS,1996,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5440
+Russian Federation,RUS,1995,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5560
+Russian Federation,RUS,1994,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5710
+Russian Federation,RUS,1993,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,6350
+Russian Federation,RUS,1992,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,6790
+Russian Federation,RUS,1991,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,7820
+Russian Federation,RUS,1990,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,8000
+Russian Federation,RUS,1989,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1988,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1987,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1986,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1985,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1984,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1983,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1982,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1981,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1980,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1979,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1978,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1977,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1976,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1975,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1974,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1973,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1972,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1971,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1970,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1969,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1968,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1967,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1966,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1965,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1964,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1963,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1962,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1961,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,1960,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Russian Federation,RUS,2017,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2016,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2015,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2014,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2013,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2012,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2011,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2010,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2009,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2008,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2007,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2006,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2005,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2004,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2003,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2002,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2001,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2000,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1999,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1998,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1997,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1996,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1995,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1994,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1993,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1992,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1991,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1990,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1989,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1988,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1987,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1986,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1985,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1984,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1983,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1982,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1981,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1980,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1979,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1978,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1977,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1976,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1975,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1974,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1973,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1972,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1971,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1970,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1969,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1968,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1967,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1966,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1965,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1964,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1963,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1962,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1961,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,1960,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Russian Federation,RUS,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,157.887534831124
+Russian Federation,RUS,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,159.154604996302
+Russian Federation,RUS,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,157.961804793678
+Russian Federation,RUS,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,153.748076204445
+Russian Federation,RUS,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,152.022690131279
+Russian Federation,RUS,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,145.07334884403
+Russian Federation,RUS,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,142.221119099379
+Russian Federation,RUS,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,166.037582959075
+Russian Federation,RUS,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,160.769833471315
+Russian Federation,RUS,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,139.444992932678
+Russian Federation,RUS,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,119.594711963331
+Russian Federation,RUS,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,105.129023559684
+Russian Federation,RUS,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,83.5548785134696
+Russian Federation,RUS,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,51.1801333874305
+Russian Federation,RUS,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,24.9923652015865
+Russian Federation,RUS,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,12.1276698995492
+Russian Federation,RUS,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,5.31530105188727
+Russian Federation,RUS,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.22901482476557
+Russian Federation,RUS,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.932910736152488
+Russian Federation,RUS,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.506958152631899
+Russian Federation,RUS,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.328137203326143
+Russian Federation,RUS,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.150601803461358
+Russian Federation,RUS,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.0596983566645902
+Russian Federation,RUS,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.0186939244172913
+Russian Federation,RUS,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.00673712019089118
+Russian Federation,RUS,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.00404536131060267
+Russian Federation,RUS,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.000202653548263003
+Russian Federation,RUS,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1974,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1973,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1972,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1971,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1969,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1968,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1967,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1966,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,1964,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1963,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1962,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1961,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Russian Federation,RUS,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Russian Federation,RUS,2017,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1853710636142.46
+Russian Federation,RUS,2016,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1793921437422.3
+Russian Federation,RUS,2015,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1878565070374.26
+Russian Federation,RUS,2014,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,2081115840900.27
+Russian Federation,RUS,2013,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,2041555050354.73
+Russian Federation,RUS,2012,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1940613612072.52
+Russian Federation,RUS,2011,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1798829265372.1
+Russian Federation,RUS,2010,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1687190417629.92
+Russian Federation,RUS,2009,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1600040129573.82
+Russian Federation,RUS,2008,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1686499152526.05
+Russian Federation,RUS,2007,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1526561886637.05
+Russian Federation,RUS,2006,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1336296368554.75
+Russian Federation,RUS,2005,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1192616834265.01
+Russian Federation,RUS,2004,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1067294221578.05
+Russian Federation,RUS,2003,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,952487136940.37
+Russian Federation,RUS,2002,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,885659831614.069
+Russian Federation,RUS,2001,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,817533694120.894
+Russian Federation,RUS,2000,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,747832342244.672
+Russian Federation,RUS,1999,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,697871249658.174
+Russian Federation,RUS,1998,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,718443621726.955
+Russian Federation,RUS,1997,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,743027469402.617
+Russian Federation,RUS,1996,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,708614797269.43
+Russian Federation,RUS,1995,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,744116872898.372
+Russian Federation,RUS,1994,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,765552338368.157
+Russian Federation,RUS,1993,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,756474642650.326
+Russian Federation,RUS,1992,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,747504587605.619
+Russian Federation,RUS,1991,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,770623286203.237
+Russian Federation,RUS,1990,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,807781222430.199
+Russian Federation,RUS,1989,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1988,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1987,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1986,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1985,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1984,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1983,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1982,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1981,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1980,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1979,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1978,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1977,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1976,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1975,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1974,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1973,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1972,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1971,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1970,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1969,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1968,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1967,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1966,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1965,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1964,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1963,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1962,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1961,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,1960,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Russian Federation,RUS,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Russian Federation,RUS,1989,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1988,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1987,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1986,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1985,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1984,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1983,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1982,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1981,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1980,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1979,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1978,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1977,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1976,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1975,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1974,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1973,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1972,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1971,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1970,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1969,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1968,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1967,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1966,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1965,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1964,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1963,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1962,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1961,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,1960,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Russian Federation,RUS,2017,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,2016,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,2015,GINI index (World Bank estimate),SI.POV.GINI,37.7
+Russian Federation,RUS,2014,GINI index (World Bank estimate),SI.POV.GINI,39.9
+Russian Federation,RUS,2013,GINI index (World Bank estimate),SI.POV.GINI,40.9
+Russian Federation,RUS,2012,GINI index (World Bank estimate),SI.POV.GINI,40.7
+Russian Federation,RUS,2011,GINI index (World Bank estimate),SI.POV.GINI,39.7
+Russian Federation,RUS,2010,GINI index (World Bank estimate),SI.POV.GINI,39.5
+Russian Federation,RUS,2009,GINI index (World Bank estimate),SI.POV.GINI,39.8
+Russian Federation,RUS,2008,GINI index (World Bank estimate),SI.POV.GINI,41.6
+Russian Federation,RUS,2007,GINI index (World Bank estimate),SI.POV.GINI,42.3
+Russian Federation,RUS,2006,GINI index (World Bank estimate),SI.POV.GINI,41
+Russian Federation,RUS,2005,GINI index (World Bank estimate),SI.POV.GINI,41.3
+Russian Federation,RUS,2004,GINI index (World Bank estimate),SI.POV.GINI,40.3
+Russian Federation,RUS,2003,GINI index (World Bank estimate),SI.POV.GINI,40
+Russian Federation,RUS,2002,GINI index (World Bank estimate),SI.POV.GINI,37.3
+Russian Federation,RUS,2001,GINI index (World Bank estimate),SI.POV.GINI,36.9
+Russian Federation,RUS,2000,GINI index (World Bank estimate),SI.POV.GINI,37.1
+Russian Federation,RUS,1999,GINI index (World Bank estimate),SI.POV.GINI,37.4
+Russian Federation,RUS,1998,GINI index (World Bank estimate),SI.POV.GINI,38.1
+Russian Federation,RUS,1997,GINI index (World Bank estimate),SI.POV.GINI,38.4
+Russian Federation,RUS,1996,GINI index (World Bank estimate),SI.POV.GINI,46.1
+Russian Federation,RUS,1995,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1994,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1993,GINI index (World Bank estimate),SI.POV.GINI,48.4
+Russian Federation,RUS,1992,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1991,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1990,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1989,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1988,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1987,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1986,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1985,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1984,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1983,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1982,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1981,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1980,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1979,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1978,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1977,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1976,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1975,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1974,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1973,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1972,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1971,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1970,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1969,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1968,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1967,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1966,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1965,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1964,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1963,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1962,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1961,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,1960,GINI index (World Bank estimate),SI.POV.GINI,
+Russian Federation,RUS,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.68333072334493
+Russian Federation,RUS,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.0424372541371
+Russian Federation,RUS,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,15.5343959935701
+Russian Federation,RUS,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.8201697001385
+Russian Federation,RUS,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.75466833903486
+Russian Federation,RUS,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.0747430079915
+Russian Federation,RUS,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.44046485932559
+Russian Federation,RUS,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.8493923025503
+Russian Federation,RUS,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.6473295764118
+Russian Federation,RUS,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,14.1107677840442
+Russian Federation,RUS,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.00729868861076
+Russian Federation,RUS,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.66865454789265
+Russian Federation,RUS,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,12.6853039507349
+Russian Federation,RUS,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.8886157326216
+Russian Federation,RUS,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,13.6632930228667
+Russian Federation,RUS,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,15.7887307914462
+Russian Federation,RUS,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,21.4770072117159
+Russian Federation,RUS,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,20.7987606558703
+Russian Federation,RUS,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,85.7464940960636
+Russian Federation,RUS,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,27.6856798076743
+Russian Federation,RUS,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,14.761329268806
+Russian Federation,RUS,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,47.7520122009939
+Russian Federation,RUS,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,197.414268084251
+Russian Federation,RUS,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,307.722635553193
+Russian Federation,RUS,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,874.245720380188
+Russian Federation,RUS,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1985,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1984,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1983,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1982,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1981,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1980,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1979,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1978,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1977,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1976,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1975,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1974,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1973,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1972,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1971,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1970,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1969,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1968,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1967,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1966,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1965,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1964,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1963,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1962,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1961,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,1960,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Russian Federation,RUS,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+Russian Federation,RUS,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.6
+Russian Federation,RUS,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.1
+Russian Federation,RUS,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,3.7
+Russian Federation,RUS,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,4.4
+Russian Federation,RUS,2000,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,5.1
+Russian Federation,RUS,1999,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1998,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1997,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1996,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1995,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1994,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1993,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1992,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1991,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1990,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1989,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1988,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1987,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1986,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1985,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1984,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1983,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1982,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1981,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1980,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1979,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1978,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1977,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1976,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1975,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1974,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1973,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1972,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1971,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1970,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1969,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1968,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1967,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1966,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1965,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1964,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1963,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1962,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1961,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,1960,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Russian Federation,RUS,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,21.6618572735391
+Russian Federation,RUS,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,22.4198410618039
+Russian Federation,RUS,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,24.7090285580722
+Russian Federation,RUS,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,26.5805576794068
+Russian Federation,RUS,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,28.1851871376628
+Russian Federation,RUS,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,29.40190522286
+Russian Federation,RUS,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,30.8182548987817
+Russian Federation,RUS,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,31.3759099308731
+Russian Federation,RUS,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,31.7134140220157
+Russian Federation,RUS,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,31.8271412279907
+Russian Federation,RUS,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,31.5879630772563
+Russian Federation,RUS,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,30.6301295131882
+Russian Federation,RUS,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,27.9212552365844
+Russian Federation,RUS,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,26.7278316084406
+Russian Federation,RUS,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,24.9680645658934
+Russian Federation,RUS,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,24.449897621047
+Russian Federation,RUS,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,22.8222275062438
+Russian Federation,RUS,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,21.9062593252733
+Russian Federation,RUS,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,21.0652432627211
+Russian Federation,RUS,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,19.8438060547574
+Russian Federation,RUS,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,19.11806079259
+Russian Federation,RUS,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,17.5010625098312
+Russian Federation,RUS,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,16.8717309871176
+Russian Federation,RUS,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,16.2367521112111
+Russian Federation,RUS,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,15.8154886837839
+Russian Federation,RUS,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,15.4051410811329
+Russian Federation,RUS,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,15.0615433832137
+Russian Federation,RUS,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,14.0278053872546
+Russian Federation,RUS,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,13.1390350082712
+Russian Federation,RUS,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.3257635204484
+Russian Federation,RUS,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,11.5751861459182
+Russian Federation,RUS,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.8741305981557
+Russian Federation,RUS,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.2118491470952
+Russian Federation,RUS,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.58784057237253
+Russian Federation,RUS,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.00339312984061
+Russian Federation,RUS,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,8.45212794395458
+Russian Federation,RUS,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,7.93511969879868
+Russian Federation,RUS,1980,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,7.02599640399363
+Russian Federation,RUS,1979,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.70844560196567
+Russian Federation,RUS,1978,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.1648934170292
+Russian Federation,RUS,1977,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,5.68673608394012
+Russian Federation,RUS,1976,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.82983772094492
+Russian Federation,RUS,1975,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.41008122442751
+Russian Federation,RUS,1974,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1973,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1972,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1971,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1970,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1969,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1968,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1967,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1966,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1965,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1964,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1963,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1962,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1961,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,1960,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Russian Federation,RUS,2017,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,24765.9536336261
+Russian Federation,RUS,2016,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,24416.6238784033
+Russian Federation,RUS,2015,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,24516.5499502712
+Russian Federation,RUS,2014,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,25284.5862019855
+Russian Federation,RUS,2013,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,25551.0899736309
+Russian Federation,RUS,2012,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,25156.4209403618
+Russian Federation,RUS,2011,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,24310.0439655517
+Russian Federation,RUS,2010,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,23107.7852212759
+Russian Federation,RUS,2009,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,22121.8524916537
+Russian Federation,RUS,2008,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,24005.9966846095
+Russian Federation,RUS,2007,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,22798.9708291525
+Russian Federation,RUS,2006,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,20970.1899029846
+Russian Federation,RUS,2005,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,19325.9357374432
+Russian Federation,RUS,2004,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,18098.367081109
+Russian Federation,RUS,2003,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,16818.7426277461
+Russian Federation,RUS,2002,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,15604.1494910579
+Russian Federation,RUS,2001,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,14829.0829751786
+Russian Federation,RUS,2000,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,14050.8513351861
+Russian Federation,RUS,1999,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,12719.8928946571
+Russian Federation,RUS,1998,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,11917.8464620546
+Russian Federation,RUS,1997,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,12564.0309592235
+Russian Federation,RUS,1996,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,12370.0959893372
+Russian Federation,RUS,1995,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,12813.3966776851
+Russian Federation,RUS,1994,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,13370.8533519006
+Russian Federation,RUS,1993,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,15274.2205856399
+Russian Federation,RUS,1992,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,16704.9338257425
+Russian Federation,RUS,1991,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,19553.5855977858
+Russian Federation,RUS,1990,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,20639.0005359771
+Russian Federation,RUS,1989,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1988,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1987,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1986,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1985,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1984,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1983,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1982,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1981,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1980,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1979,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1978,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1977,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1976,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1975,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1974,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1973,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1972,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1971,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1970,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1969,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1968,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1967,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1966,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1965,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1964,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1963,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1962,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1961,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,1960,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Russian Federation,RUS,2017,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,1.2
+Russian Federation,RUS,2016,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,1.1
+Russian Federation,RUS,2015,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,1
+Russian Federation,RUS,2014,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.9
+Russian Federation,RUS,2013,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.8
+Russian Federation,RUS,2012,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.7
+Russian Federation,RUS,2011,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.7
+Russian Federation,RUS,2010,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6
+Russian Federation,RUS,2009,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Russian Federation,RUS,2008,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+Russian Federation,RUS,2007,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Russian Federation,RUS,2006,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Russian Federation,RUS,2005,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+Russian Federation,RUS,2004,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+Russian Federation,RUS,2003,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+Russian Federation,RUS,2002,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+Russian Federation,RUS,2001,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,2000,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1999,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1998,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1997,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1996,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1995,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1994,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1993,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1992,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1991,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1990,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Russian Federation,RUS,1989,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1988,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1987,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1986,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1985,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1984,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1983,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1982,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1981,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1980,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1979,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1978,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1977,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1976,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1975,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1974,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1973,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1972,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1971,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1970,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1969,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1968,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1967,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1966,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1965,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1964,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1963,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1962,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1961,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,1960,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Russian Federation,RUS,2017,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.292
+Russian Federation,RUS,2016,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.164
+Russian Federation,RUS,2015,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.05
+Russian Federation,RUS,2014,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.95
+Russian Federation,RUS,2013,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.863
+Russian Federation,RUS,2012,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.791
+Russian Federation,RUS,2011,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.732
+Russian Federation,RUS,2010,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.687
+Russian Federation,RUS,2009,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.642
+Russian Federation,RUS,2008,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.598
+Russian Federation,RUS,2007,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.553
+Russian Federation,RUS,2006,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.508
+Russian Federation,RUS,2005,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.463
+Russian Federation,RUS,2004,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.418
+Russian Federation,RUS,2003,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.373
+Russian Federation,RUS,2002,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.341
+Russian Federation,RUS,2001,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.346
+Russian Federation,RUS,2000,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.35
+Russian Federation,RUS,1999,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.354
+Russian Federation,RUS,1998,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.359
+Russian Federation,RUS,1997,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.363
+Russian Federation,RUS,1996,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.367
+Russian Federation,RUS,1995,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.372
+Russian Federation,RUS,1994,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.376
+Russian Federation,RUS,1993,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.381
+Russian Federation,RUS,1992,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.385
+Russian Federation,RUS,1991,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.389
+Russian Federation,RUS,1990,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.394
+Russian Federation,RUS,1989,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.398
+Russian Federation,RUS,1988,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.181
+Russian Federation,RUS,1987,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.765
+Russian Federation,RUS,1986,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.346
+Russian Federation,RUS,1985,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.923
+Russian Federation,RUS,1984,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.497
+Russian Federation,RUS,1983,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.066
+Russian Federation,RUS,1982,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.631
+Russian Federation,RUS,1981,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.193
+Russian Federation,RUS,1980,Urban population (% of total),SP.URB.TOTL.IN.ZS,69.751
+Russian Federation,RUS,1979,Urban population (% of total),SP.URB.TOTL.IN.ZS,69.305
+Russian Federation,RUS,1978,Urban population (% of total),SP.URB.TOTL.IN.ZS,68.698
+Russian Federation,RUS,1977,Urban population (% of total),SP.URB.TOTL.IN.ZS,67.95
+Russian Federation,RUS,1976,Urban population (% of total),SP.URB.TOTL.IN.ZS,67.194
+Russian Federation,RUS,1975,Urban population (% of total),SP.URB.TOTL.IN.ZS,66.427
+Russian Federation,RUS,1974,Urban population (% of total),SP.URB.TOTL.IN.ZS,65.652
+Russian Federation,RUS,1973,Urban population (% of total),SP.URB.TOTL.IN.ZS,64.869
+Russian Federation,RUS,1972,Urban population (% of total),SP.URB.TOTL.IN.ZS,64.078
+Russian Federation,RUS,1971,Urban population (% of total),SP.URB.TOTL.IN.ZS,63.278
+Russian Federation,RUS,1970,Urban population (% of total),SP.URB.TOTL.IN.ZS,62.471
+Russian Federation,RUS,1969,Urban population (% of total),SP.URB.TOTL.IN.ZS,61.638
+Russian Federation,RUS,1968,Urban population (% of total),SP.URB.TOTL.IN.ZS,60.783
+Russian Federation,RUS,1967,Urban population (% of total),SP.URB.TOTL.IN.ZS,59.918
+Russian Federation,RUS,1966,Urban population (% of total),SP.URB.TOTL.IN.ZS,59.048
+Russian Federation,RUS,1965,Urban population (% of total),SP.URB.TOTL.IN.ZS,58.173
+Russian Federation,RUS,1964,Urban population (% of total),SP.URB.TOTL.IN.ZS,57.294
+Russian Federation,RUS,1963,Urban population (% of total),SP.URB.TOTL.IN.ZS,56.408
+Russian Federation,RUS,1962,Urban population (% of total),SP.URB.TOTL.IN.ZS,55.518
+Russian Federation,RUS,1961,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.626
+Russian Federation,RUS,1960,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.731

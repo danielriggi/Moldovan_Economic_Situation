@@ -1,0 +1,1684 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+num
+France,FRA,2017,"Population, total",SP.POP.TOTL,67118648
+France,FRA,2016,"Population, total",SP.POP.TOTL,66859768
+France,FRA,2015,"Population, total",SP.POP.TOTL,66593366
+France,FRA,2014,"Population, total",SP.POP.TOTL,66316092
+France,FRA,2013,"Population, total",SP.POP.TOTL,65998660
+France,FRA,2012,"Population, total",SP.POP.TOTL,65659789
+France,FRA,2011,"Population, total",SP.POP.TOTL,65342775
+France,FRA,2010,"Population, total",SP.POP.TOTL,65027507
+France,FRA,2009,"Population, total",SP.POP.TOTL,64707044
+France,FRA,2008,"Population, total",SP.POP.TOTL,64374989
+France,FRA,2007,"Population, total",SP.POP.TOTL,64016227
+France,FRA,2006,"Population, total",SP.POP.TOTL,63621381
+France,FRA,2005,"Population, total",SP.POP.TOTL,63179351
+France,FRA,2004,"Population, total",SP.POP.TOTL,62704895
+France,FRA,2003,"Population, total",SP.POP.TOTL,62244886
+France,FRA,2002,"Population, total",SP.POP.TOTL,61805267
+France,FRA,2001,"Population, total",SP.POP.TOTL,61357430
+France,FRA,2000,"Population, total",SP.POP.TOTL,60912500
+France,FRA,1999,"Population, total",SP.POP.TOTL,60496718
+France,FRA,1998,"Population, total",SP.POP.TOTL,60186288
+France,FRA,1997,"Population, total",SP.POP.TOTL,59964851
+France,FRA,1996,"Population, total",SP.POP.TOTL,59753100
+France,FRA,1995,"Population, total",SP.POP.TOTL,59541899
+France,FRA,1994,"Population, total",SP.POP.TOTL,59327192
+France,FRA,1993,"Population, total",SP.POP.TOTL,59106768
+France,FRA,1992,"Population, total",SP.POP.TOTL,58851217
+France,FRA,1991,"Population, total",SP.POP.TOTL,58559311
+France,FRA,1990,"Population, total",SP.POP.TOTL,58512808
+France,FRA,1989,"Population, total",SP.POP.TOTL,58182702
+France,FRA,1988,"Population, total",SP.POP.TOTL,57836486
+France,FRA,1987,"Population, total",SP.POP.TOTL,57482591
+France,FRA,1986,"Population, total",SP.POP.TOTL,57132691
+France,FRA,1985,"Population, total",SP.POP.TOTL,56795686
+France,FRA,1984,"Population, total",SP.POP.TOTL,56470769
+France,FRA,1983,"Population, total",SP.POP.TOTL,56156284
+France,FRA,1982,"Population, total",SP.POP.TOTL,55858727
+France,FRA,1981,"Population, total",SP.POP.TOTL,55585824
+France,FRA,1980,"Population, total",SP.POP.TOTL,55340782
+France,FRA,1979,"Population, total",SP.POP.TOTL,55130594
+France,FRA,1978,"Population, total",SP.POP.TOTL,54947975
+France,FRA,1977,"Population, total",SP.POP.TOTL,54764462
+France,FRA,1976,"Population, total",SP.POP.TOTL,54541493
+France,FRA,1975,"Population, total",SP.POP.TOTL,54252574
+France,FRA,1974,"Population, total",SP.POP.TOTL,53882416
+France,FRA,1973,"Population, total",SP.POP.TOTL,53441264
+France,FRA,1972,"Population, total",SP.POP.TOTL,52959228
+France,FRA,1971,"Population, total",SP.POP.TOTL,52480421
+France,FRA,1970,"Population, total",SP.POP.TOTL,52035095
+France,FRA,1969,"Population, total",SP.POP.TOTL,51638260
+France,FRA,1968,"Population, total",SP.POP.TOTL,51276054
+France,FRA,1967,"Population, total",SP.POP.TOTL,50915456
+France,FRA,1966,"Population, total",SP.POP.TOTL,50508717
+France,FRA,1965,"Population, total",SP.POP.TOTL,50023774
+France,FRA,1964,"Population, total",SP.POP.TOTL,49449403
+France,FRA,1963,"Population, total",SP.POP.TOTL,48803680
+France,FRA,1962,"Population, total",SP.POP.TOTL,48119649
+France,FRA,1961,"Population, total",SP.POP.TOTL,47444751
+France,FRA,1960,"Population, total",SP.POP.TOTL,46814237
+France,FRA,2017,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,31.7021348203046
+France,FRA,2016,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,30.9640544604332
+France,FRA,2015,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,30.1584786546544
+France,FRA,2014,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,29.2520772265426
+France,FRA,2013,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,28.2827763815653
+France,FRA,2012,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,27.3400591330143
+France,FRA,2011,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,26.5479296124023
+France,FRA,2010,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,25.9631248719592
+France,FRA,2009,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,25.5593760351008
+France,FRA,2008,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,25.3816046719139
+France,FRA,2007,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,25.3501784558208
+France,FRA,2006,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,25.33952139898
+France,FRA,2005,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,25.2671821566622
+France,FRA,2004,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,25.2065734129394
+France,FRA,2003,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,25.1035711517643
+France,FRA,2002,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,24.9542500431287
+France,FRA,2001,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,24.7676716248045
+France,FRA,2000,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,24.545395179252
+France,FRA,1999,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,24.3305552759929
+France,FRA,1998,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,24.0683174931443
+France,FRA,1997,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,23.7635707517857
+France,FRA,1996,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,23.4314503398089
+France,FRA,1995,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,23.0810202873111
+France,FRA,1994,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.7452726750148
+France,FRA,1993,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.4245005490284
+France,FRA,1992,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.090776928589
+France,FRA,1991,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.6948751879937
+France,FRA,1990,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.2079717919157
+France,FRA,1989,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.7740248578563
+France,FRA,1988,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.2296822783697
+France,FRA,1987,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.6723179735432
+France,FRA,1986,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.2700662502602
+France,FRA,1985,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.1329400972697
+France,FRA,1984,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.3679835309106
+France,FRA,1983,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.9230983573602
+France,FRA,1982,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.6649132978115
+France,FRA,1981,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.338720089174
+France,FRA,1980,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.7571817159429
+France,FRA,1979,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.052964617491
+France,FRA,1978,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.0762575322695
+France,FRA,1977,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.8853934792572
+France,FRA,1976,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.6155500890474
+France,FRA,1975,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.3563261799289
+France,FRA,1974,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.245311933923
+France,FRA,1973,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.1268059607475
+France,FRA,1972,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.9897536604529
+France,FRA,1971,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.8058870374721
+France,FRA,1970,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.5547748000278
+France,FRA,1969,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.365088446403
+France,FRA,1968,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.1310089020864
+France,FRA,1967,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.8629815301828
+France,FRA,1966,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.5807175494195
+France,FRA,1965,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.2953784828309
+France,FRA,1964,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.1534361847693
+France,FRA,1963,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.0421063546651
+France,FRA,1962,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.9406667081263
+France,FRA,1961,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.8157617832589
+France,FRA,1960,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.6450929482223
+France,FRA,2017,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.0741678275395
+France,FRA,2016,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.0883728258762
+France,FRA,2015,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.0862649680463
+France,FRA,2014,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.9902961786009
+France,FRA,2013,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.8608600326784
+France,FRA,2012,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.7104393127976
+France,FRA,2011,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.557648437202
+France,FRA,2010,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.421816532519
+France,FRA,2009,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.3474212096062
+France,FRA,2008,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.2922098952394
+France,FRA,2007,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.2610671643689
+France,FRA,2006,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.2581198444086
+France,FRA,2005,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.2792457366186
+France,FRA,2004,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.3392514057345
+France,FRA,2003,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.4404140448368
+France,FRA,2002,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.5709253810758
+France,FRA,2001,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.6995561344778
+France,FRA,2000,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.7991742339732
+France,FRA,1999,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.9946624468601
+France,FRA,1998,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.1905608913
+France,FRA,1997,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.377032489103
+France,FRA,1996,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.5501458152603
+France,FRA,1995,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.721869889437
+France,FRA,1994,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.801996460777
+France,FRA,1993,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.8217711967067
+France,FRA,1992,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.8215937743287
+France,FRA,1991,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.8916834509252
+France,FRA,1990,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.082828966524
+France,FRA,1989,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.2989628819898
+France,FRA,1988,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.641036041876
+France,FRA,1987,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.0625653731952
+France,FRA,1986,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.427497668096
+France,FRA,1985,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.6407882932299
+France,FRA,1984,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.1902796570219
+France,FRA,1983,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.6927807287309
+France,FRA,1982,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.1867641905448
+France,FRA,1981,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.7942217219738
+France,FRA,1980,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.5956161826419
+France,FRA,1979,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,35.3028929190227
+France,FRA,1978,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,36.0867588497916
+France,FRA,1977,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,36.8660280215752
+France,FRA,1976,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.5004270253686
+France,FRA,1975,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.915218832243
+France,FRA,1974,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.4489140094043
+France,FRA,1973,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.810591879185
+France,FRA,1972,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,39.0630524467387
+France,FRA,1971,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,39.3237931634207
+France,FRA,1970,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,39.6591352460975
+France,FRA,1969,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,39.8662606508256
+France,FRA,1968,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,40.0800948442736
+France,FRA,1967,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,40.3039240084282
+France,FRA,1966,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,40.5379165389505
+France,FRA,1965,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,40.7517873971246
+France,FRA,1964,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,41.2222951228
+France,FRA,1963,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,41.8164125678249
+France,FRA,1962,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,42.3820314973802
+France,FRA,1961,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,42.5909034405095
+France,FRA,1960,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,42.2635699702523
+France,FRA,2017,Number of infant deaths,SH.DTH.IMRT,2698
+France,FRA,2016,Number of infant deaths,SH.DTH.IMRT,2688
+France,FRA,2015,Number of infant deaths,SH.DTH.IMRT,2670
+France,FRA,2014,Number of infant deaths,SH.DTH.IMRT,2657
+France,FRA,2013,Number of infant deaths,SH.DTH.IMRT,2655
+France,FRA,2012,Number of infant deaths,SH.DTH.IMRT,2669
+France,FRA,2011,Number of infant deaths,SH.DTH.IMRT,2700
+France,FRA,2010,Number of infant deaths,SH.DTH.IMRT,2739
+France,FRA,2009,Number of infant deaths,SH.DTH.IMRT,2778
+France,FRA,2008,Number of infant deaths,SH.DTH.IMRT,2815
+France,FRA,2007,Number of infant deaths,SH.DTH.IMRT,2853
+France,FRA,2006,Number of infant deaths,SH.DTH.IMRT,2893
+France,FRA,2005,Number of infant deaths,SH.DTH.IMRT,2946
+France,FRA,2004,Number of infant deaths,SH.DTH.IMRT,3018
+France,FRA,2003,Number of infant deaths,SH.DTH.IMRT,3102
+France,FRA,2002,Number of infant deaths,SH.DTH.IMRT,3186
+France,FRA,2001,Number of infant deaths,SH.DTH.IMRT,3258
+France,FRA,2000,Number of infant deaths,SH.DTH.IMRT,3319
+France,FRA,1999,Number of infant deaths,SH.DTH.IMRT,3371
+France,FRA,1998,Number of infant deaths,SH.DTH.IMRT,3431
+France,FRA,1997,Number of infant deaths,SH.DTH.IMRT,3528
+France,FRA,1996,Number of infant deaths,SH.DTH.IMRT,3682
+France,FRA,1995,Number of infant deaths,SH.DTH.IMRT,3903
+France,FRA,1994,Number of infant deaths,SH.DTH.IMRT,4195
+France,FRA,1993,Number of infant deaths,SH.DTH.IMRT,4538
+France,FRA,1992,Number of infant deaths,SH.DTH.IMRT,4897
+France,FRA,1991,Number of infant deaths,SH.DTH.IMRT,5230
+France,FRA,1990,Number of infant deaths,SH.DTH.IMRT,5524
+France,FRA,1989,Number of infant deaths,SH.DTH.IMRT,5773
+France,FRA,1988,Number of infant deaths,SH.DTH.IMRT,5983
+France,FRA,1987,Number of infant deaths,SH.DTH.IMRT,6174
+France,FRA,1986,Number of infant deaths,SH.DTH.IMRT,6361
+France,FRA,1985,Number of infant deaths,SH.DTH.IMRT,6549
+France,FRA,1984,Number of infant deaths,SH.DTH.IMRT,6749
+France,FRA,1983,Number of infant deaths,SH.DTH.IMRT,6955
+France,FRA,1982,Number of infant deaths,SH.DTH.IMRT,7157
+France,FRA,1981,Number of infant deaths,SH.DTH.IMRT,7358
+France,FRA,1980,Number of infant deaths,SH.DTH.IMRT,7591
+France,FRA,1979,Number of infant deaths,SH.DTH.IMRT,7889
+France,FRA,1978,Number of infant deaths,SH.DTH.IMRT,8261
+France,FRA,1977,Number of infant deaths,SH.DTH.IMRT,8704
+France,FRA,1976,Number of infant deaths,SH.DTH.IMRT,9201
+France,FRA,1975,Number of infant deaths,SH.DTH.IMRT,9728
+France,FRA,1974,Number of infant deaths,SH.DTH.IMRT,10263
+France,FRA,1973,Number of infant deaths,SH.DTH.IMRT,10806
+France,FRA,1972,Number of infant deaths,SH.DTH.IMRT,11403
+France,FRA,1971,Number of infant deaths,SH.DTH.IMRT,12069
+France,FRA,1970,Number of infant deaths,SH.DTH.IMRT,12756
+France,FRA,1969,Number of infant deaths,SH.DTH.IMRT,13399
+France,FRA,1968,Number of infant deaths,SH.DTH.IMRT,14004
+France,FRA,1967,Number of infant deaths,SH.DTH.IMRT,14596
+France,FRA,1966,Number of infant deaths,SH.DTH.IMRT,15207
+France,FRA,1965,Number of infant deaths,SH.DTH.IMRT,15854
+France,FRA,1964,Number of infant deaths,SH.DTH.IMRT,16552
+France,FRA,1963,Number of infant deaths,SH.DTH.IMRT,17281
+France,FRA,1962,Number of infant deaths,SH.DTH.IMRT,18018
+France,FRA,1961,Number of infant deaths,SH.DTH.IMRT,18761
+France,FRA,1960,Number of infant deaths,SH.DTH.IMRT,19600
+France,FRA,2017,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2016,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2015,International migrant stock (% of population),SM.POP.TOTL.ZS,12.0884793768866
+France,FRA,2014,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2013,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2012,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2011,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2010,International migrant stock (% of population),SM.POP.TOTL.ZS,11.430036776973
+France,FRA,2009,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2008,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2007,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2006,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2005,International migrant stock (% of population),SM.POP.TOTL.ZS,11.0016541016987
+France,FRA,2004,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2003,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2002,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2001,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2000,International migrant stock (% of population),SM.POP.TOTL.ZS,10.572513601125
+France,FRA,1999,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1998,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1997,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1996,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1995,International migrant stock (% of population),SM.POP.TOTL.ZS,10.4561480959131
+France,FRA,1994,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1993,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1992,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1991,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1990,International migrant stock (% of population),SM.POP.TOTL.ZS,10.3563845150594
+France,FRA,1989,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1988,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1987,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1986,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1985,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1984,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1983,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1982,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1981,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1980,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1979,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1978,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1977,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1976,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1975,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1974,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1973,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1972,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1971,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1970,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1969,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1968,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1967,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1966,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1965,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1964,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1963,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1962,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1961,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,1960,International migrant stock (% of population),SM.POP.TOTL.ZS,
+France,FRA,2017,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2016,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2015,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2014,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2013,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2012,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2011,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2010,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2009,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2008,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2007,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2006,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2005,Land area (sq. km),AG.LND.TOTL.K2,547557
+France,FRA,2004,Land area (sq. km),AG.LND.TOTL.K2,547567
+France,FRA,2003,Land area (sq. km),AG.LND.TOTL.K2,547867
+France,FRA,2002,Land area (sq. km),AG.LND.TOTL.K2,547567
+France,FRA,2001,Land area (sq. km),AG.LND.TOTL.K2,547567
+France,FRA,2000,Land area (sq. km),AG.LND.TOTL.K2,547567
+France,FRA,1999,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1998,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1997,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1996,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1995,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1994,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1993,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1992,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1991,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1990,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1989,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1988,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1987,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1986,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1985,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1984,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1983,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1982,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1981,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1980,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1979,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1978,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1977,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1976,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1975,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1974,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1973,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1972,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1971,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1970,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1969,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1968,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1967,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1966,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1965,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1964,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1963,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1962,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1961,Land area (sq. km),AG.LND.TOTL.K2,547566
+France,FRA,1960,Land area (sq. km),AG.LND.TOTL.K2,
+France,FRA,2017,Population growth (annual %),SP.POP.GROW,0.38645078799135
+France,FRA,2016,Population growth (annual %),SP.POP.GROW,0.399244807338297
+France,FRA,2015,Population growth (annual %),SP.POP.GROW,0.417238030192745
+France,FRA,2014,Population growth (annual %),SP.POP.GROW,0.479814388342675
+France,FRA,2013,Population growth (annual %),SP.POP.GROW,0.514774024594539
+France,FRA,2012,Population growth (annual %),SP.POP.GROW,0.483982311686857
+France,FRA,2011,Population growth (annual %),SP.POP.GROW,0.483651043353276
+France,FRA,2010,Population growth (annual %),SP.POP.GROW,0.49402976972961
+France,FRA,2009,Population growth (annual %),SP.POP.GROW,0.514487918627095
+France,FRA,2008,Population growth (annual %),SP.POP.GROW,0.558859001300406
+France,FRA,2007,Population growth (annual %),SP.POP.GROW,0.618700500131675
+France,FRA,2006,Population growth (annual %),SP.POP.GROW,0.697207001264929
+France,FRA,2005,Population growth (annual %),SP.POP.GROW,0.753800831613331
+France,FRA,2004,Population growth (annual %),SP.POP.GROW,0.736313540733143
+France,FRA,2003,Population growth (annual %),SP.POP.GROW,0.708779199037771
+France,FRA,2002,Population growth (annual %),SP.POP.GROW,0.727231515093808
+France,FRA,2001,Population growth (annual %),SP.POP.GROW,0.727786404872444
+France,FRA,2000,Population growth (annual %),SP.POP.GROW,0.684929253818552
+France,FRA,1999,Population growth (annual %),SP.POP.GROW,0.514456334749952
+France,FRA,1998,Population growth (annual %),SP.POP.GROW,0.368597838613228
+France,FRA,1997,Population growth (annual %),SP.POP.GROW,0.353750158686726
+France,FRA,1996,Population growth (annual %),SP.POP.GROW,0.354082270724007
+France,FRA,1995,Population growth (annual %),SP.POP.GROW,0.361249895477809
+France,FRA,1994,Population growth (annual %),SP.POP.GROW,0.372231502703071
+France,FRA,1993,Population growth (annual %),SP.POP.GROW,0.433292243528965
+France,FRA,1992,Population growth (annual %),SP.POP.GROW,0.497240931314439
+France,FRA,1991,Population growth (annual %),SP.POP.GROW,0.0794433428607654
+France,FRA,1990,Population growth (annual %),SP.POP.GROW,0.565757637987883
+France,FRA,1989,Population growth (annual %),SP.POP.GROW,0.596827186364463
+France,FRA,1988,Population growth (annual %),SP.POP.GROW,0.613768545805447
+France,FRA,1987,Population growth (annual %),SP.POP.GROW,0.610566201801942
+France,FRA,1986,Population growth (annual %),SP.POP.GROW,0.591610258677272
+France,FRA,1985,Population growth (annual %),SP.POP.GROW,0.573723069627027
+France,FRA,1984,Population growth (annual %),SP.POP.GROW,0.558455200502651
+France,FRA,1983,Population growth (annual %),SP.POP.GROW,0.531281829547428
+France,FRA,1982,Population growth (annual %),SP.POP.GROW,0.489756642280275
+France,FRA,1981,Population growth (annual %),SP.POP.GROW,0.441809963235397
+France,FRA,1980,Population growth (annual %),SP.POP.GROW,0.380529801008218
+France,FRA,1979,Population growth (annual %),SP.POP.GROW,0.331797858922768
+France,FRA,1978,Population growth (annual %),SP.POP.GROW,0.334534855235388
+France,FRA,1977,Population growth (annual %),SP.POP.GROW,0.407972848801049
+France,FRA,1976,Population growth (annual %),SP.POP.GROW,0.531131314727379
+France,FRA,1975,Population growth (annual %),SP.POP.GROW,0.68462473766975
+France,FRA,1974,Population growth (annual %),SP.POP.GROW,0.822100927962561
+France,FRA,1973,Population growth (annual %),SP.POP.GROW,0.906084716004875
+France,FRA,1972,Population growth (annual %),SP.POP.GROW,0.908216777591636
+France,FRA,1971,Population growth (annual %),SP.POP.GROW,0.852177192491511
+France,FRA,1970,Population growth (annual %),SP.POP.GROW,0.765552418186603
+France,FRA,1969,Population growth (annual %),SP.POP.GROW,0.703901102693199
+France,FRA,1968,Population growth (annual %),SP.POP.GROW,0.705732788676981
+France,FRA,1967,Population growth (annual %),SP.POP.GROW,0.802059644019058
+France,FRA,1966,Population growth (annual %),SP.POP.GROW,0.964756282329165
+France,FRA,1965,Population growth (annual %),SP.POP.GROW,1.15483872283151
+France,FRA,1964,Population growth (annual %),SP.POP.GROW,1.31442653430471
+France,FRA,1963,Population growth (annual %),SP.POP.GROW,1.41151230364528
+France,FRA,1962,Population growth (annual %),SP.POP.GROW,1.41246995856912
+France,FRA,1961,Population growth (annual %),SP.POP.GROW,1.33785311668319
+France,FRA,1960,Population growth (annual %),SP.POP.GROW,1.22961003712654
+France,FRA,2017,Population density (people per sq. km of land area),EN.POP.DNST,122.57837631516
+France,FRA,2016,Population density (people per sq. km of land area),EN.POP.DNST,122.105585354584
+France,FRA,2015,Population density (people per sq. km of land area),EN.POP.DNST,121.619057011416
+France,FRA,2014,Population density (people per sq. km of land area),EN.POP.DNST,121.112673201146
+France,FRA,2013,Population density (people per sq. km of land area),EN.POP.DNST,120.5329490811
+France,FRA,2012,Population density (people per sq. km of land area),EN.POP.DNST,119.914071046485
+France,FRA,2011,Population density (people per sq. km of land area),EN.POP.DNST,119.335110317282
+France,FRA,2010,Population density (people per sq. km of land area),EN.POP.DNST,118.7593382972
+France,FRA,2009,Population density (people per sq. km of land area),EN.POP.DNST,118.174078680393
+France,FRA,2008,Population density (people per sq. km of land area),EN.POP.DNST,117.567648664888
+France,FRA,2007,Population density (people per sq. km of land area),EN.POP.DNST,116.912443818634
+France,FRA,2006,Population density (people per sq. km of land area),EN.POP.DNST,116.191338983887
+France,FRA,2005,Population density (people per sq. km of land area),EN.POP.DNST,115.384062298537
+France,FRA,2004,Population density (people per sq. km of land area),EN.POP.DNST,114.515474818607
+France,FRA,2003,Population density (people per sq. km of land area),EN.POP.DNST,113.61313238432
+France,FRA,2002,Population density (people per sq. km of land area),EN.POP.DNST,112.872519709917
+France,FRA,2001,Population density (people per sq. km of land area),EN.POP.DNST,112.054652672641
+France,FRA,2000,Population density (people per sq. km of land area),EN.POP.DNST,111.242094574728
+France,FRA,1999,Population density (people per sq. km of land area),EN.POP.DNST,110.48297008945
+France,FRA,1998,Population density (people per sq. km of land area),EN.POP.DNST,109.916042997556
+France,FRA,1997,Population density (people per sq. km of land area),EN.POP.DNST,109.511640605881
+France,FRA,1996,Population density (people per sq. km of land area),EN.POP.DNST,109.124927406011
+France,FRA,1995,Population density (people per sq. km of land area),EN.POP.DNST,108.739218651268
+France,FRA,1994,Population density (people per sq. km of land area),EN.POP.DNST,108.34710701541
+France,FRA,1993,Population density (people per sq. km of land area),EN.POP.DNST,107.944554629031
+France,FRA,1992,Population density (people per sq. km of land area),EN.POP.DNST,107.477851071834
+France,FRA,1991,Population density (people per sq. km of land area),EN.POP.DNST,106.944753691792
+France,FRA,1990,Population density (people per sq. km of land area),EN.POP.DNST,106.859826943236
+France,FRA,1989,Population density (people per sq. km of land area),EN.POP.DNST,106.256966283517
+France,FRA,1988,Population density (people per sq. km of land area),EN.POP.DNST,105.624684512917
+France,FRA,1987,Population density (people per sq. km of land area),EN.POP.DNST,104.978378862092
+France,FRA,1986,Population density (people per sq. km of land area),EN.POP.DNST,104.33936913541
+France,FRA,1985,Population density (people per sq. km of land area),EN.POP.DNST,103.72390908128
+France,FRA,1984,Population density (people per sq. km of land area),EN.POP.DNST,103.13052490476
+France,FRA,1983,Population density (people per sq. km of land area),EN.POP.DNST,102.55619231289
+France,FRA,1982,Population density (people per sq. km of land area),EN.POP.DNST,102.012774715742
+France,FRA,1981,Population density (people per sq. km of land area),EN.POP.DNST,101.514381827944
+France,FRA,1980,Population density (people per sq. km of land area),EN.POP.DNST,101.066870477714
+France,FRA,1979,Population density (people per sq. km of land area),EN.POP.DNST,100.683011728267
+France,FRA,1978,Population density (people per sq. km of land area),EN.POP.DNST,100.349501247338
+France,FRA,1977,Population density (people per sq. km of land area),EN.POP.DNST,100.014358086514
+France,FRA,1976,Population density (people per sq. km of land area),EN.POP.DNST,99.607157858596
+France,FRA,1975,Population density (people per sq. km of land area),EN.POP.DNST,99.0795155287217
+France,FRA,1974,Population density (people per sq. km of land area),EN.POP.DNST,98.4035093486447
+France,FRA,1973,Population density (people per sq. km of land area),EN.POP.DNST,97.5978493916715
+France,FRA,1972,Population density (people per sq. km of land area),EN.POP.DNST,96.7175244628045
+France,FRA,1971,Population density (people per sq. km of land area),EN.POP.DNST,95.8430965399605
+France,FRA,1970,Population density (people per sq. km of land area),EN.POP.DNST,95.029813757611
+France,FRA,1969,Population density (people per sq. km of land area),EN.POP.DNST,94.3050883363832
+France,FRA,1968,Population density (people per sq. km of land area),EN.POP.DNST,93.643604606568
+France,FRA,1967,Population density (people per sq. km of land area),EN.POP.DNST,92.9850575090491
+France,FRA,1966,Population density (people per sq. km of land area),EN.POP.DNST,92.2422447704934
+France,FRA,1965,Population density (people per sq. km of land area),EN.POP.DNST,91.3566108925682
+France,FRA,1964,Population density (people per sq. km of land area),EN.POP.DNST,90.3076578896425
+France,FRA,1963,Population density (people per sq. km of land area),EN.POP.DNST,89.1283973073566
+France,FRA,1962,Population density (people per sq. km of land area),EN.POP.DNST,87.8791762088954
+France,FRA,1961,Population density (people per sq. km of land area),EN.POP.DNST,86.6466343783215
+France,FRA,1960,Population density (people per sq. km of land area),EN.POP.DNST,
+France,FRA,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,15165467
+France,FRA,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,15087034
+France,FRA,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,15009039
+France,FRA,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14931481
+France,FRA,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14854356
+France,FRA,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14777768
+France,FRA,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14701396
+France,FRA,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14625558
+France,FRA,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14529252
+France,FRA,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14433732
+France,FRA,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14334414
+France,FRA,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14235949
+France,FRA,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14138198
+France,FRA,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,14041287
+France,FRA,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13944811
+France,FRA,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13849166
+France,FRA,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13754213
+France,FRA,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13660076
+France,FRA,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13566362
+France,FRA,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13501532
+France,FRA,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13450352
+France,FRA,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13399440
+France,FRA,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13348583
+France,FRA,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13297994
+France,FRA,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13247599
+France,FRA,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13197469
+France,FRA,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13147392
+France,FRA,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13097578
+France,FRA,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,13021834
+France,FRA,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12934334
+France,FRA,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12847296
+France,FRA,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12761075
+France,FRA,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12675541
+France,FRA,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12590808
+France,FRA,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12506521
+France,FRA,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12423022
+France,FRA,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12347170
+France,FRA,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12275774
+France,FRA,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12205015
+France,FRA,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12135172
+France,FRA,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,12066136
+France,FRA,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11997986
+France,FRA,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11930431
+France,FRA,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11836777
+France,FRA,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11728989
+France,FRA,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11622344
+France,FRA,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11516397
+France,FRA,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11411576
+France,FRA,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11307724
+France,FRA,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11204975
+France,FRA,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,11080472
+France,FRA,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10946853
+France,FRA,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10815273
+France,FRA,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10685874
+France,FRA,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10558083
+France,FRA,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10432393
+France,FRA,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10255584
+France,FRA,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,10058209
+France,FRA,2017,GNI (current US$),NY.GNP.MKTP.CD,2639294913780.85
+France,FRA,2016,GNI (current US$),NY.GNP.MKTP.CD,2504683645572.16
+France,FRA,2015,GNI (current US$),NY.GNP.MKTP.CD,2470429613371.04
+France,FRA,2014,GNI (current US$),NY.GNP.MKTP.CD,2890200563516.05
+France,FRA,2013,GNI (current US$),NY.GNP.MKTP.CD,2847670255761.32
+France,FRA,2012,GNI (current US$),NY.GNP.MKTP.CD,2719446743693.93
+France,FRA,2011,GNI (current US$),NY.GNP.MKTP.CD,2928598893843.11
+France,FRA,2010,GNI (current US$),NY.GNP.MKTP.CD,2700865683063.93
+France,FRA,2009,GNI (current US$),NY.GNP.MKTP.CD,2741938038343.98
+France,FRA,2008,GNI (current US$),NY.GNP.MKTP.CD,2985882525267.32
+France,FRA,2007,GNI (current US$),NY.GNP.MKTP.CD,2718536819052.83
+France,FRA,2006,GNI (current US$),NY.GNP.MKTP.CD,2371773930498.06
+France,FRA,2005,GNI (current US$),NY.GNP.MKTP.CD,2242208680512.37
+France,FRA,2004,GNI (current US$),NY.GNP.MKTP.CD,2155002483238.14
+France,FRA,2003,GNI (current US$),NY.GNP.MKTP.CD,1871249435665.91
+France,FRA,2002,GNI (current US$),NY.GNP.MKTP.CD,1515576886881.23
+France,FRA,2001,GNI (current US$),NY.GNP.MKTP.CD,1407081879194.63
+France,FRA,2000,GNI (current US$),NY.GNP.MKTP.CD,1394045513174.87
+France,FRA,1999,GNI (current US$),NY.GNP.MKTP.CD,1530937566588.54
+France,FRA,1998,GNI (current US$),NY.GNP.MKTP.CD,1530977318212.14
+France,FRA,1997,GNI (current US$),NY.GNP.MKTP.CD,1479413351314.9
+France,FRA,1996,GNI (current US$),NY.GNP.MKTP.CD,1629424285164.76
+France,FRA,1995,GNI (current US$),NY.GNP.MKTP.CD,1617311078985.41
+France,FRA,1994,GNI (current US$),NY.GNP.MKTP.CD,1408555056710.77
+France,FRA,1993,GNI (current US$),NY.GNP.MKTP.CD,1339380356729.21
+France,FRA,1992,GNI (current US$),NY.GNP.MKTP.CD,1417074349442.38
+France,FRA,1991,GNI (current US$),NY.GNP.MKTP.CD,1280630159283.8
+France,FRA,1990,GNI (current US$),NY.GNP.MKTP.CD,1280816769063.97
+France,FRA,1989,GNI (current US$),NY.GNP.MKTP.CD,1034696689286.45
+France,FRA,1988,GNI (current US$),NY.GNP.MKTP.CD,1030505450941.53
+France,FRA,1987,GNI (current US$),NY.GNP.MKTP.CD,946387645967.478
+France,FRA,1986,GNI (current US$),NY.GNP.MKTP.CD,778750828676.958
+France,FRA,1985,GNI (current US$),NY.GNP.MKTP.CD,555348226018.397
+France,FRA,1984,GNI (current US$),NY.GNP.MKTP.CD,530110335510.02
+France,FRA,1983,GNI (current US$),NY.GNP.MKTP.CD,560219468112.574
+France,FRA,1982,GNI (current US$),NY.GNP.MKTP.CD,588762351532.089
+France,FRA,1981,GNI (current US$),NY.GNP.MKTP.CD,621867229933.615
+France,FRA,1980,GNI (current US$),NY.GNP.MKTP.CD,708635516920.211
+France,FRA,1979,GNI (current US$),NY.GNP.MKTP.CD,618470551958.064
+France,FRA,1978,GNI (current US$),NY.GNP.MKTP.CD,509777616279.07
+France,FRA,1977,GNI (current US$),NY.GNP.MKTP.CD,412587590264.777
+France,FRA,1976,GNI (current US$),NY.GNP.MKTP.CD,374608030592.734
+France,FRA,1975,GNI (current US$),NY.GNP.MKTP.CD,363070215695.273
+France,FRA,1974,GNI (current US$),NY.GNP.MKTP.CD,287221767594.108
+France,FRA,1973,GNI (current US$),NY.GNP.MKTP.CD,266259575721.862
+France,FRA,1972,GNI (current US$),NY.GNP.MKTP.CD,205179453836.151
+France,FRA,1971,GNI (current US$),NY.GNP.MKTP.CD,167459453060.258
+France,FRA,1970,GNI (current US$),NY.GNP.MKTP.CD,149622062123.538
+France,FRA,1969,GNI (current US$),NY.GNP.MKTP.CD,141766574370.739
+France,FRA,1968,GNI (current US$),NY.GNP.MKTP.CD,130880530924.712
+France,FRA,1967,GNI (current US$),NY.GNP.MKTP.CD,120497766861.681
+France,FRA,1966,GNI (current US$),NY.GNP.MKTP.CD,111516040146.002
+France,FRA,1965,GNI (current US$),NY.GNP.MKTP.CD,103102066504
+France,FRA,1964,GNI (current US$),NY.GNP.MKTP.CD,95787572272.5105
+France,FRA,1963,GNI (current US$),NY.GNP.MKTP.CD,86359516735.7839
+France,FRA,1962,GNI (current US$),NY.GNP.MKTP.CD,76999008609.5828
+France,FRA,1961,GNI (current US$),NY.GNP.MKTP.CD,68883022883.3664
+France,FRA,1960,GNI (current US$),NY.GNP.MKTP.CD,63183701957.1205
+France,FRA,2017,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,2016,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,2015,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2014,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2013,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2011,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2010,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2009,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2008,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2007,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2006,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2005,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2004,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2003,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0
+France,FRA,2002,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,2001,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,2000,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1999,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1998,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1997,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1996,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1995,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1994,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1993,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1992,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1991,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1990,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1989,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1988,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1987,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1986,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1985,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1984,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1983,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1982,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1981,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1980,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1979,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1978,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1977,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1976,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1975,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1974,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1973,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1972,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1971,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1970,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1969,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1968,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1967,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1966,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1965,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1964,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1963,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1962,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1961,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,1960,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+France,FRA,2017,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+France,FRA,2016,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+France,FRA,2015,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,49.314
+France,FRA,2014,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,49.279
+France,FRA,2013,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,50.487
+France,FRA,2012,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,51.572
+France,FRA,2011,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,52.543
+France,FRA,2010,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,53.63
+France,FRA,2009,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,55.351
+France,FRA,2008,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,55.012
+France,FRA,2007,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,54.805
+France,FRA,2006,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,56.175
+France,FRA,2005,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,56.774
+France,FRA,2004,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,57.929
+France,FRA,2003,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,60.047
+France,FRA,2002,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,60.674
+France,FRA,2001,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,61.109
+France,FRA,2000,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,60.836
+France,FRA,1999,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,62.132
+France,FRA,1998,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,62.716
+France,FRA,1997,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,63.349
+France,FRA,1996,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,65.39
+France,FRA,1995,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,65.901
+France,FRA,1994,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,66.516
+France,FRA,1993,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,68.114
+France,FRA,1992,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,67.597
+France,FRA,1991,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,68.18
+France,FRA,1990,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,69.001
+France,FRA,1989,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,70.849
+France,FRA,1988,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,71.995
+France,FRA,1987,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,72.869
+France,FRA,1986,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,75.087
+France,FRA,1985,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,76.67
+France,FRA,1984,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,77.996
+France,FRA,1983,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,80.956
+France,FRA,1982,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,80.784
+France,FRA,1981,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,82.415
+France,FRA,1980,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,84.92
+France,FRA,1979,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,86.49
+France,FRA,1978,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,87.914
+France,FRA,1977,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,88.685
+France,FRA,1976,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,92.638
+France,FRA,1975,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,94.223
+France,FRA,1974,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,95.334
+France,FRA,1973,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,96.878
+France,FRA,1972,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,100.094
+France,FRA,1971,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,100.776
+France,FRA,1970,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,100.879
+France,FRA,1969,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,105.98
+France,FRA,1968,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,104.031
+France,FRA,1967,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,105.234
+France,FRA,1966,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,105.696
+France,FRA,1965,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,108.67
+France,FRA,1964,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,107.144
+France,FRA,1963,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,112.315
+France,FRA,1962,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,111.574
+France,FRA,1961,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,109.048
+France,FRA,1960,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,115.043
+France,FRA,2017,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+France,FRA,2016,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+France,FRA,2015,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,101.261
+France,FRA,2014,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,100.359
+France,FRA,2013,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,105.291
+France,FRA,2012,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,109.076
+France,FRA,2011,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,112.561
+France,FRA,2010,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,115.614
+France,FRA,2009,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,118.367
+France,FRA,2008,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,118.229
+France,FRA,2007,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,120.74
+France,FRA,2006,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,123.292
+France,FRA,2005,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,126.63
+France,FRA,2004,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,126.867
+France,FRA,2003,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,134.939
+France,FRA,2002,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,136.778
+France,FRA,2001,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,138.43
+France,FRA,2000,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,138.397
+France,FRA,1999,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,141.196
+France,FRA,1998,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,143.122
+France,FRA,1997,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,146.035
+France,FRA,1996,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,152.083
+France,FRA,1995,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,156.329
+France,FRA,1994,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,159.798
+France,FRA,1993,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,162.322
+France,FRA,1992,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,163.613
+France,FRA,1991,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,165.855
+France,FRA,1990,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,167.612
+France,FRA,1989,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,171.29
+France,FRA,1988,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,172.517
+France,FRA,1987,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,175.002
+France,FRA,1986,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,181.814
+France,FRA,1985,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,185.069
+France,FRA,1984,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,187.47
+France,FRA,1983,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,190.277
+France,FRA,1982,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,191.598
+France,FRA,1981,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,192.736
+France,FRA,1980,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,195.934
+France,FRA,1979,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,199.076
+France,FRA,1978,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,198.174
+France,FRA,1977,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,200.921
+France,FRA,1976,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,207.095
+France,FRA,1975,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,203.582
+France,FRA,1974,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,203.948
+France,FRA,1973,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,205.605
+France,FRA,1972,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,208.826
+France,FRA,1971,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,208.251
+France,FRA,1970,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,204.202
+France,FRA,1969,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,217.473
+France,FRA,1968,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,212.635
+France,FRA,1967,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,213.393
+France,FRA,1966,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,212.519
+France,FRA,1965,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,217.586
+France,FRA,1964,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,211.86
+France,FRA,1963,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,222.11
+France,FRA,1962,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,219.187
+France,FRA,1961,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,214.133
+France,FRA,1960,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,216.849
+France,FRA,2017,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2016,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.900953
+France,FRA,2015,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2014,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.847305
+France,FRA,2013,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2012,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.85
+France,FRA,2011,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2010,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.84
+France,FRA,2009,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2008,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2007,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.76
+France,FRA,2006,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2005,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2004,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2003,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2002,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2001,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2000,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1999,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1998,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1997,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1996,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1995,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1994,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1993,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1992,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1991,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1990,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1989,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1988,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1987,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1986,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1985,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1984,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1983,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1982,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1981,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1980,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1979,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1978,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1977,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1976,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1975,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1974,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1973,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1972,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1971,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1970,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1969,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1968,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1967,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1966,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1965,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1964,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1963,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1962,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1961,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,1960,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+France,FRA,2017,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,2016,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,2015,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,2014,Rail lines (total route-km),IS.RRS.TOTL.KM,30013
+France,FRA,2013,Rail lines (total route-km),IS.RRS.TOTL.KM,30013
+France,FRA,2012,Rail lines (total route-km),IS.RRS.TOTL.KM,30013
+France,FRA,2011,Rail lines (total route-km),IS.RRS.TOTL.KM,34621
+France,FRA,2010,Rail lines (total route-km),IS.RRS.TOTL.KM,33608
+France,FRA,2009,Rail lines (total route-km),IS.RRS.TOTL.KM,33778
+France,FRA,2008,Rail lines (total route-km),IS.RRS.TOTL.KM,29901
+France,FRA,2007,Rail lines (total route-km),IS.RRS.TOTL.KM,29488
+France,FRA,2006,Rail lines (total route-km),IS.RRS.TOTL.KM,29547
+France,FRA,2005,Rail lines (total route-km),IS.RRS.TOTL.KM,29286
+France,FRA,2004,Rail lines (total route-km),IS.RRS.TOTL.KM,29246
+France,FRA,2003,Rail lines (total route-km),IS.RRS.TOTL.KM,29269
+France,FRA,2002,Rail lines (total route-km),IS.RRS.TOTL.KM,29352
+France,FRA,2001,Rail lines (total route-km),IS.RRS.TOTL.KM,29445
+France,FRA,2000,Rail lines (total route-km),IS.RRS.TOTL.KM,32515
+France,FRA,1999,Rail lines (total route-km),IS.RRS.TOTL.KM,31423
+France,FRA,1998,Rail lines (total route-km),IS.RRS.TOTL.KM,31727
+France,FRA,1997,Rail lines (total route-km),IS.RRS.TOTL.KM,31754
+France,FRA,1996,Rail lines (total route-km),IS.RRS.TOTL.KM,31700
+France,FRA,1995,Rail lines (total route-km),IS.RRS.TOTL.KM,31939
+France,FRA,1994,Rail lines (total route-km),IS.RRS.TOTL.KM,32275
+France,FRA,1993,Rail lines (total route-km),IS.RRS.TOTL.KM,32579
+France,FRA,1992,Rail lines (total route-km),IS.RRS.TOTL.KM,32731
+France,FRA,1991,Rail lines (total route-km),IS.RRS.TOTL.KM,33446
+France,FRA,1990,Rail lines (total route-km),IS.RRS.TOTL.KM,34070
+France,FRA,1989,Rail lines (total route-km),IS.RRS.TOTL.KM,34322
+France,FRA,1988,Rail lines (total route-km),IS.RRS.TOTL.KM,34563
+France,FRA,1987,Rail lines (total route-km),IS.RRS.TOTL.KM,34646
+France,FRA,1986,Rail lines (total route-km),IS.RRS.TOTL.KM,34639
+France,FRA,1985,Rail lines (total route-km),IS.RRS.TOTL.KM,34676
+France,FRA,1984,Rail lines (total route-km),IS.RRS.TOTL.KM,34688
+France,FRA,1983,Rail lines (total route-km),IS.RRS.TOTL.KM,34710
+France,FRA,1982,Rail lines (total route-km),IS.RRS.TOTL.KM,34595
+France,FRA,1981,Rail lines (total route-km),IS.RRS.TOTL.KM,34384
+France,FRA,1980,Rail lines (total route-km),IS.RRS.TOTL.KM,34362
+France,FRA,1979,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1978,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1977,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1976,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1975,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1974,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1973,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1972,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1971,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1970,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1969,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1968,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1967,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1966,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1965,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1964,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1963,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1962,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1961,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,1960,Rail lines (total route-km),IS.RRS.TOTL.KM,
+France,FRA,2017,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2939309455950.58
+France,FRA,2016,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2809548625328.5
+France,FRA,2015,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2737022860899.32
+France,FRA,2014,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2697532706345.62
+France,FRA,2013,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2642478281707.6
+France,FRA,2012,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2506840569891.54
+France,FRA,2011,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2503922810779.2
+France,FRA,2010,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2388278984573.73
+France,FRA,2009,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2287109012867.58
+France,FRA,2008,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2311511621841.67
+France,FRA,2007,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2232183055457.22
+France,FRA,2006,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2111154538074.22
+France,FRA,2005,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1967313286588.15
+France,FRA,2004,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1855020713006.23
+France,FRA,2003,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1780825316760.26
+France,FRA,2002,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1788044117875.64
+France,FRA,2001,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1726392690454.31
+France,FRA,2000,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1626307519013.57
+France,FRA,1999,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1508246380629.8
+France,FRA,1998,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1430793161924.24
+France,FRA,1997,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1357430704504.21
+France,FRA,1996,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1293192561121.43
+France,FRA,1995,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1247647377289.51
+France,FRA,1994,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1197585343705.3
+France,FRA,1993,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1148089315834.99
+France,FRA,1992,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1127139667943.05
+France,FRA,1991,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1082559844633.93
+France,FRA,1990,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1037278194256.37
+France,FRA,1989,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1988,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1987,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1986,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1985,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1984,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1983,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1982,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1981,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1980,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1979,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1978,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1977,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1976,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1975,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1974,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1973,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1972,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1971,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1970,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1969,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1968,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1967,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1966,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1965,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1964,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1963,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1962,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1961,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,1960,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+France,FRA,2017,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,42850.3862801105
+France,FRA,2016,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,41357.98693296
+France,FRA,2015,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,40564.4607069076
+France,FRA,2014,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,40141.5903200769
+France,FRA,2013,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,39523.8701233957
+France,FRA,2012,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,37679.1332569372
+France,FRA,2011,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,37440.6414948094
+France,FRA,2010,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,35935.0261951419
+France,FRA,2009,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,34678.9415827013
+France,FRA,2008,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,35095.260231603
+France,FRA,2007,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,34082.4591581361
+France,FRA,2006,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,32439.0617600346
+France,FRA,2005,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,30498.5792943609
+France,FRA,2004,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,29044.3961050649
+France,FRA,2003,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,28139.55706347
+France,FRA,2002,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,28523.8857271382
+France,FRA,2001,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,27524.4299415271
+France,FRA,2000,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,26090.1016614759
+France,FRA,1999,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,24307.4987876484
+France,FRA,1998,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,23340.0047546708
+France,FRA,1997,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,22231.1839051184
+France,FRA,1996,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,21326.8267248524
+France,FRA,1995,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,20744.006978319
+France,FRA,1994,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,19977.2751691269
+France,FRA,1993,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,19183.7651768467
+France,FRA,1992,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,18941.4050634142
+France,FRA,1991,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,18322.662491771
+France,FRA,1990,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,17566.3038976734
+France,FRA,1989,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1988,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1987,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1986,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1985,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1984,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1983,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1982,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1981,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1980,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1979,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1978,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1977,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1976,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1975,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1974,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1973,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1972,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1971,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1970,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1969,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1968,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1967,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1966,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1965,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1964,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1963,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1962,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1961,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,1960,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+France,FRA,2017,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,43790
+France,FRA,2016,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,42020
+France,FRA,2015,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,41100
+France,FRA,2014,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,40680
+France,FRA,2013,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,40040
+France,FRA,2012,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,38180
+France,FRA,2011,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,38320
+France,FRA,2010,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,36730
+France,FRA,2009,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,35350
+France,FRA,2008,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,35910
+France,FRA,2007,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,34870
+France,FRA,2006,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,33180
+France,FRA,2005,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,31140
+France,FRA,2004,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,29580
+France,FRA,2003,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,28610
+France,FRA,2002,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,28930
+France,FRA,2001,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,28140
+France,FRA,2000,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,26700
+France,FRA,1999,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,24930
+France,FRA,1998,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,23770
+France,FRA,1997,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,22640
+France,FRA,1996,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,21640
+France,FRA,1995,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,20950
+France,FRA,1994,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,20190
+France,FRA,1993,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,19420
+France,FRA,1992,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,19150
+France,FRA,1991,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,18490
+France,FRA,1990,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,17730
+France,FRA,1989,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1988,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1987,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1986,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1985,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1984,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1983,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1982,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1981,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1980,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1979,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1978,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1977,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1976,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1975,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1974,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1973,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1972,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1971,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1970,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1969,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1968,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1967,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1966,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1965,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1964,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1963,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1962,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1961,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,1960,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+France,FRA,2017,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2016,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2015,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2014,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2013,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2012,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2011,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2010,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2009,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2008,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2007,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2006,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2005,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2004,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2003,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2002,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2001,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2000,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1999,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1998,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1997,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1996,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1995,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1994,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1993,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1992,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1991,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1990,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1989,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1988,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1987,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1986,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1985,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1984,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1983,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1982,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1981,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1980,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1979,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1978,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1977,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1976,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1975,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1974,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1973,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1972,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1971,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1970,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1969,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1968,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1967,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1966,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1965,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1964,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1963,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1962,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1961,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,1960,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+France,FRA,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,106.213419643978
+France,FRA,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,104.40401670625
+France,FRA,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,103.450039662752
+France,FRA,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,101.922962660069
+France,FRA,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,99.0677131198402
+France,FRA,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,97.8317477157756
+France,FRA,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,94.4310423138876
+France,FRA,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,91.6833077515988
+France,FRA,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,92.3915941739026
+France,FRA,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,93.0088283783521
+France,FRA,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,89.3435300782186
+France,FRA,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,83.8765724949655
+France,FRA,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,78.5316630167277
+France,FRA,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,73.1589461045185
+France,FRA,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,68.871896274584
+France,FRA,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,64.0684953224468
+France,FRA,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,61.7536752528557
+France,FRA,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,48.7388639694058
+France,FRA,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,36.1343673481471
+France,FRA,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,18.9889302977131
+France,FRA,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,9.89953014117037
+France,FRA,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,4.20976596986695
+France,FRA,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.23635979875688
+France,FRA,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.52265896744995
+France,FRA,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.99056504115867
+France,FRA,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.759518231342053
+France,FRA,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.655162570992106
+France,FRA,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.497183722815861
+France,FRA,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.314842768156915
+France,FRA,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.174507749260695
+France,FRA,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.0700300661274884
+France,FRA,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.0162554209719596
+France,FRA,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1974,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1973,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1972,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1971,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1969,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1968,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1967,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1966,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,1964,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1963,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1962,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1961,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+France,FRA,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+France,FRA,2017,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1357894329007.6
+France,FRA,2016,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1343094034442.01
+France,FRA,2015,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1314151969124.3
+France,FRA,2014,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1295649610488.97
+France,FRA,2013,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1285706924305.21
+France,FRA,2012,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1279388962539.83
+France,FRA,2011,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1282184561108.55
+France,FRA,2010,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1276122502397.45
+France,FRA,2009,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1253052558841.81
+France,FRA,2008,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1250388892483.6
+France,FRA,2007,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1244884133718.87
+France,FRA,2006,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1214574977517.97
+France,FRA,2005,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1188351171117.62
+France,FRA,2004,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1159216894257.2
+France,FRA,2003,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1136522275181.18
+France,FRA,2002,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1119619026267.57
+France,FRA,2001,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1096850479604.02
+France,FRA,2000,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1069628082672.44
+France,FRA,1999,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,1031727136207.8
+France,FRA,1998,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,996824236046.095
+France,FRA,1997,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,958246568209.763
+France,FRA,1996,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,952243651476.253
+France,FRA,1995,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,934011981505.146
+France,FRA,1994,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,917876441638.85
+France,FRA,1993,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,902491550847.318
+France,FRA,1992,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,902664427592.727
+France,FRA,1991,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,892278176114.88
+France,FRA,1990,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,886335538829.11
+France,FRA,1989,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1988,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1987,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1986,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1985,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1984,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1983,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1982,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1981,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1980,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1979,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1978,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1977,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1976,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1975,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1974,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1973,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1972,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1971,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1970,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1969,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1968,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1967,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1966,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1965,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1964,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1963,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1962,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1961,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,1960,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+France,FRA,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+France,FRA,1989,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1988,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1987,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1986,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1985,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1984,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1983,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1982,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1981,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1980,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1979,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1978,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1977,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1976,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1975,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1974,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1973,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1972,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1971,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1970,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1969,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1968,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1967,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1966,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1965,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1964,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1963,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1962,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1961,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,1960,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+France,FRA,2017,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,2016,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,2015,GINI index (World Bank estimate),SI.POV.GINI,32.7
+France,FRA,2014,GINI index (World Bank estimate),SI.POV.GINI,32.3
+France,FRA,2013,GINI index (World Bank estimate),SI.POV.GINI,32.5
+France,FRA,2012,GINI index (World Bank estimate),SI.POV.GINI,33.1
+France,FRA,2011,GINI index (World Bank estimate),SI.POV.GINI,33.3
+France,FRA,2010,GINI index (World Bank estimate),SI.POV.GINI,33.7
+France,FRA,2009,GINI index (World Bank estimate),SI.POV.GINI,32.7
+France,FRA,2008,GINI index (World Bank estimate),SI.POV.GINI,33
+France,FRA,2007,GINI index (World Bank estimate),SI.POV.GINI,32.4
+France,FRA,2006,GINI index (World Bank estimate),SI.POV.GINI,29.7
+France,FRA,2005,GINI index (World Bank estimate),SI.POV.GINI,29.8
+France,FRA,2004,GINI index (World Bank estimate),SI.POV.GINI,30.6
+France,FRA,2003,GINI index (World Bank estimate),SI.POV.GINI,31.4
+France,FRA,2002,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,2001,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,2000,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1999,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1998,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1997,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1996,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1995,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1994,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1993,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1992,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1991,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1990,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1989,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1988,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1987,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1986,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1985,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1984,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1983,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1982,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1981,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1980,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1979,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1978,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1977,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1976,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1975,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1974,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1973,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1972,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1971,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1970,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1969,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1968,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1967,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1966,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1965,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1964,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1963,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1962,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1961,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,1960,GINI index (World Bank estimate),SI.POV.GINI,
+France,FRA,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.03228275064674
+France,FRA,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.183334861123848
+France,FRA,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.0375143805125363
+France,FRA,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.507758822937957
+France,FRA,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.863715497861826
+France,FRA,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.95419531613507
+France,FRA,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.11159795174997
+France,FRA,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.53112270420924
+France,FRA,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.0876204781574529
+France,FRA,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.81286194914787
+France,FRA,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.48799805953858
+France,FRA,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.67512449608728
+France,FRA,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.74586936380481
+France,FRA,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.14208964640242
+France,FRA,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.09847219146922
+France,FRA,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.9234122872706
+France,FRA,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.63478079549599
+France,FRA,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.6759598872093
+France,FRA,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.537141639134613
+France,FRA,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.65112686783302
+France,FRA,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.20394294026966
+France,FRA,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.98288365089736
+France,FRA,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.79648142095595
+France,FRA,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.65551532926996
+France,FRA,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.10446277124641
+France,FRA,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.36376046269354
+France,FRA,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.21340732409685
+France,FRA,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.19428338029481
+France,FRA,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.49830220700748
+France,FRA,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.70081527508111
+France,FRA,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.28889821400136
+France,FRA,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.53852591781416
+France,FRA,1985,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.83109973854516
+France,FRA,1984,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.6738026224732
+France,FRA,1983,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.45954847235314
+France,FRA,1982,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.9784719523805
+France,FRA,1981,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,13.3144055680071
+France,FRA,1980,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,13.5625788483016
+France,FRA,1979,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.6467341716663
+France,FRA,1978,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.25055846724437
+France,FRA,1977,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.49455467190429
+France,FRA,1976,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.62549578155529
+France,FRA,1975,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.6859272493228
+France,FRA,1974,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,13.6493174728138
+France,FRA,1973,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.38060106398913
+France,FRA,1972,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.06300309718189
+France,FRA,1971,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.3975186559511
+France,FRA,1970,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.29964124562672
+France,FRA,1969,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.04596284173893
+France,FRA,1968,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.54320486402014
+France,FRA,1967,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.79177709435144
+France,FRA,1966,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.60200076636453
+France,FRA,1965,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.7031045587308
+France,FRA,1964,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.211191702931
+France,FRA,1963,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.99915289796852
+France,FRA,1962,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.33128007065638
+France,FRA,1961,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.4004610454632
+France,FRA,1960,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.1399357551843
+France,FRA,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,2000,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+France,FRA,1999,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1998,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1997,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1996,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1995,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1994,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1993,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1992,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1991,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1990,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1989,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1988,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1987,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1986,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1985,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1984,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1983,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1982,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1981,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1980,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1979,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1978,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1977,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1976,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1975,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1974,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1973,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1972,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1971,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1970,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1969,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1968,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1967,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1966,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1965,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1964,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1963,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1962,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1961,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,1960,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+France,FRA,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,59.5371946877808
+France,FRA,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,60.2682078945697
+France,FRA,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,60.3951139609677
+France,FRA,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,60.4527407875273
+France,FRA,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,61.1390030434489
+France,FRA,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,62.3979875006979
+France,FRA,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,63.731797148115
+France,FRA,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,64.4520087823041
+France,FRA,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,65.2984826118742
+France,FRA,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,56.3135630318112
+France,FRA,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,56.1644067755578
+France,FRA,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,55.404127528758
+France,FRA,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,55.0463060494269
+France,FRA,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,55.3537167870103
+France,FRA,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,56.0081679142479
+France,FRA,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,56.6610742010521
+France,FRA,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,56.890712282227
+France,FRA,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,57.0174999913183
+France,FRA,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,57.1311852950835
+France,FRA,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,57.7604685877364
+France,FRA,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,57.3486266407855
+France,FRA,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,56.2396152225698
+France,FRA,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,55.6301573899058
+France,FRA,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,54.6639742561307
+France,FRA,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,53.5112933073477
+France,FRA,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,52.3505810931894
+France,FRA,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,50.8406155089874
+France,FRA,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,49.3056711686196
+France,FRA,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,47.5484090168992
+France,FRA,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,45.8351386256892
+France,FRA,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,44.2727814762782
+France,FRA,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,42.924895790275
+France,FRA,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,41.5733047216839
+France,FRA,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,40.0820082586451
+France,FRA,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,38.2028971886374
+France,FRA,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,35.7082045347183
+France,FRA,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,32.6770512640004
+France,FRA,1980,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,29.4021819570435
+France,FRA,1979,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,25.9112061075232
+France,FRA,1978,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,22.3664680421256
+France,FRA,1977,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,18.7980416327291
+France,FRA,1976,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,15.8436526441647
+France,FRA,1975,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,13.3916284495611
+France,FRA,1974,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1973,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1972,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1971,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1970,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,8.39433237807483
+France,FRA,1969,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1968,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1967,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1966,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1965,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.26120288023504
+France,FRA,1964,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1963,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1962,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1961,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+France,FRA,1960,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.78293264926787
+France,FRA,2017,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,38605.6708967878
+France,FRA,2016,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,38062.6397284874
+France,FRA,2015,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37766.3741116872
+France,FRA,2014,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37523.7275771828
+France,FRA,2013,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37350.2782677477
+France,FRA,2012,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37327.9444016171
+France,FRA,2011,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37440.6414948094
+France,FRA,2010,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,36855.8446824064
+France,FRA,2009,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,36324.3615384237
+France,FRA,2008,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37618.2073423763
+France,FRA,2007,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37755.2945139046
+France,FRA,2006,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37113.1834120459
+France,FRA,2005,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,36505.8487338901
+France,FRA,2004,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,36200.0762692475
+France,FRA,2003,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,35479.0103541576
+France,FRA,2002,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,35440.9219060106
+France,FRA,2001,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,35304.7307160001
+France,FRA,2000,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,34880.8818230204
+France,FRA,1999,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,33810.4032514718
+France,FRA,1998,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,32865.0464844265
+France,FRA,1997,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,31853.630656253
+France,FRA,1996,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,31236.413343532
+France,FRA,1995,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,30918.0679594151
+France,FRA,1994,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,30396.1754804502
+France,FRA,1993,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,29810.3625127999
+France,FRA,1992,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,30124.3665253161
+France,FRA,1991,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,29797.8624063936
+France,FRA,1990,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,29514.8538107688
+France,FRA,1989,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1988,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1987,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1986,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1985,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1984,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1983,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1982,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1981,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1980,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1979,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1978,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1977,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1976,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1975,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1974,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1973,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1972,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1971,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1970,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1969,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1968,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1967,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1966,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1965,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1964,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1963,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1962,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1961,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,1960,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+France,FRA,2017,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+France,FRA,2016,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+France,FRA,2015,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+France,FRA,2014,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+France,FRA,2013,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+France,FRA,2012,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5
+France,FRA,2011,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+France,FRA,2010,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+France,FRA,2009,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+France,FRA,2008,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+France,FRA,2007,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+France,FRA,2006,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+France,FRA,2005,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+France,FRA,2004,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+France,FRA,2003,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+France,FRA,2002,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+France,FRA,2001,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+France,FRA,2000,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+France,FRA,1999,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+France,FRA,1998,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+France,FRA,1997,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+France,FRA,1996,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+France,FRA,1995,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+France,FRA,1994,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+France,FRA,1993,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+France,FRA,1992,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+France,FRA,1991,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+France,FRA,1990,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+France,FRA,1989,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1988,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1987,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1986,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1985,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1984,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1983,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1982,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1981,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1980,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1979,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1978,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1977,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1976,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1975,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1974,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1973,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1972,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1971,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1970,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1969,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1968,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1967,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1966,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1965,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1964,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1963,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1962,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1961,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,1960,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+France,FRA,2017,Urban population (% of total),SP.URB.TOTL.IN.ZS,80.18
+France,FRA,2016,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.917
+France,FRA,2015,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.655
+France,FRA,2014,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.394
+France,FRA,2013,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.135
+France,FRA,2012,Urban population (% of total),SP.URB.TOTL.IN.ZS,78.878
+France,FRA,2011,Urban population (% of total),SP.URB.TOTL.IN.ZS,78.622
+France,FRA,2010,Urban population (% of total),SP.URB.TOTL.IN.ZS,78.369
+France,FRA,2009,Urban population (% of total),SP.URB.TOTL.IN.ZS,78.117
+France,FRA,2008,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.868
+France,FRA,2007,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.621
+France,FRA,2006,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.377
+France,FRA,2005,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.13
+France,FRA,2004,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.883
+France,FRA,2003,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.632
+France,FRA,2002,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.38
+France,FRA,2001,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.127
+France,FRA,2000,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.871
+France,FRA,1999,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.614
+France,FRA,1998,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.417
+France,FRA,1997,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.25
+France,FRA,1996,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.082
+France,FRA,1995,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.912
+France,FRA,1994,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.743
+France,FRA,1993,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.572
+France,FRA,1992,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.401
+France,FRA,1991,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.229
+France,FRA,1990,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.056
+France,FRA,1989,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.95
+France,FRA,1988,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.875
+France,FRA,1987,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.8
+France,FRA,1986,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.725
+France,FRA,1985,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.65
+France,FRA,1984,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.575
+France,FRA,1983,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.5
+France,FRA,1982,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.425
+France,FRA,1981,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.352
+France,FRA,1980,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.282
+France,FRA,1979,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.211
+France,FRA,1978,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.14
+France,FRA,1977,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.068
+France,FRA,1976,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.997
+France,FRA,1975,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.926
+France,FRA,1974,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.65
+France,FRA,1973,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.256
+France,FRA,1972,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.86
+France,FRA,1971,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.459
+France,FRA,1970,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.055
+France,FRA,1969,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.648
+France,FRA,1968,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.238
+France,FRA,1967,Urban population (% of total),SP.URB.TOTL.IN.ZS,69.357
+France,FRA,1966,Urban population (% of total),SP.URB.TOTL.IN.ZS,68.225
+France,FRA,1965,Urban population (% of total),SP.URB.TOTL.IN.ZS,67.071
+France,FRA,1964,Urban population (% of total),SP.URB.TOTL.IN.ZS,65.898
+France,FRA,1963,Urban population (% of total),SP.URB.TOTL.IN.ZS,64.702
+France,FRA,1962,Urban population (% of total),SP.URB.TOTL.IN.ZS,63.489
+France,FRA,1961,Urban population (% of total),SP.URB.TOTL.IN.ZS,62.607
+France,FRA,1960,Urban population (% of total),SP.URB.TOTL.IN.ZS,61.88

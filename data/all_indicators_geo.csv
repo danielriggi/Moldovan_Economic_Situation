@@ -1,0 +1,1684 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+num
+Georgia,GEO,2017,"Population, total",SP.POP.TOTL,3717100
+Georgia,GEO,2016,"Population, total",SP.POP.TOTL,3719300
+Georgia,GEO,2015,"Population, total",SP.POP.TOTL,3717100
+Georgia,GEO,2014,"Population, total",SP.POP.TOTL,3727000
+Georgia,GEO,2013,"Population, total",SP.POP.TOTL,3776000
+Georgia,GEO,2012,"Population, total",SP.POP.TOTL,3825000
+Georgia,GEO,2011,"Population, total",SP.POP.TOTL,3875000
+Georgia,GEO,2010,"Population, total",SP.POP.TOTL,3926000
+Georgia,GEO,2009,"Population, total",SP.POP.TOTL,3978000
+Georgia,GEO,2008,"Population, total",SP.POP.TOTL,4030000
+Georgia,GEO,2007,"Population, total",SP.POP.TOTL,4082000
+Georgia,GEO,2006,"Population, total",SP.POP.TOTL,4136000
+Georgia,GEO,2005,"Population, total",SP.POP.TOTL,4190000
+Georgia,GEO,2004,"Population, total",SP.POP.TOTL,4245000
+Georgia,GEO,2003,"Population, total",SP.POP.TOTL,4301000
+Georgia,GEO,2002,"Population, total",SP.POP.TOTL,4357000
+Georgia,GEO,2001,"Population, total",SP.POP.TOTL,4386400
+Georgia,GEO,2000,"Population, total",SP.POP.TOTL,4418300
+Georgia,GEO,1999,"Population, total",SP.POP.TOTL,4452500
+Georgia,GEO,1998,"Population, total",SP.POP.TOTL,4487300
+Georgia,GEO,1997,"Population, total",SP.POP.TOTL,4531600
+Georgia,GEO,1996,"Population, total",SP.POP.TOTL,4616100
+Georgia,GEO,1995,"Population, total",SP.POP.TOTL,4734000
+Georgia,GEO,1994,"Population, total",SP.POP.TOTL,4861600
+Georgia,GEO,1993,"Population, total",SP.POP.TOTL,4911100
+Georgia,GEO,1992,"Population, total",SP.POP.TOTL,4873500
+Georgia,GEO,1991,"Population, total",SP.POP.TOTL,4835900
+Georgia,GEO,1990,"Population, total",SP.POP.TOTL,4802000
+Georgia,GEO,1989,"Population, total",SP.POP.TOTL,4803300
+Georgia,GEO,1988,"Population, total",SP.POP.TOTL,4790700
+Georgia,GEO,1987,"Population, total",SP.POP.TOTL,4743500
+Georgia,GEO,1986,"Population, total",SP.POP.TOTL,4704500
+Georgia,GEO,1985,"Population, total",SP.POP.TOTL,4662900
+Georgia,GEO,1984,"Population, total",SP.POP.TOTL,4622200
+Georgia,GEO,1983,"Population, total",SP.POP.TOTL,4582900
+Georgia,GEO,1982,"Population, total",SP.POP.TOTL,4542800
+Georgia,GEO,1981,"Population, total",SP.POP.TOTL,4504500
+Georgia,GEO,1980,"Population, total",SP.POP.TOTL,4467700
+Georgia,GEO,1979,"Population, total",SP.POP.TOTL,4430200
+Georgia,GEO,1978,"Population, total",SP.POP.TOTL,4397700
+Georgia,GEO,1977,"Population, total",SP.POP.TOTL,4372100
+Georgia,GEO,1976,"Population, total",SP.POP.TOTL,4342400
+Georgia,GEO,1975,"Population, total",SP.POP.TOTL,4311200
+Georgia,GEO,1974,"Population, total",SP.POP.TOTL,4279500
+Georgia,GEO,1973,"Population, total",SP.POP.TOTL,4242500
+Georgia,GEO,1972,"Population, total",SP.POP.TOTL,4205300
+Georgia,GEO,1971,"Population, total",SP.POP.TOTL,4163000
+Georgia,GEO,1970,"Population, total",SP.POP.TOTL,4119900
+Georgia,GEO,1969,"Population, total",SP.POP.TOTL,4080300
+Georgia,GEO,1968,"Population, total",SP.POP.TOTL,4042300
+Georgia,GEO,1967,"Population, total",SP.POP.TOTL,4005800
+Georgia,GEO,1966,"Population, total",SP.POP.TOTL,3966700
+Georgia,GEO,1965,"Population, total",SP.POP.TOTL,3921600
+Georgia,GEO,1964,"Population, total",SP.POP.TOTL,3870300
+Georgia,GEO,1963,"Population, total",SP.POP.TOTL,3816100
+Georgia,GEO,1962,"Population, total",SP.POP.TOTL,3760300
+Georgia,GEO,1961,"Population, total",SP.POP.TOTL,3703600
+Georgia,GEO,1960,"Population, total",SP.POP.TOTL,3645600
+Georgia,GEO,2017,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.5369112514664
+Georgia,GEO,2016,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.2102809857182
+Georgia,GEO,2015,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.9218809644672
+Georgia,GEO,2014,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.617775713545
+Georgia,GEO,2013,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.3777426135424
+Georgia,GEO,2012,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.2151070250131
+Georgia,GEO,2011,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.1409493328773
+Georgia,GEO,2010,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.1498765394923
+Georgia,GEO,2009,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.2784109422741
+Georgia,GEO,2008,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.5007643851527
+Georgia,GEO,2007,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.7296824599231
+Georgia,GEO,2006,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.8209816375756
+Georgia,GEO,2005,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.6764495914968
+Georgia,GEO,2004,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.5038456703843
+Georgia,GEO,2003,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.0281437106618
+Georgia,GEO,2002,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.354961766348
+Georgia,GEO,2001,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.6717119421489
+Georgia,GEO,2000,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.096293535674
+Georgia,GEO,1999,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.8092809056816
+Georgia,GEO,1998,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.6428209863639
+Georgia,GEO,1997,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.5069677971764
+Georgia,GEO,1996,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.2399375917086
+Georgia,GEO,1995,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.739316912016
+Georgia,GEO,1994,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.2277266973991
+Georgia,GEO,1993,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.4976326419565
+Georgia,GEO,1992,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.646916436255
+Georgia,GEO,1991,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.8297673572488
+Georgia,GEO,1990,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.1421500319662
+Georgia,GEO,1989,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.7635686146707
+Georgia,GEO,1988,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.5424323484613
+Georgia,GEO,1987,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.4460368502725
+Georgia,GEO,1986,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.4134825035882
+Georgia,GEO,1985,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.4026181750419
+Georgia,GEO,1984,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.531075468411
+Georgia,GEO,1983,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.7208842733932
+Georgia,GEO,1982,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.9317771025391
+Georgia,GEO,1981,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.0997586816831
+Georgia,GEO,1980,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.1743936320861
+Georgia,GEO,1979,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,14.1249047393624
+Georgia,GEO,1978,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.9683101147062
+Georgia,GEO,1977,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.7291924031717
+Georgia,GEO,1976,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.4703935742508
+Georgia,GEO,1975,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.2348678604988
+Georgia,GEO,1974,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.1030782549323
+Georgia,GEO,1973,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.9956348822877
+Georgia,GEO,1972,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.8929642218868
+Georgia,GEO,1971,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.7629350846232
+Georgia,GEO,1970,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.5858565207936
+Georgia,GEO,1969,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.6096160145703
+Georgia,GEO,1968,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.6114828502122
+Georgia,GEO,1967,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.5977929933261
+Georgia,GEO,1966,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.5841196655847
+Georgia,GEO,1965,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.5816568467975
+Georgia,GEO,1964,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,12.8013842760439
+Georgia,GEO,1963,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.0518459307967
+Georgia,GEO,1962,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.3149026063549
+Georgia,GEO,1961,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.5620116605309
+Georgia,GEO,1960,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,13.7699258479577
+Georgia,GEO,2017,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.085119817781
+Georgia,GEO,2016,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.5695637385683
+Georgia,GEO,2015,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.0689592279614
+Georgia,GEO,2014,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,27.6075297339609
+Georgia,GEO,2013,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,27.2567960133204
+Georgia,GEO,2012,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,26.9894284611677
+Georgia,GEO,2011,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,26.7819460010811
+Georgia,GEO,2010,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,26.6263663464723
+Georgia,GEO,2009,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,26.8578759312049
+Georgia,GEO,2008,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,27.2783790678451
+Georgia,GEO,2007,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,27.8794535931299
+Georgia,GEO,2006,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.6048369029157
+Georgia,GEO,2005,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.3940235222856
+Georgia,GEO,2004,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.5180454819416
+Georgia,GEO,2003,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.6478392319415
+Georgia,GEO,2002,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.7342463404582
+Georgia,GEO,2001,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.7714541979285
+Georgia,GEO,2000,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.7943707300253
+Georgia,GEO,1999,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,35.6423784133296
+Georgia,GEO,1998,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,36.4036259162833
+Georgia,GEO,1997,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.0707202832231
+Georgia,GEO,1996,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.6490850667563
+Georgia,GEO,1995,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.157564556932
+Georgia,GEO,1994,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.2012744180604
+Georgia,GEO,1993,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.1489766639838
+Georgia,GEO,1992,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.036180094452
+Georgia,GEO,1991,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.8998734806466
+Georgia,GEO,1990,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.7644486046705
+Georgia,GEO,1989,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.7733322438585
+Georgia,GEO,1988,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.7215583155885
+Georgia,GEO,1987,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.6389338341152
+Georgia,GEO,1986,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.5440687271594
+Georgia,GEO,1985,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.4510839182558
+Georgia,GEO,1984,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.5489101106445
+Georgia,GEO,1983,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.732778751212
+Georgia,GEO,1982,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.0404190910639
+Georgia,GEO,1981,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.5070923463506
+Georgia,GEO,1980,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,39.1250775041253
+Georgia,GEO,1979,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,39.9686331198498
+Georgia,GEO,1978,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,40.968587033035
+Georgia,GEO,1977,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,42.0563145312984
+Georgia,GEO,1976,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,43.1341972357623
+Georgia,GEO,1975,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,44.1482903308945
+Georgia,GEO,1974,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,45.3566982611085
+Georgia,GEO,1973,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,46.5272516227717
+Georgia,GEO,1972,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,47.6620392199683
+Georgia,GEO,1971,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,48.8103614965657
+Georgia,GEO,1970,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,50.0161224564704
+Georgia,GEO,1969,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,50.7902284466222
+Georgia,GEO,1968,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,51.3869251606899
+Georgia,GEO,1967,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,51.7481811703281
+Georgia,GEO,1966,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,51.7687814425865
+Georgia,GEO,1965,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,51.4052797303683
+Georgia,GEO,1964,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,50.7384073219583
+Georgia,GEO,1963,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,49.7214457946441
+Georgia,GEO,1962,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,48.436492495293
+Georgia,GEO,1961,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,47.0163843162521
+Georgia,GEO,1960,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,45.5843604058517
+Georgia,GEO,2017,Number of infant deaths,SH.DTH.IMRT,508
+Georgia,GEO,2016,Number of infant deaths,SH.DTH.IMRT,552
+Georgia,GEO,2015,Number of infant deaths,SH.DTH.IMRT,602
+Georgia,GEO,2014,Number of infant deaths,SH.DTH.IMRT,655
+Georgia,GEO,2013,Number of infant deaths,SH.DTH.IMRT,710
+Georgia,GEO,2012,Number of infant deaths,SH.DTH.IMRT,767
+Georgia,GEO,2011,Number of infant deaths,SH.DTH.IMRT,826
+Georgia,GEO,2010,Number of infant deaths,SH.DTH.IMRT,887
+Georgia,GEO,2009,Number of infant deaths,SH.DTH.IMRT,947
+Georgia,GEO,2008,Number of infant deaths,SH.DTH.IMRT,1010
+Georgia,GEO,2007,Number of infant deaths,SH.DTH.IMRT,1073
+Georgia,GEO,2006,Number of infant deaths,SH.DTH.IMRT,1142
+Georgia,GEO,2005,Number of infant deaths,SH.DTH.IMRT,1215
+Georgia,GEO,2004,Number of infant deaths,SH.DTH.IMRT,1297
+Georgia,GEO,2003,Number of infant deaths,SH.DTH.IMRT,1390
+Georgia,GEO,2002,Number of infant deaths,SH.DTH.IMRT,1496
+Georgia,GEO,2001,Number of infant deaths,SH.DTH.IMRT,1621
+Georgia,GEO,2000,Number of infant deaths,SH.DTH.IMRT,1768
+Georgia,GEO,1999,Number of infant deaths,SH.DTH.IMRT,1937
+Georgia,GEO,1998,Number of infant deaths,SH.DTH.IMRT,2124
+Georgia,GEO,1997,Number of infant deaths,SH.DTH.IMRT,2325
+Georgia,GEO,1996,Number of infant deaths,SH.DTH.IMRT,2534
+Georgia,GEO,1995,Number of infant deaths,SH.DTH.IMRT,2749
+Georgia,GEO,1994,Number of infant deaths,SH.DTH.IMRT,2969
+Georgia,GEO,1993,Number of infant deaths,SH.DTH.IMRT,3183
+Georgia,GEO,1992,Number of infant deaths,SH.DTH.IMRT,3386
+Georgia,GEO,1991,Number of infant deaths,SH.DTH.IMRT,3573
+Georgia,GEO,1990,Number of infant deaths,SH.DTH.IMRT,3737
+Georgia,GEO,1989,Number of infant deaths,SH.DTH.IMRT,3874
+Georgia,GEO,1988,Number of infant deaths,SH.DTH.IMRT,3989
+Georgia,GEO,1987,Number of infant deaths,SH.DTH.IMRT,4080
+Georgia,GEO,1986,Number of infant deaths,SH.DTH.IMRT,4154
+Georgia,GEO,1985,Number of infant deaths,SH.DTH.IMRT,4218
+Georgia,GEO,1984,Number of infant deaths,SH.DTH.IMRT,4271
+Georgia,GEO,1983,Number of infant deaths,SH.DTH.IMRT,4325
+Georgia,GEO,1982,Number of infant deaths,SH.DTH.IMRT,4385
+Georgia,GEO,1981,Number of infant deaths,SH.DTH.IMRT,4451
+Georgia,GEO,1980,Number of infant deaths,SH.DTH.IMRT,4517
+Georgia,GEO,1979,Number of infant deaths,SH.DTH.IMRT,4600
+Georgia,GEO,1978,Number of infant deaths,SH.DTH.IMRT,4687
+Georgia,GEO,1977,Number of infant deaths,SH.DTH.IMRT,4794
+Georgia,GEO,1976,Number of infant deaths,SH.DTH.IMRT,4900
+Georgia,GEO,1975,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1974,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1973,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1972,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1971,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1970,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1969,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1968,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1967,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1966,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1965,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1964,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1963,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1962,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1961,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,1960,Number of infant deaths,SH.DTH.IMRT,
+Georgia,GEO,2017,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2016,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2015,International migrant stock (% of population),SM.POP.TOTL.ZS,4.22024835167253
+Georgia,GEO,2014,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2013,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2012,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2011,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2010,International migrant stock (% of population),SM.POP.TOTL.ZS,4.28697273402332
+Georgia,GEO,2009,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2008,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2007,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2006,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2005,International migrant stock (% of population),SM.POP.TOTL.ZS,4.46464383290137
+Georgia,GEO,2004,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2003,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2002,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2001,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2000,International migrant stock (% of population),SM.POP.TOTL.ZS,4.60832310374145
+Georgia,GEO,1999,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1998,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1997,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1996,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1995,International migrant stock (% of population),SM.POP.TOTL.ZS,5.4952070624413
+Georgia,GEO,1994,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1993,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1992,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1991,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1990,International migrant stock (% of population),SM.POP.TOTL.ZS,6.19562006472527
+Georgia,GEO,1989,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1988,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1987,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1986,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1985,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1984,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1983,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1982,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1981,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1980,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1979,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1978,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1977,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1976,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1975,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1974,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1973,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1972,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1971,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1970,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1969,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1968,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1967,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1966,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1965,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1964,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1963,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1962,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1961,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,1960,International migrant stock (% of population),SM.POP.TOTL.ZS,
+Georgia,GEO,2017,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2016,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2015,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2014,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2013,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2012,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2011,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2010,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2009,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2008,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2007,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2006,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2005,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2004,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2003,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2002,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2001,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,2000,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1999,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1998,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1997,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1996,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1995,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1994,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1993,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1992,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1991,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1990,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1989,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1988,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1987,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1986,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1985,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1984,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1983,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1982,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1981,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1980,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1979,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1978,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1977,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1976,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1975,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1974,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1973,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1972,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1971,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1970,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1969,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1968,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1967,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1966,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1965,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1964,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1963,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1962,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1961,Land area (sq. km),AG.LND.TOTL.K2,69490
+Georgia,GEO,1960,Land area (sq. km),AG.LND.TOTL.K2,
+Georgia,GEO,2017,Population growth (annual %),SP.POP.GROW,-0.0591684165505705
+Georgia,GEO,2016,Population growth (annual %),SP.POP.GROW,0.0591684165505642
+Georgia,GEO,2015,Population growth (annual %),SP.POP.GROW,-0.265982612716282
+Georgia,GEO,2014,Population growth (annual %),SP.POP.GROW,-1.30616277861329
+Georgia,GEO,2013,Population growth (annual %),SP.POP.GROW,-1.28932189952449
+Georgia,GEO,2012,Population growth (annual %),SP.POP.GROW,-1.29871955268112
+Georgia,GEO,2011,Population growth (annual %),SP.POP.GROW,-1.3075433048959
+Georgia,GEO,2010,Population growth (annual %),SP.POP.GROW,-1.31580845775111
+Georgia,GEO,2009,Population growth (annual %),SP.POP.GROW,-1.29871955268112
+Georgia,GEO,2008,Population growth (annual %),SP.POP.GROW,-1.28206884290614
+Georgia,GEO,2007,Population growth (annual %),SP.POP.GROW,-1.31420728184749
+Georgia,GEO,2006,Population growth (annual %),SP.POP.GROW,-1.29715967279184
+Georgia,GEO,2005,Population growth (annual %),SP.POP.GROW,-1.30410858292643
+Georgia,GEO,2004,Population growth (annual %),SP.POP.GROW,-1.30269168188126
+Georgia,GEO,2003,Population growth (annual %),SP.POP.GROW,-1.30150105531819
+Georgia,GEO,2002,Population growth (annual %),SP.POP.GROW,-0.672509797239651
+Georgia,GEO,2001,Population growth (annual %),SP.POP.GROW,-0.724616161382205
+Georgia,GEO,2000,Population growth (annual %),SP.POP.GROW,-0.771072946015597
+Georgia,GEO,1999,Population growth (annual %),SP.POP.GROW,-0.778544839439849
+Georgia,GEO,1998,Population growth (annual %),SP.POP.GROW,-0.982389344111834
+Georgia,GEO,1997,Population growth (annual %),SP.POP.GROW,-1.84751147321087
+Georgia,GEO,1996,Population growth (annual %),SP.POP.GROW,-2.5220318342487
+Georgia,GEO,1995,Population growth (annual %),SP.POP.GROW,-2.65970907472162
+Georgia,GEO,1994,Population growth (annual %),SP.POP.GROW,-1.01303474624264
+Georgia,GEO,1993,Population growth (annual %),SP.POP.GROW,0.76855845063073
+Georgia,GEO,1992,Population growth (annual %),SP.POP.GROW,0.774511050286416
+Georgia,GEO,1991,Population growth (annual %),SP.POP.GROW,0.703475649320206
+Georgia,GEO,1990,Population growth (annual %),SP.POP.GROW,-0.0270683894920024
+Georgia,GEO,1989,Population growth (annual %),SP.POP.GROW,0.262664316118746
+Georgia,GEO,1988,Population growth (annual %),SP.POP.GROW,0.990127868199943
+Georgia,GEO,1987,Population growth (annual %),SP.POP.GROW,0.825576238611123
+Georgia,GEO,1986,Population growth (annual %),SP.POP.GROW,0.888192528985836
+Georgia,GEO,1985,Population growth (annual %),SP.POP.GROW,0.876678994769127
+Georgia,GEO,1984,Population growth (annual %),SP.POP.GROW,0.853879670691174
+Georgia,GEO,1983,Population growth (annual %),SP.POP.GROW,0.878842348486769
+Georgia,GEO,1982,Population growth (annual %),SP.POP.GROW,0.846666492599661
+Georgia,GEO,1981,Population growth (annual %),SP.POP.GROW,0.820316229275049
+Georgia,GEO,1980,Population growth (annual %),SP.POP.GROW,0.842900505178333
+Georgia,GEO,1979,Population growth (annual %),SP.POP.GROW,0.73630527828658
+Georgia,GEO,1978,Population growth (annual %),SP.POP.GROW,0.583823410216356
+Georgia,GEO,1977,Population growth (annual %),SP.POP.GROW,0.681625222138157
+Georgia,GEO,1976,Population growth (annual %),SP.POP.GROW,0.721090302126311
+Georgia,GEO,1975,Population growth (annual %),SP.POP.GROW,0.738010729762246
+Georgia,GEO,1974,Population growth (annual %),SP.POP.GROW,0.868346221328303
+Georgia,GEO,1973,Population growth (annual %),SP.POP.GROW,0.880708360764379
+Georgia,GEO,1972,Population growth (annual %),SP.POP.GROW,1.01096663057623
+Georgia,GEO,1971,Population growth (annual %),SP.POP.GROW,1.04070769906296
+Georgia,GEO,1970,Population growth (annual %),SP.POP.GROW,0.965837609752831
+Georgia,GEO,1969,Population growth (annual %),SP.POP.GROW,0.935667821463932
+Georgia,GEO,1968,Population growth (annual %),SP.POP.GROW,0.907052602504574
+Georgia,GEO,1967,Population growth (annual %),SP.POP.GROW,0.98087961095848
+Georgia,GEO,1966,Population growth (annual %),SP.POP.GROW,1.14347809836994
+Georgia,GEO,1965,Population growth (annual %),SP.POP.GROW,1.31677103746475
+Georgia,GEO,1964,Population growth (annual %),SP.POP.GROW,1.41030647236467
+Georgia,GEO,1963,Population growth (annual %),SP.POP.GROW,1.47302172404034
+Georgia,GEO,1962,Population growth (annual %),SP.POP.GROW,1.51934218612588
+Georgia,GEO,1961,Population growth (annual %),SP.POP.GROW,1.57843586242192
+Georgia,GEO,1960,Population growth (annual %),SP.POP.GROW,1.8437529183647
+Georgia,GEO,2017,Population density (people per sq. km of land area),EN.POP.DNST,65.0320165156234
+Georgia,GEO,2016,Population density (people per sq. km of land area),EN.POP.DNST,65.0705063158263
+Georgia,GEO,2015,Population density (people per sq. km of land area),EN.POP.DNST,65.0320165156234
+Georgia,GEO,2014,Population density (people per sq. km of land area),EN.POP.DNST,65.2052206165366
+Georgia,GEO,2013,Population density (people per sq. km of land area),EN.POP.DNST,66.0624934392386
+Georgia,GEO,2012,Population density (people per sq. km of land area),EN.POP.DNST,66.9197662619406
+Georgia,GEO,2011,Population density (people per sq. km of land area),EN.POP.DNST,67.7945344483712
+Georgia,GEO,2010,Population density (people per sq. km of land area),EN.POP.DNST,68.6867979985304
+Georgia,GEO,2009,Population density (people per sq. km of land area),EN.POP.DNST,69.5965569124182
+Georgia,GEO,2008,Population density (people per sq. km of land area),EN.POP.DNST,70.506315826306
+Georgia,GEO,2007,Population density (people per sq. km of land area),EN.POP.DNST,71.4160747401938
+Georgia,GEO,2006,Population density (people per sq. km of land area),EN.POP.DNST,72.3608243815389
+Georgia,GEO,2005,Population density (people per sq. km of land area),EN.POP.DNST,73.3055740228839
+Georgia,GEO,2004,Population density (people per sq. km of land area),EN.POP.DNST,74.2678190279576
+Georgia,GEO,2003,Population density (people per sq. km of land area),EN.POP.DNST,75.2475593967599
+Georgia,GEO,2002,Population density (people per sq. km of land area),EN.POP.DNST,76.2272997655621
+Georgia,GEO,2001,Population density (people per sq. km of land area),EN.POP.DNST,76.7416634591833
+Georgia,GEO,2000,Population density (people per sq. km of land area),EN.POP.DNST,77.299765562126
+Georgia,GEO,1999,Population density (people per sq. km of land area),EN.POP.DNST,77.8981070016446
+Georgia,GEO,1998,Population density (people per sq. km of land area),EN.POP.DNST,78.5069456594003
+Georgia,GEO,1997,Population density (people per sq. km of land area),EN.POP.DNST,79.2819902725778
+Georgia,GEO,1996,Population density (people per sq. km of land area),EN.POP.DNST,80.7603485076455
+Georgia,GEO,1995,Population density (people per sq. km of land area),EN.POP.DNST,82.8230518912488
+Georgia,GEO,1994,Population density (people per sq. km of land area),EN.POP.DNST,85.0554603030197
+Georgia,GEO,1993,Population density (people per sq. km of land area),EN.POP.DNST,85.921480807586
+Georgia,GEO,1992,Population density (people per sq. km of land area),EN.POP.DNST,85.2636551313902
+Georgia,GEO,1991,Population density (people per sq. km of land area),EN.POP.DNST,84.6058294551944
+Georgia,GEO,1990,Population density (people per sq. km of land area),EN.POP.DNST,84.0127366247944
+Georgia,GEO,1989,Population density (people per sq. km of land area),EN.POP.DNST,84.0354805976416
+Georgia,GEO,1988,Population density (people per sq. km of land area),EN.POP.DNST,83.8150390146611
+Georgia,GEO,1987,Population density (people per sq. km of land area),EN.POP.DNST,82.9892578466706
+Georgia,GEO,1986,Population density (people per sq. km of land area),EN.POP.DNST,82.3069386612548
+Georgia,GEO,1985,Population density (people per sq. km of land area),EN.POP.DNST,81.5791315301445
+Georgia,GEO,1984,Population density (people per sq. km of land area),EN.POP.DNST,80.86707022639
+Georgia,GEO,1983,Population density (people per sq. km of land area),EN.POP.DNST,80.1795024318556
+Georgia,GEO,1982,Population density (people per sq. km of land area),EN.POP.DNST,79.4779383463382
+Georgia,GEO,1981,Population density (people per sq. km of land area),EN.POP.DNST,78.8078659155324
+Georgia,GEO,1980,Population density (people per sq. km of land area),EN.POP.DNST,78.1640365303195
+Georgia,GEO,1979,Population density (people per sq. km of land area),EN.POP.DNST,77.5079603904965
+Georgia,GEO,1978,Population density (people per sq. km of land area),EN.POP.DNST,76.9393610693166
+Georgia,GEO,1977,Population density (people per sq. km of land area),EN.POP.DNST,76.4914797578642
+Georgia,GEO,1976,Population density (people per sq. km of land area),EN.POP.DNST,75.9718674551244
+Georgia,GEO,1975,Population density (people per sq. km of land area),EN.POP.DNST,75.4260121067917
+Georgia,GEO,1974,Population density (people per sq. km of land area),EN.POP.DNST,74.8714090765947
+Georgia,GEO,1973,Population density (people per sq. km of land area),EN.POP.DNST,74.2240806186361
+Georgia,GEO,1972,Population density (people per sq. km of land area),EN.POP.DNST,73.5732530879317
+Georgia,GEO,1971,Population density (people per sq. km of land area),EN.POP.DNST,72.8331992022114
+Georgia,GEO,1970,Population density (people per sq. km of land area),EN.POP.DNST,72.0791490255082
+Georgia,GEO,1969,Population density (people per sq. km of land area),EN.POP.DNST,71.3863326218552
+Georgia,GEO,1968,Population density (people per sq. km of land area),EN.POP.DNST,70.721508800168
+Georgia,GEO,1967,Population density (people per sq. km of land area),EN.POP.DNST,70.0829280240736
+Georgia,GEO,1966,Population density (people per sq. km of land area),EN.POP.DNST,69.3988593022849
+Georgia,GEO,1965,Population density (people per sq. km of land area),EN.POP.DNST,68.6098183981245
+Georgia,GEO,1964,Population density (people per sq. km of land area),EN.POP.DNST,67.7123062388467
+Georgia,GEO,1963,Population density (people per sq. km of land area),EN.POP.DNST,66.7640575247559
+Georgia,GEO,1962,Population density (people per sq. km of land area),EN.POP.DNST,65.7878162286994
+Georgia,GEO,1961,Population density (people per sq. km of land area),EN.POP.DNST,64.7958291052871
+Georgia,GEO,1960,Population density (people per sq. km of land area),EN.POP.DNST,
+Georgia,GEO,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1077597
+Georgia,GEO,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1077861
+Georgia,GEO,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1078125
+Georgia,GEO,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1078389
+Georgia,GEO,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1078653
+Georgia,GEO,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1078917
+Georgia,GEO,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1079181
+Georgia,GEO,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1079445
+Georgia,GEO,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1079710
+Georgia,GEO,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1079974
+Georgia,GEO,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1080238
+Georgia,GEO,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1080503
+Georgia,GEO,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1080767
+Georgia,GEO,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1081032
+Georgia,GEO,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1081297
+Georgia,GEO,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1081561
+Georgia,GEO,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1088126
+Georgia,GEO,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1099798
+Georgia,GEO,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1111629
+Georgia,GEO,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1123569
+Georgia,GEO,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1135639
+Georgia,GEO,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1147821
+Georgia,GEO,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1160168
+Georgia,GEO,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1172630
+Georgia,GEO,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1185226
+Georgia,GEO,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1197940
+Georgia,GEO,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1210826
+Georgia,GEO,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1223833
+Georgia,GEO,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1236979
+Georgia,GEO,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1232999
+Georgia,GEO,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1214148
+Georgia,GEO,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1195610
+Georgia,GEO,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1177355
+Georgia,GEO,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1159403
+Georgia,GEO,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1141676
+Georgia,GEO,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1124245
+Georgia,GEO,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1107079
+Georgia,GEO,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1090199
+Georgia,GEO,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1073531
+Georgia,GEO,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1054397
+Georgia,GEO,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1033338
+Georgia,GEO,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1012728
+Georgia,GEO,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,992474
+Georgia,GEO,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,972652
+Georgia,GEO,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,953226
+Georgia,GEO,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,934213
+Georgia,GEO,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,915529
+Georgia,GEO,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,897244
+Georgia,GEO,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,878251
+Georgia,GEO,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,858803
+Georgia,GEO,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,839733
+Georgia,GEO,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,821112
+Georgia,GEO,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,802904
+Georgia,GEO,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,785124
+Georgia,GEO,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,767690
+Georgia,GEO,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,750667
+Georgia,GEO,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,734021
+Georgia,GEO,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,717766
+Georgia,GEO,2017,GNI (current US$),NY.GNP.MKTP.CD,14346202151.8231
+Georgia,GEO,2016,GNI (current US$),NY.GNP.MKTP.CD,13664927029.1968
+Georgia,GEO,2015,GNI (current US$),NY.GNP.MKTP.CD,13609850438.4612
+Georgia,GEO,2014,GNI (current US$),NY.GNP.MKTP.CD,16357554227.785
+Georgia,GEO,2013,GNI (current US$),NY.GNP.MKTP.CD,15835452326.5601
+Georgia,GEO,2012,GNI (current US$),NY.GNP.MKTP.CD,15700109852.8432
+Georgia,GEO,2011,GNI (current US$),NY.GNP.MKTP.CD,14012279454.4915
+Georgia,GEO,2010,GNI (current US$),NY.GNP.MKTP.CD,11279109240.8685
+Georgia,GEO,2009,GNI (current US$),NY.GNP.MKTP.CD,10649200179.587
+Georgia,GEO,2008,GNI (current US$),NY.GNP.MKTP.CD,12622775623.8261
+Georgia,GEO,2007,GNI (current US$),NY.GNP.MKTP.CD,10209837773.1218
+Georgia,GEO,2006,GNI (current US$),NY.GNP.MKTP.CD,7908694506.85239
+Georgia,GEO,2005,GNI (current US$),NY.GNP.MKTP.CD,6472996745.18674
+Georgia,GEO,2004,GNI (current US$),NY.GNP.MKTP.CD,5204305457.01169
+Georgia,GEO,2003,GNI (current US$),NY.GNP.MKTP.CD,4004833946.96369
+Georgia,GEO,2002,GNI (current US$),NY.GNP.MKTP.CD,3407398597.25828
+Georgia,GEO,2001,GNI (current US$),NY.GNP.MKTP.CD,3251966618.4274
+Georgia,GEO,2000,GNI (current US$),NY.GNP.MKTP.CD,3174766964.20794
+Georgia,GEO,1999,GNI (current US$),NY.GNP.MKTP.CD,2945273401.97204
+Georgia,GEO,1998,GNI (current US$),NY.GNP.MKTP.CD,3805176980.64451
+Georgia,GEO,1997,GNI (current US$),NY.GNP.MKTP.CD,3638003082.85164
+Georgia,GEO,1996,GNI (current US$),NY.GNP.MKTP.CD,3023803439.73425
+Georgia,GEO,1995,GNI (current US$),NY.GNP.MKTP.CD,2574157898.51118
+Georgia,GEO,1994,GNI (current US$),NY.GNP.MKTP.CD,2469184816.65628
+Georgia,GEO,1993,GNI (current US$),NY.GNP.MKTP.CD,2655565567.92367
+Georgia,GEO,1992,GNI (current US$),NY.GNP.MKTP.CD,3665594855.30547
+Georgia,GEO,1991,GNI (current US$),NY.GNP.MKTP.CD,6357615894.03974
+Georgia,GEO,1990,GNI (current US$),NY.GNP.MKTP.CD,7753501867.76095
+Georgia,GEO,1989,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1988,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1987,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1986,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1985,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1984,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1983,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1982,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1981,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1980,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1979,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1978,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1977,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1976,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1975,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1974,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1973,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1972,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1971,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1970,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1969,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1968,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1967,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1966,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1965,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1964,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1963,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1962,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1961,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,1960,GNI (current US$),NY.GNP.MKTP.CD,
+Georgia,GEO,2017,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,2016,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4.2
+Georgia,GEO,2015,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,4
+Georgia,GEO,2014,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,5.3
+Georgia,GEO,2013,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,6.9
+Georgia,GEO,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,9
+Georgia,GEO,2011,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11.6
+Georgia,GEO,2010,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,13.3
+Georgia,GEO,2009,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,10.4
+Georgia,GEO,2008,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,12.4
+Georgia,GEO,2007,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,13.3
+Georgia,GEO,2006,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11.6
+Georgia,GEO,2005,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,12.1
+Georgia,GEO,2004,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11.3
+Georgia,GEO,2003,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11.6
+Georgia,GEO,2002,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,11.5
+Georgia,GEO,2001,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,20.9
+Georgia,GEO,2000,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,21
+Georgia,GEO,1999,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,19.9
+Georgia,GEO,1998,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,15.7
+Georgia,GEO,1997,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,17.6
+Georgia,GEO,1996,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,6
+Georgia,GEO,1995,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1994,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1993,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1992,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1991,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1990,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1989,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1988,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1987,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1986,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1985,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1984,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1983,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1982,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1981,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1980,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1979,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1978,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1977,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1976,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1975,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1974,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1973,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1972,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1971,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1970,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1969,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1968,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1967,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1966,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1965,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1964,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1963,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1962,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1961,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,1960,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+Georgia,GEO,2017,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+Georgia,GEO,2016,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,77.783
+Georgia,GEO,2015,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,78.849
+Georgia,GEO,2014,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,79.915
+Georgia,GEO,2013,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,80.981
+Georgia,GEO,2012,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,82.047
+Georgia,GEO,2011,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,81.155
+Georgia,GEO,2010,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,80.263
+Georgia,GEO,2009,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,79.37
+Georgia,GEO,2008,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,78.478
+Georgia,GEO,2007,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,77.586
+Georgia,GEO,2006,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,76.687
+Georgia,GEO,2005,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,75.789
+Georgia,GEO,2004,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,74.89
+Georgia,GEO,2003,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,73.991
+Georgia,GEO,2002,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,73.093
+Georgia,GEO,2001,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,74.787
+Georgia,GEO,2000,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,76.481
+Georgia,GEO,1999,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,78.176
+Georgia,GEO,1998,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,79.87
+Georgia,GEO,1997,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,81.565
+Georgia,GEO,1996,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,82.064
+Georgia,GEO,1995,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,82.563
+Georgia,GEO,1994,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,83.062
+Georgia,GEO,1993,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,83.561
+Georgia,GEO,1992,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,84.06
+Georgia,GEO,1991,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,84.773
+Georgia,GEO,1990,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,85.487
+Georgia,GEO,1989,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,86.201
+Georgia,GEO,1988,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,86.914
+Georgia,GEO,1987,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,87.628
+Georgia,GEO,1986,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,88.935
+Georgia,GEO,1985,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,90.243
+Georgia,GEO,1984,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,91.55
+Georgia,GEO,1983,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,92.857
+Georgia,GEO,1982,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,94.164
+Georgia,GEO,1981,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,93.78
+Georgia,GEO,1980,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,93.396
+Georgia,GEO,1979,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,93.012
+Georgia,GEO,1978,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,92.628
+Georgia,GEO,1977,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,92.244
+Georgia,GEO,1976,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,94.97
+Georgia,GEO,1975,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,97.696
+Georgia,GEO,1974,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,100.422
+Georgia,GEO,1973,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,103.148
+Georgia,GEO,1972,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,105.874
+Georgia,GEO,1971,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,108.242
+Georgia,GEO,1970,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,110.609
+Georgia,GEO,1969,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,112.976
+Georgia,GEO,1968,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,115.344
+Georgia,GEO,1967,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,117.711
+Georgia,GEO,1966,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,121.431
+Georgia,GEO,1965,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,125.152
+Georgia,GEO,1964,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,128.873
+Georgia,GEO,1963,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,132.593
+Georgia,GEO,1962,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,136.314
+Georgia,GEO,1961,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,141.026
+Georgia,GEO,1960,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,145.739
+Georgia,GEO,2017,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+Georgia,GEO,2016,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,223.8
+Georgia,GEO,2015,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,226.521
+Georgia,GEO,2014,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,229.241
+Georgia,GEO,2013,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,231.962
+Georgia,GEO,2012,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,234.683
+Georgia,GEO,2011,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,230.144
+Georgia,GEO,2010,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,225.605
+Georgia,GEO,2009,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,221.066
+Georgia,GEO,2008,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,216.527
+Georgia,GEO,2007,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,211.988
+Georgia,GEO,2006,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,207.315
+Georgia,GEO,2005,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,202.643
+Georgia,GEO,2004,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,197.97
+Georgia,GEO,2003,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,193.298
+Georgia,GEO,2002,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,188.625
+Georgia,GEO,2001,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,192.919
+Georgia,GEO,2000,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,197.213
+Georgia,GEO,1999,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,201.506
+Georgia,GEO,1998,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,205.8
+Georgia,GEO,1997,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,210.094
+Georgia,GEO,1996,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,212.103
+Georgia,GEO,1995,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,214.112
+Georgia,GEO,1994,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,216.122
+Georgia,GEO,1993,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,218.131
+Georgia,GEO,1992,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,220.141
+Georgia,GEO,1991,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,219.189
+Georgia,GEO,1990,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,218.237
+Georgia,GEO,1989,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,217.285
+Georgia,GEO,1988,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,216.334
+Georgia,GEO,1987,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,215.382
+Georgia,GEO,1986,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,217.702
+Georgia,GEO,1985,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,220.023
+Georgia,GEO,1984,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,222.343
+Georgia,GEO,1983,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,224.664
+Georgia,GEO,1982,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,226.984
+Georgia,GEO,1981,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,226.558
+Georgia,GEO,1980,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,226.132
+Georgia,GEO,1979,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,225.706
+Georgia,GEO,1978,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,225.28
+Georgia,GEO,1977,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,224.854
+Georgia,GEO,1976,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,229.377
+Georgia,GEO,1975,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,233.899
+Georgia,GEO,1974,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,238.421
+Georgia,GEO,1973,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,242.944
+Georgia,GEO,1972,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,247.466
+Georgia,GEO,1971,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,251.038
+Georgia,GEO,1970,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,254.609
+Georgia,GEO,1969,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,258.18
+Georgia,GEO,1968,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,261.752
+Georgia,GEO,1967,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,265.323
+Georgia,GEO,1966,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,270.894
+Georgia,GEO,1965,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,276.465
+Georgia,GEO,1964,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,282.036
+Georgia,GEO,1963,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,287.607
+Georgia,GEO,1962,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,293.178
+Georgia,GEO,1961,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,299.578
+Georgia,GEO,1960,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,305.978
+Georgia,GEO,2017,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2016,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.353013
+Georgia,GEO,2015,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2014,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.507491
+Georgia,GEO,2013,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2012,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.77
+Georgia,GEO,2011,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2010,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,2.61
+Georgia,GEO,2009,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2008,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2007,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2006,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2005,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2004,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2003,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2002,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2001,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2000,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1999,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1998,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1997,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1996,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1995,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1994,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1993,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1992,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1991,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1990,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1989,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1988,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1987,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1986,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1985,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1984,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1983,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1982,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1981,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1980,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1979,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1978,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1977,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1976,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1975,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1974,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1973,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1972,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1971,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1970,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1969,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1968,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1967,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1966,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1965,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1964,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1963,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1962,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1961,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,1960,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+Georgia,GEO,2017,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,2016,Rail lines (total route-km),IS.RRS.TOTL.KM,1415
+Georgia,GEO,2015,Rail lines (total route-km),IS.RRS.TOTL.KM,1491
+Georgia,GEO,2014,Rail lines (total route-km),IS.RRS.TOTL.KM,1453.4
+Georgia,GEO,2013,Rail lines (total route-km),IS.RRS.TOTL.KM,1453.4
+Georgia,GEO,2012,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,2011,Rail lines (total route-km),IS.RRS.TOTL.KM,1566
+Georgia,GEO,2010,Rail lines (total route-km),IS.RRS.TOTL.KM,1566
+Georgia,GEO,2009,Rail lines (total route-km),IS.RRS.TOTL.KM,1566
+Georgia,GEO,2008,Rail lines (total route-km),IS.RRS.TOTL.KM,1513
+Georgia,GEO,2007,Rail lines (total route-km),IS.RRS.TOTL.KM,1513
+Georgia,GEO,2006,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,2005,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,2004,Rail lines (total route-km),IS.RRS.TOTL.KM,1575
+Georgia,GEO,2003,Rail lines (total route-km),IS.RRS.TOTL.KM,1575
+Georgia,GEO,2002,Rail lines (total route-km),IS.RRS.TOTL.KM,1565
+Georgia,GEO,2001,Rail lines (total route-km),IS.RRS.TOTL.KM,1565
+Georgia,GEO,2000,Rail lines (total route-km),IS.RRS.TOTL.KM,1562
+Georgia,GEO,1999,Rail lines (total route-km),IS.RRS.TOTL.KM,1575
+Georgia,GEO,1998,Rail lines (total route-km),IS.RRS.TOTL.KM,1575
+Georgia,GEO,1997,Rail lines (total route-km),IS.RRS.TOTL.KM,1575
+Georgia,GEO,1996,Rail lines (total route-km),IS.RRS.TOTL.KM,1575
+Georgia,GEO,1995,Rail lines (total route-km),IS.RRS.TOTL.KM,1575
+Georgia,GEO,1994,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1993,Rail lines (total route-km),IS.RRS.TOTL.KM,1583
+Georgia,GEO,1992,Rail lines (total route-km),IS.RRS.TOTL.KM,1583
+Georgia,GEO,1991,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1990,Rail lines (total route-km),IS.RRS.TOTL.KM,1583
+Georgia,GEO,1989,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1988,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1987,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1986,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1985,Rail lines (total route-km),IS.RRS.TOTL.KM,1465
+Georgia,GEO,1984,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1983,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1982,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1981,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1980,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1979,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1978,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1977,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1976,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1975,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1974,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1973,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1972,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1971,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1970,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1969,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1968,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1967,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1966,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1965,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1964,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1963,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1962,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1961,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,1960,Rail lines (total route-km),IS.RRS.TOTL.KM,
+Georgia,GEO,2017,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,37635077520.1878
+Georgia,GEO,2016,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,35364389429.2282
+Georgia,GEO,2015,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,34743833777.7532
+Georgia,GEO,2014,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,34034953901.033
+Georgia,GEO,2013,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,31645188373.4897
+Georgia,GEO,2012,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,30417818963.6947
+Georgia,GEO,2011,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,27516606244.2349
+Georgia,GEO,2010,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,25102132868.8662
+Georgia,GEO,2009,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,23821302333.9946
+Georgia,GEO,2008,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,24474374496.8029
+Georgia,GEO,2007,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,23867225649.8166
+Georgia,GEO,2006,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,21053794717.4977
+Georgia,GEO,2005,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,18465736166.3769
+Georgia,GEO,2004,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,16415424940.4446
+Georgia,GEO,2003,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,14913670503.3238
+Georgia,GEO,2002,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,13166665748.2108
+Georgia,GEO,2001,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,12376148980.8334
+Georgia,GEO,2000,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,11868840467.3898
+Georgia,GEO,1999,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,11543489077.8627
+Georgia,GEO,1998,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,11064676155.2483
+Georgia,GEO,1997,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,10447534658.2705
+Georgia,GEO,1996,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,8762385630.72812
+Georgia,GEO,1995,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,7568971060.51088
+Georgia,GEO,1994,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,7427703421.06489
+Georgia,GEO,1993,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,8124445476.39378
+Georgia,GEO,1992,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,11340662405.475
+Georgia,GEO,1991,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,20259029237.1652
+Georgia,GEO,1990,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,24849717235.3469
+Georgia,GEO,1989,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1988,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1987,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1986,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1985,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1984,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1983,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1982,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1981,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1980,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1979,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1978,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1977,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1976,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1975,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1974,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1973,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1972,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1971,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1970,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1969,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1968,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1967,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1966,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1965,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1964,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1963,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1962,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1961,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,1960,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+Georgia,GEO,2017,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,10698.6808704272
+Georgia,GEO,2016,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,10004.5284138636
+Georgia,GEO,2015,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,9610.54338228378
+Georgia,GEO,2014,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,9216.71626359249
+Georgia,GEO,2013,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,8541.81225964198
+Georgia,GEO,2012,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,8026.50718674543
+Georgia,GEO,2011,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,7315.0908976643
+Georgia,GEO,2010,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,6597.56854892246
+Georgia,GEO,2009,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,6054.39489734577
+Georgia,GEO,2008,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,6155.92744153496
+Georgia,GEO,2007,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5825.77326507009
+Georgia,GEO,2006,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,4985.27652284394
+Georgia,GEO,2005,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,4364.78650465253
+Georgia,GEO,2004,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,3808.34501162892
+Georgia,GEO,2003,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,3455.75504757794
+Georgia,GEO,2002,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,3011.61687737918
+Georgia,GEO,2001,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,2793.30265052067
+Georgia,GEO,2000,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,2587.02780948458
+Georgia,GEO,1999,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,2464.73002348505
+Georgia,GEO,1998,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,2341.56821514743
+Georgia,GEO,1997,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,2224.70901994107
+Georgia,GEO,1996,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,1942.86396845216
+Georgia,GEO,1995,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,1673.12262507415
+Georgia,GEO,1994,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,1555.48078304164
+Georgia,GEO,1993,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,1682.71924484684
+Georgia,GEO,1992,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,2342.70751898451
+Georgia,GEO,1991,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,4189.29862841771
+Georgia,GEO,1990,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,5174.86822893522
+Georgia,GEO,1989,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1988,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1987,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1986,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1985,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1984,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1983,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1982,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1981,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1980,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1979,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1978,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1977,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1976,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1975,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1974,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1973,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1972,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1971,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1970,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1969,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1968,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1967,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1966,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1965,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1964,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1963,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1962,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1961,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,1960,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+Georgia,GEO,2017,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,10120
+Georgia,GEO,2016,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,9510
+Georgia,GEO,2015,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,9350
+Georgia,GEO,2014,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,9130
+Georgia,GEO,2013,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,8380
+Georgia,GEO,2012,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,7950
+Georgia,GEO,2011,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,7100
+Georgia,GEO,2010,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,6390
+Georgia,GEO,2009,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5990
+Georgia,GEO,2008,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,6070
+Georgia,GEO,2007,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5850
+Georgia,GEO,2006,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5090
+Georgia,GEO,2005,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,4410
+Georgia,GEO,2004,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,3870
+Georgia,GEO,2003,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,3470
+Georgia,GEO,2002,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,3020
+Georgia,GEO,2001,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,2820
+Georgia,GEO,2000,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,2690
+Georgia,GEO,1999,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,2590
+Georgia,GEO,1998,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,2470
+Georgia,GEO,1997,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,2310
+Georgia,GEO,1996,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,1900
+Georgia,GEO,1995,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,1600
+Georgia,GEO,1994,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,1530
+Georgia,GEO,1993,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,1650
+Georgia,GEO,1992,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,2330
+Georgia,GEO,1991,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,4190
+Georgia,GEO,1990,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,5170
+Georgia,GEO,1989,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1988,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1987,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1986,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1985,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1984,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1983,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1982,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1981,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1980,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1979,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1978,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1977,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1976,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1975,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1974,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1973,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1972,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1971,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1970,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1969,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1968,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1967,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1966,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1965,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1964,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1963,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1962,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1961,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,1960,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+Georgia,GEO,2017,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,2016,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,124.415884709488
+Georgia,GEO,2015,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,120.774259503376
+Georgia,GEO,2014,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,151.263751006171
+Georgia,GEO,2013,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,171.162605932203
+Georgia,GEO,2012,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,172.337254901961
+Georgia,GEO,2011,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,151.592258064516
+Georgia,GEO,2010,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,159.740193581253
+Georgia,GEO,2009,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,227.792860734037
+Georgia,GEO,2008,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,220.342431761787
+Georgia,GEO,2007,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,93.5644292013719
+Georgia,GEO,2006,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,86.3612185686654
+Georgia,GEO,2005,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,70.0095465393795
+Georgia,GEO,2004,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,74.0188457008245
+Georgia,GEO,2003,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,53.1667054173448
+Georgia,GEO,2002,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,72.8046821207253
+Georgia,GEO,2001,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,67.054988145176
+Georgia,GEO,2000,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,38.9176832718466
+Georgia,GEO,1999,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,55.4385176866929
+Georgia,GEO,1998,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,46.5023510797139
+Georgia,GEO,1997,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,53.4093918262865
+Georgia,GEO,1996,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,67.0197786009835
+Georgia,GEO,1995,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,44.1613857203211
+Georgia,GEO,1994,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,36.4735889419121
+Georgia,GEO,1993,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,21.3353423876525
+Georgia,GEO,1992,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,4.17564378783215
+Georgia,GEO,1991,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,0.0434252155751773
+Georgia,GEO,1990,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1989,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1988,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1987,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1986,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1985,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1984,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1983,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1982,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1981,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1980,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1979,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1978,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1977,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1976,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1975,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1974,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1973,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1972,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1971,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1970,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1969,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1968,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1967,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1966,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1965,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1964,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1963,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1962,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1961,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,1960,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+Georgia,GEO,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,146.486084956242
+Georgia,GEO,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,140.924949145375
+Georgia,GEO,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,140.47061336335
+Georgia,GEO,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,135.278004461537
+Georgia,GEO,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,123.411519287379
+Georgia,GEO,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,114.384211773006
+Georgia,GEO,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,106.211270658046
+Georgia,GEO,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,94.0113586603464
+Georgia,GEO,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,66.1660714752165
+Georgia,GEO,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,63.4737498830784
+Georgia,GEO,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,59.2117817076962
+Georgia,GEO,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,38.3854003337767
+Georgia,GEO,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,26.1739819063525
+Georgia,GEO,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,18.5436574314373
+Georgia,GEO,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,15.5320214837821
+Georgia,GEO,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,10.8893419937382
+Georgia,GEO,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,6.44941249896729
+Georgia,GEO,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,4.1240696060765
+Georgia,GEO,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.79149973529117
+Georgia,GEO,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.24347538105267
+Georgia,GEO,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.614596922754181
+Georgia,GEO,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.046506304839527
+Georgia,GEO,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.00298801150025866
+Georgia,GEO,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1974,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1973,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1972,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1971,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1969,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1968,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1967,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1966,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,1964,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1963,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1962,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1961,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+Georgia,GEO,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Georgia,GEO,2017,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,23702416890.1224
+Georgia,GEO,2016,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,23158069265.0674
+Georgia,GEO,2015,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,23301840800.6488
+Georgia,GEO,2014,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,22515691425.0522
+Georgia,GEO,2013,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,22037586711.1465
+Georgia,GEO,2012,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,22181688480.6976
+Georgia,GEO,2011,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,21447469375.7908
+Georgia,GEO,2010,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2009,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2008,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2007,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2006,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2005,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2004,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2003,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2002,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2001,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2000,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1999,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1998,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1997,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1996,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1995,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1994,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1993,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1992,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1991,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1990,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1989,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1988,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1987,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1986,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1985,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1984,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1983,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1982,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1981,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1980,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1979,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1978,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1977,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1976,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1975,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1974,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1973,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1972,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1971,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1970,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1969,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1968,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1967,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1966,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1965,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1964,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1963,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1962,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1961,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,1960,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+Georgia,GEO,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Georgia,GEO,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9934997558594
+Georgia,GEO,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Georgia,GEO,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8984985351563
+Georgia,GEO,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Georgia,GEO,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6403350830078
+Georgia,GEO,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.4956359863281
+Georgia,GEO,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.3637313842774
+Georgia,GEO,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.2495574951172
+Georgia,GEO,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.1549224853516
+Georgia,GEO,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.0796051025391
+Georgia,GEO,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.9350541215654
+Georgia,GEO,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.9735412597656
+Georgia,GEO,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.9321365356445
+Georgia,GEO,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9
+Georgia,GEO,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.8426361083984
+Georgia,GEO,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.7826919555664
+Georgia,GEO,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.7058410644531
+Georgia,GEO,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.609260559082
+Georgia,GEO,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.4927673339844
+Georgia,GEO,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.3582000732422
+Georgia,GEO,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.208366394043
+Georgia,GEO,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.0462951660156
+Georgia,GEO,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.8796310424805
+Georgia,GEO,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.6999664306641
+Georgia,GEO,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.5172500610352
+Georgia,GEO,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.3340148925781
+Georgia,GEO,1989,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1988,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1987,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1986,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1985,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1984,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1983,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1982,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1981,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1980,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1979,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1978,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1977,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1976,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1975,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1974,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1973,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1972,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1971,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1970,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1969,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1968,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1967,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1966,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1965,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1964,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1963,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1962,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1961,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,1960,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+Georgia,GEO,2017,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,2016,GINI index (World Bank estimate),SI.POV.GINI,36.5
+Georgia,GEO,2015,GINI index (World Bank estimate),SI.POV.GINI,36.4
+Georgia,GEO,2014,GINI index (World Bank estimate),SI.POV.GINI,37.3
+Georgia,GEO,2013,GINI index (World Bank estimate),SI.POV.GINI,38.4
+Georgia,GEO,2012,GINI index (World Bank estimate),SI.POV.GINI,38.8
+Georgia,GEO,2011,GINI index (World Bank estimate),SI.POV.GINI,39.5
+Georgia,GEO,2010,GINI index (World Bank estimate),SI.POV.GINI,40.1
+Georgia,GEO,2009,GINI index (World Bank estimate),SI.POV.GINI,38.1
+Georgia,GEO,2008,GINI index (World Bank estimate),SI.POV.GINI,38.2
+Georgia,GEO,2007,GINI index (World Bank estimate),SI.POV.GINI,38.3
+Georgia,GEO,2006,GINI index (World Bank estimate),SI.POV.GINI,36.9
+Georgia,GEO,2005,GINI index (World Bank estimate),SI.POV.GINI,37.3
+Georgia,GEO,2004,GINI index (World Bank estimate),SI.POV.GINI,36.3
+Georgia,GEO,2003,GINI index (World Bank estimate),SI.POV.GINI,36.7
+Georgia,GEO,2002,GINI index (World Bank estimate),SI.POV.GINI,37.3
+Georgia,GEO,2001,GINI index (World Bank estimate),SI.POV.GINI,39.6
+Georgia,GEO,2000,GINI index (World Bank estimate),SI.POV.GINI,40.5
+Georgia,GEO,1999,GINI index (World Bank estimate),SI.POV.GINI,40.1
+Georgia,GEO,1998,GINI index (World Bank estimate),SI.POV.GINI,41.3
+Georgia,GEO,1997,GINI index (World Bank estimate),SI.POV.GINI,40.7
+Georgia,GEO,1996,GINI index (World Bank estimate),SI.POV.GINI,37.1
+Georgia,GEO,1995,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1994,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1993,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1992,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1991,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1990,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1989,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1988,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1987,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1986,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1985,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1984,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1983,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1982,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1981,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1980,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1979,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1978,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1977,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1976,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1975,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1974,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1973,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1972,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1971,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1970,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1969,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1968,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1967,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1966,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1965,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1964,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1963,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1962,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1961,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,1960,GINI index (World Bank estimate),SI.POV.GINI,
+Georgia,GEO,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.03531725272117
+Georgia,GEO,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.13492713939124
+Georgia,GEO,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.00357820695098
+Georgia,GEO,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.06881210379542
+Georgia,GEO,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.512058410947118
+Georgia,GEO,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.943658853270966
+Georgia,GEO,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.54293333333334
+Georgia,GEO,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.11017897486101
+Georgia,GEO,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.72751461137912
+Georgia,GEO,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.99941570869209
+Georgia,GEO,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.24495670510486
+Georgia,GEO,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.1610600644181
+Georgia,GEO,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,8.24709043114158
+Georgia,GEO,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.65632636191135
+Georgia,GEO,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.83773453153656
+Georgia,GEO,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.58783730000794
+Georgia,GEO,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.64604442058634
+Georgia,GEO,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.06396201382593
+Georgia,GEO,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,19.1926758218895
+Georgia,GEO,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.56680781278784
+Georgia,GEO,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.08761762948722
+Georgia,GEO,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,39.3574999987146
+Georgia,GEO,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,162.717152150377
+Georgia,GEO,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1985,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1984,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1983,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1982,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1981,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1980,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1979,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1978,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1977,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1976,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1975,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1974,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1973,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1972,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1971,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1970,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1969,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1968,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1967,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1966,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1965,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1964,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1963,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1962,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1961,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,1960,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+Georgia,GEO,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7.4
+Georgia,GEO,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7.4
+Georgia,GEO,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7.5
+Georgia,GEO,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7.6
+Georgia,GEO,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,8
+Georgia,GEO,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,8.1
+Georgia,GEO,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7.7
+Georgia,GEO,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7
+Georgia,GEO,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,6.7
+Georgia,GEO,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,6.8
+Georgia,GEO,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7
+Georgia,GEO,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7.2
+Georgia,GEO,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,7.9
+Georgia,GEO,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,9.2
+Georgia,GEO,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,11.4
+Georgia,GEO,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,13.6
+Georgia,GEO,2000,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,13.5
+Georgia,GEO,1999,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1998,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1997,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1996,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1995,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1994,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1993,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1992,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1991,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1990,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1989,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1988,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1987,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1986,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1985,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1984,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1983,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1982,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1981,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1980,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1979,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1978,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1977,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1976,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1975,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1974,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1973,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1972,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1971,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1970,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1969,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1968,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1967,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1966,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1965,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1964,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1963,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1962,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1961,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,1960,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+Georgia,GEO,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,18.2468013663386
+Georgia,GEO,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,21.4100455876527
+Georgia,GEO,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,24.045583425534
+Georgia,GEO,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,27.4866957923988
+Georgia,GEO,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,29.6666510129983
+Georgia,GEO,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,31.0598168959464
+Georgia,GEO,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,32.1363157763513
+Georgia,GEO,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,26.2756633860794
+Georgia,GEO,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,14.4599803717428
+Georgia,GEO,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,14.2385901761865
+Georgia,GEO,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.6658824038528
+Georgia,GEO,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.4604180859385
+Georgia,GEO,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.7091056886287
+Georgia,GEO,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,15.0712644063557
+Georgia,GEO,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,14.5688589983757
+Georgia,GEO,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,13.846845755998
+Georgia,GEO,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.1793722049878
+Georgia,GEO,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.7739018085119
+Georgia,GEO,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,14.0684522169653
+Georgia,GEO,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,13.0310002557414
+Georgia,GEO,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.630315034188
+Georgia,GEO,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,11.4729032025859
+Georgia,GEO,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,11.0416984972892
+Georgia,GEO,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.2903200165085
+Georgia,GEO,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.9689941694267
+Georgia,GEO,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.8095640576616
+Georgia,GEO,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.367462107466
+Georgia,GEO,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.98082941431754
+Georgia,GEO,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.42324737299264
+Georgia,GEO,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.01334700140813
+Georgia,GEO,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,8.63488478435689
+Georgia,GEO,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,8.35417763943597
+Georgia,GEO,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,8.05919130620494
+Georgia,GEO,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,7.74572789219186
+Georgia,GEO,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,7.41842079781602
+Georgia,GEO,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,7.07893046799203
+Georgia,GEO,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.73104049017812
+Georgia,GEO,1980,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.37727394656402
+Georgia,GEO,1979,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,5.9170849912036
+Georgia,GEO,1978,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,5.44849047553416
+Georgia,GEO,1977,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,5.27678353253868
+Georgia,GEO,1976,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.99981735361096
+Georgia,GEO,1975,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.51409927612314
+Georgia,GEO,1974,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1973,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1972,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1971,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1970,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1969,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1968,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1967,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1966,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1965,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1964,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1963,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1962,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1961,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,1960,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+Georgia,GEO,2017,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,9745.07890399104
+Georgia,GEO,2016,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,9276.76624499826
+Georgia,GEO,2015,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,9025.13314265612
+Georgia,GEO,2014,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,8749.15618927352
+Georgia,GEO,2013,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,8254.01076569103
+Georgia,GEO,2012,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,7881.32904812669
+Georgia,GEO,2011,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,7315.0908976643
+Georgia,GEO,2010,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6733.78376130988
+Georgia,GEO,2009,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6254.86760822712
+Georgia,GEO,2008,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6408.06033535279
+Georgia,GEO,2007,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6183.34349236755
+Georgia,GEO,2006,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,5432.07754056497
+Georgia,GEO,2005,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,4902.09293431362
+Georgia,GEO,2004,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,4414.77666096774
+Georgia,GEO,2003,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,4116.19608418348
+Georgia,GEO,2002,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,3658.70749688075
+Georgia,GEO,2001,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,3445.57944171158
+Georgia,GEO,2000,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,3263.85926179743
+Georgia,GEO,1999,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,3180.32407760557
+Georgia,GEO,1998,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,3067.64146291545
+Georgia,GEO,1997,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,2946.17687710001
+Georgia,GEO,1996,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,2616.96593728235
+Georgia,GEO,1995,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,2294.77561882095
+Georgia,GEO,1994,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,2177.91996806486
+Georgia,GEO,1993,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,2406.21439423382
+Georgia,GEO,1992,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,3429.67306439336
+Georgia,GEO,1991,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,6272.84825599734
+Georgia,GEO,1990,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,8006.50423395592
+Georgia,GEO,1989,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1988,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1987,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1986,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1985,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1984,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1983,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1982,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1981,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1980,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1979,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1978,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1977,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1976,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1975,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1974,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1973,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1972,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1971,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1970,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1969,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1968,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1967,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1966,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1965,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1964,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1963,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1962,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1961,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,1960,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+Georgia,GEO,2017,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Georgia,GEO,2016,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Georgia,GEO,2015,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Georgia,GEO,2014,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4
+Georgia,GEO,2013,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+Georgia,GEO,2012,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+Georgia,GEO,2011,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.3
+Georgia,GEO,2010,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+Georgia,GEO,2009,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+Georgia,GEO,2008,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+Georgia,GEO,2007,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.2
+Georgia,GEO,2006,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,2005,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,2004,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,2003,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,2002,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,2001,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,2000,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1999,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1998,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1997,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1996,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1995,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1994,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1993,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1992,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1991,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1990,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1
+Georgia,GEO,1989,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1988,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1987,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1986,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1985,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1984,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1983,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1982,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1981,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1980,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1979,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1978,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1977,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1976,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1975,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1974,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1973,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1972,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1971,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1970,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1969,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1968,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1967,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1966,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1965,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1964,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1963,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1962,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1961,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,1960,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+Georgia,GEO,2017,Urban population (% of total),SP.URB.TOTL.IN.ZS,58.231
+Georgia,GEO,2016,Urban population (% of total),SP.URB.TOTL.IN.ZS,57.837
+Georgia,GEO,2015,Urban population (% of total),SP.URB.TOTL.IN.ZS,57.448
+Georgia,GEO,2014,Urban population (% of total),SP.URB.TOTL.IN.ZS,57.067
+Georgia,GEO,2013,Urban population (% of total),SP.URB.TOTL.IN.ZS,56.685
+Georgia,GEO,2012,Urban population (% of total),SP.URB.TOTL.IN.ZS,56.303
+Georgia,GEO,2011,Urban population (% of total),SP.URB.TOTL.IN.ZS,55.919
+Georgia,GEO,2010,Urban population (% of total),SP.URB.TOTL.IN.ZS,55.535
+Georgia,GEO,2009,Urban population (% of total),SP.URB.TOTL.IN.ZS,55.15
+Georgia,GEO,2008,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.765
+Georgia,GEO,2007,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.379
+Georgia,GEO,2006,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.992
+Georgia,GEO,2005,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.605
+Georgia,GEO,2004,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.218
+Georgia,GEO,2003,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.83
+Georgia,GEO,2002,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.441
+Georgia,GEO,2001,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.398
+Georgia,GEO,2000,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.638
+Georgia,GEO,1999,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.879
+Georgia,GEO,1998,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.12
+Georgia,GEO,1997,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.36
+Georgia,GEO,1996,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.6
+Georgia,GEO,1995,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.841
+Georgia,GEO,1994,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.08
+Georgia,GEO,1993,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.32
+Georgia,GEO,1992,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.559
+Georgia,GEO,1991,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.799
+Georgia,GEO,1990,Urban population (% of total),SP.URB.TOTL.IN.ZS,55.038
+Georgia,GEO,1989,Urban population (% of total),SP.URB.TOTL.IN.ZS,55.277
+Georgia,GEO,1988,Urban population (% of total),SP.URB.TOTL.IN.ZS,55.208
+Georgia,GEO,1987,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.87
+Georgia,GEO,1986,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.532
+Georgia,GEO,1985,Urban population (% of total),SP.URB.TOTL.IN.ZS,54.194
+Georgia,GEO,1984,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.855
+Georgia,GEO,1983,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.516
+Georgia,GEO,1982,Urban population (% of total),SP.URB.TOTL.IN.ZS,53.176
+Georgia,GEO,1981,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.836
+Georgia,GEO,1980,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.497
+Georgia,GEO,1979,Urban population (% of total),SP.URB.TOTL.IN.ZS,52.156
+Georgia,GEO,1978,Urban population (% of total),SP.URB.TOTL.IN.ZS,51.747
+Georgia,GEO,1977,Urban population (% of total),SP.URB.TOTL.IN.ZS,51.279
+Georgia,GEO,1976,Urban population (% of total),SP.URB.TOTL.IN.ZS,50.812
+Georgia,GEO,1975,Urban population (% of total),SP.URB.TOTL.IN.ZS,50.344
+Georgia,GEO,1974,Urban population (% of total),SP.URB.TOTL.IN.ZS,49.876
+Georgia,GEO,1973,Urban population (% of total),SP.URB.TOTL.IN.ZS,49.409
+Georgia,GEO,1972,Urban population (% of total),SP.URB.TOTL.IN.ZS,48.942
+Georgia,GEO,1971,Urban population (% of total),SP.URB.TOTL.IN.ZS,48.474
+Georgia,GEO,1970,Urban population (% of total),SP.URB.TOTL.IN.ZS,48.006
+Georgia,GEO,1969,Urban population (% of total),SP.URB.TOTL.IN.ZS,47.522
+Georgia,GEO,1968,Urban population (% of total),SP.URB.TOTL.IN.ZS,47.025
+Georgia,GEO,1967,Urban population (% of total),SP.URB.TOTL.IN.ZS,46.527
+Georgia,GEO,1966,Urban population (% of total),SP.URB.TOTL.IN.ZS,46.03
+Georgia,GEO,1965,Urban population (% of total),SP.URB.TOTL.IN.ZS,45.534
+Georgia,GEO,1964,Urban population (% of total),SP.URB.TOTL.IN.ZS,45.039
+Georgia,GEO,1963,Urban population (% of total),SP.URB.TOTL.IN.ZS,44.544
+Georgia,GEO,1962,Urban population (% of total),SP.URB.TOTL.IN.ZS,44.051
+Georgia,GEO,1961,Urban population (% of total),SP.URB.TOTL.IN.ZS,43.559
+Georgia,GEO,1960,Urban population (% of total),SP.URB.TOTL.IN.ZS,43.069
