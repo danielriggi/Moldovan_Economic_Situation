@@ -5,15 +5,15 @@ import pandas as pd
 plt.style.use("ggplot")
 
 def read_data():
-    mda_df = pd.read_csv('data/all_indicators_mda.csv')
-    rom_df = pd.read_csv('data/all_indicators_rou.csv')
-    ukr_df = pd.read_csv('data/all_indicators_ukr.csv')
-    blr_df = pd.read_csv('data/all_indicators_blr.csv')
-    geo_df = pd.read_csv('data/all_indicators_geo.csv')
-    rus_df = pd.read_csv('data/all_indicators_rus.csv')
-    fra_df = pd.read_csv('data/all_indicators_fra.csv')
-    ger_df = pd.read_csv('data/all_indicators_deu.csv')
-    gbr_df = pd.read_csv('data/all_indicators_gbr.csv')
+    mda_df = pd.read_csv('../data/all_indicators_mda.csv')
+    rom_df = pd.read_csv('../data/all_indicators_rou.csv')
+    ukr_df = pd.read_csv('../data/all_indicators_ukr.csv')
+    blr_df = pd.read_csv('../data/all_indicators_blr.csv')
+    geo_df = pd.read_csv('../data/all_indicators_geo.csv')
+    rus_df = pd.read_csv('../data/all_indicators_rus.csv')
+    fra_df = pd.read_csv('../data/all_indicators_fra.csv')
+    ger_df = pd.read_csv('../data/all_indicators_deu.csv')
+    gbr_df = pd.read_csv('../data/all_indicators_gbr.csv')
     return mda_df, rom_df, ukr_df, blr_df, geo_df, rus_df, fra_df, ger_df, gbr_df
 
 def transform_data():
